@@ -2451,28 +2451,30 @@
    "term": "Category",
    "aka": [
     "Open",
-    "Senior",
-    "Lady",
     "Junior",
+    "Lady",
+    "Men",
+    "Homme",
+    "Senior",
     "Veteran",
-    "Super Veteran"
+    "Master"
    ],
    "cat": "Results",
-   "short_en": "A ranking group by sex or age — in FITASC: Senior (main adult), Lady, Junior, Veteran and Super Veteran; Open means everyone together.",
-   "short_uk": "Залікова група за статтю чи віком: у FITASC — Senior (основна доросла), Lady, Junior, Veteran, Super Veteran; Open — усі разом.",
-   "long_en": "Results are published overall (Open) and by category. In FITASC «Senior» is the main adult men's or open category — not older shooters! Juniors are young shooters up to the age limit (in FITASC, under 21), Veterans and Super Veterans are older age groups (in FITASC roughly from 56 and from 66, but national rules differ), and Ladies have their own ranking. A shooter appears in the overall ranking and in their category at the same time.",
-   "long_uk": "Результати публікують у загальному заліку (Open) і за категоріями. У FITASC «Senior» — основна доросла категорія чоловіків або загальна, а не старші стрільці! Juniors — молоді стрільці до вікової межі (у FITASC — до 21 року), Veterans і Super Veterans — старші вікові групи (у FITASC приблизно з 56 і з 66 років, але національні правила різняться), Ladies мають власний залік. Стрілець фігурує одночасно в загальному заліку і у своїй категорії.",
-   "uk_usage": "«категорія», «сеньйори», «леді», «юніори», «ветерани», «суперветерани»",
+   "short_en": "A ranking group by age or sex; from 2027 FITASC has Junior (13–20), Lady (from 13), Men (21–55), Senior (56–65), Veteran (66–72) and Master (from 73); Open means everyone together.",
+   "short_uk": "Залікова група за віком чи статтю; з 2027 року у FITASC — Junior (13–20), Lady (з 13), Men (21–55), Senior (56–65), Veteran (66–72) і Master (з 73); Open — усі разом.",
+   "long_en": "Results are published overall (Open) and by category. From 1 January 2027 the FITASC table for Compak Sporting, Sporting and other FITASC disciplines is: Junior, boys and girls from the year they turn 13 to the year they turn 20; Lady, from the year she turns 13; Men (Homme), 21 to 55; Senior, 56 to 65; Veteran, 66 to 72; Master, men or women from the year they turn 73. Age counts by year of birth: a shooter moves up on 1 January of the year of the birthday, whatever the date. So in FITASC «Senior» is not the main adult group, which is Men; Senior means 56–65. National federations and club events may use their own categories, and older results may show other names such as Super Veteran, so check the event's programme. A shooter appears in the overall ranking and in their category at the same time.",
+   "long_uk": "Результати публікують у загальному заліку (Open) і за категоріями. З 1 січня 2027 року таблиця FITASC для Compak Sporting, Sporting та інших дисциплін FITASC така: Junior — хлопці й дівчата з року, у якому виповнюється 13, до року, у якому виповнюється 20; Lady — з року, у якому виповнюється 13; Men (Homme) — 21–55; Senior — 56–65; Veteran — 66–72; Master — чоловіки й жінки з року, у якому виповнюється 73. Вік рахують за роком народження: нова категорія діє з 1 січня року, коли настає день народження, незалежно від дати. Отже, «Senior» у FITASC — не основна доросла група (це Men), а 56–65 років. Національні федерації й клубні змагання можуть мати власні категорії, а в старих протоколах трапляються інші назви, наприклад Super Veteran, тож дивіться програму змагань. Стрілець фігурує одночасно в загальному заліку і у своїй категорії.",
+   "uk_usage": "«категорія», «юніори», «жінки», «чоловіки», «сеньйори», «ветерани», «Master»",
    "coach_en": "She's third overall and first in Lady — two medals for one score.",
    "coach_uk": "Вона третя в абсолюті й перша серед жінок — дві нагороди за один результат.",
-   "tip_uk": "Найбільша пастка: Senior у FITASC — це «дорослі», а не «літні». Не кажіть «сеньйори» в значенні «пенсіонери». Вікові межі перевіряйте в регламенті конкретних змагань.",
+   "tip_uk": "Пастка для перекладача: з 2027 року Senior у FITASC — це 56–65 років, а основна доросла категорія — Men (Homme). У старих протоколах і деяких національних програмах Senior може означати дорослих загалом, тож дивіться таблицю конкретних змагань. Категорію визначає рік народження, а не дата.",
    "related": [
     "class",
     "hoa",
     "championship"
    ],
-   "verify": true,
-   "verify_note_uk": "Категорії та вікові межі (Junior до 21, Veteran від 56, Super Veteran від 66) у довіднику правил FITASC Sporting не наведені — звірте з чинними загальними правилами FITASC і програмою змагань."
+   "verify": false,
+   "source_url": "https://www.fitasc.com/competitions/categories"
   },
   {
    "module": "sporting",
@@ -2494,7 +2496,7 @@
    "uk_usage": "«клас», «клас A», «клас B»",
    "coach_en": "With that average you'll move up to A class next season.",
    "coach_uk": "З такою середньою наступного сезону перейдеш у клас A.",
-   "tip_uk": "Не плутайте класи (AA, A, B…) зі спортивними розрядами — це різні системи.",
+   "tip_uk": "Не плутайте класи (AA, A, B…) зі спортивними розрядами — це різні системи. Клас Master у NSCA залежить від результатів і не має нічого спільного з віковою категорією Master у FITASC (з 73 років).",
    "related": [
     "category",
     "hoa",
@@ -4159,8 +4161,8 @@
    "cat": "Round & competition",
    "short_en": "The annual FITASC championship of Compak Sporting for European federations, with individual, category and team titles.",
    "short_uk": "Щорічний чемпіонат FITASC із компак-спортингу для європейських федерацій з особистими, категорійними та командними титулами.",
-   "long_en": "The European Compak Sporting Championship is organized under FITASC, usually once a year in a different country. Under the FITASC rules it is 200 targets on eight Compaks of 25 targets, shot over several days; at continental and world championships the host club’s usual machines may not be used — 48 new machines are installed and set only for the championship — and official practice opens on the Saturday before. Titles are awarded in the overall (senior) classification, in categories such as ladies, juniors, veterans and super veterans, and in team events for national teams. Entries are made through national federations. Dates, categories and any final format are published in the official programme.",
-   "long_uk": "Чемпіонат Європи з компак-спортингу проводять під егідою FITASC, зазвичай раз на рік у різних країнах. За правилами FITASC це 200 мішеней на восьми майданчиках по 25 мішеней протягом кількох днів; на континентальних і світових чемпіонатах звичайні машинки клубу-господаря використовувати не можна — встановлюють і налаштовують 48 нових машинок лише для чемпіонату, — а офіційні тренування відкриваються в суботу перед стартом. Титули розігрують у загальному (сеньйорському) заліку, у категоріях — жінки, юніори, ветерани, суперветерани тощо — та в командних змаганнях національних збірних. Заявки подають через національні федерації. Дати, категорії та формат фіналу, якщо він є, публікують в офіційній програмі.",
+   "long_en": "The European Compak Sporting Championship is organized under FITASC, usually once a year in a different country. Under the FITASC rules it is 200 targets on eight Compaks of 25 targets, shot over several days; at continental and world championships the host club’s usual machines may not be used — 48 new machines are installed and set only for the championship — and official practice opens on the Saturday before. Titles are awarded in the overall classification, in the FITASC categories (from 2027: Junior, Lady, Men, Senior, Veteran and Master) and in team events for national teams of 3 shooters per category. Entries are made through national federations. Dates, categories and any final format are published in the official programme.",
+   "long_uk": "Чемпіонат Європи з компак-спортингу проводять під егідою FITASC, зазвичай раз на рік у різних країнах. За правилами FITASC це 200 мішеней на восьми майданчиках по 25 мішеней протягом кількох днів; на континентальних і світових чемпіонатах звичайні машинки клубу-господаря використовувати не можна — встановлюють і налаштовують 48 нових машинок лише для чемпіонату, — а офіційні тренування відкриваються в суботу перед стартом. Титули розігрують у загальному заліку, у категоріях FITASC (з 2027 року — Junior, Lady, Men, Senior, Veteran і Master) та в командних змаганнях національних збірних по 3 стрільці в категорії. Заявки подають через національні федерації. Дати, категорії та формат фіналу, якщо він є, публікують в офіційній програмі.",
    "uk_usage": "«чемпіонат Європи з компаку», «Європа».",
    "coach_en": "The European Championship is 200 targets, so plan your energy over three days.",
    "coach_uk": "Чемпіонат Європи — 200 мішеней, тож розподіліть сили на три дні.",
@@ -4192,7 +4194,8 @@
      "page": 12
     }
    ],
-   "verify_note_uk": "Періодичність, категорії, командні заліки й фінали в регламенті компаку не описані — звірте з програмою чемпіонату."
+   "verify_note_uk": "Періодичність і фінали в регламенті компаку не описані — звірте з програмою чемпіонату. Категорії та склад команд звірено з таблицею FITASC (з 2027 року).",
+   "source_url": "https://www.fitasc.com/competitions/categories"
   },
   {
    "module": "compak",
@@ -4237,7 +4240,8 @@
      "page": 12
     }
    ],
-   "verify_note_uk": "Періодичність і категорії чемпіонату світу в регламенті не описані — звірте з календарем FITASC і програмою."
+   "verify_note_uk": "Періодичність чемпіонату світу в регламенті не описана — звірте з календарем FITASC і програмою. Категорії — за таблицею FITASC (з 2027 року).",
+   "source_url": "https://www.fitasc.com/competitions/categories"
   },
   {
    "module": "compak",
@@ -10758,22 +10762,22 @@
     "Divisions"
    ],
    "cat": "Events & results",
-   "short_en": "Groups such as Lady, Junior, Senior or Veteran (and in some systems classes) in which separate awards are given.",
-   "short_uk": "Групи на кшталт Lady, Junior, Senior чи Veteran (а в деяких системах і класи), у яких вручають окремі нагороди.",
-   "long_en": "Besides the overall result, competitions rank shooters by categories, usually based on age and gender: Lady, Junior, Senior, Veteran, sometimes Super Veteran. Age limits are defined by the federation. Some countries also divide shooters into classes (for example AA, A, B, C) by their averages. One shooter can appear both overall and in their category.",
-   "long_uk": "Окрім загального заліку, змагання визначають місця за категоріями, зазвичай за віком і статтю: Lady, Junior, Senior, Veteran, інколи Super Veteran. Вікові межі встановлює федерація. У деяких країнах стрільців ще ділять на класи (наприклад, AA, A, B, C) за середнім результатом. Один стрілець може бути і в загальному заліку, і у своїй категорії.",
-   "uk_usage": "«категорії», «жінки / юніори / сеньйори / ветерани», «класи».",
+   "short_en": "Groups such as Junior, Lady, Men, Senior, Veteran or Master (and in some systems classes) in which separate awards are given.",
+   "short_uk": "Групи на кшталт Junior, Lady, Men, Senior, Veteran чи Master (а в деяких системах і класи), у яких вручають окремі нагороди.",
+   "long_en": "Besides the overall result, competitions rank shooters by categories based on age and sex. From 1 January 2027 the FITASC table is: Junior 13–20, Lady from 13, Men (Homme) 21–55, Senior 56–65, Veteran 66–72 and Master from 73; age counts by year of birth, from 1 January of the year of the birthday. Category teams have 3 shooters (the Men team in Sporting has 4), and a shooter selected for a team of another category must also enter that category individually. National federations and clubs may use their own categories, and some countries also divide shooters into classes (for example AA, A, B, C) by their averages. One shooter can appear both overall and in their category.",
+   "long_uk": "Окрім загального заліку, змагання визначають місця за категоріями за віком і статтю. З 1 січня 2027 року таблиця FITASC така: Junior 13–20, Lady з 13, Men (Homme) 21–55, Senior 56–65, Veteran 66–72 і Master з 73; вік рахують за роком народження, з 1 січня року, коли настає день народження. Командні заліки категорій мають по 3 стрільці (команда Men у Sporting — 4), а стрілець, включений до команди іншої категорії, мусить виступати в ній і особисто. Національні федерації й клуби можуть мати власні категорії, а в деяких країнах стрільців ще ділять на класи (наприклад, AA, A, B, C) за середнім результатом. Один стрілець може бути і в загальному заліку, і у своїй категорії.",
+   "uk_usage": "«категорії», «юніори / жінки / чоловіки / сеньйори / ветерани», «класи».",
    "coach_en": "She's second overall and first Lady.",
    "coach_uk": "Вона друга в загальному заліку і перша серед жінок.",
-   "tip_uk": "Вікові межі категорій перевіряйте за актуальним регламентом федерації — вони змінювалися.",
+   "tip_uk": "Для туру визначайте категорію гостя за роком народження на рік змагань: на міжнародних стартах — за таблицею FITASC (з 2027 року), на національних — за програмою. Не плутайте Senior (56–65) з основною дорослою категорією Men.",
    "related": [
     "entry",
     "results",
     "trophies",
     "average"
    ],
-   "verify": true,
-   "verify_note_uk": "Категорії та вікові межі в довіднику правил FITASC Sporting і Compak не наведені — звірте з чинними загальними правилами FITASC і програмою змагань."
+   "verify": false,
+   "source_url": "https://www.fitasc.com/competitions/categories"
   },
   {
    "module": "organizer",

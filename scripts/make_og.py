@@ -49,7 +49,7 @@ def og():
     d.text((80, 92), "CLAYAWAY ACADEMY", font=font("segoeuib.ttf", 30), fill=EM)
     d.text((76, 150), "Академія", font=font("seguibl.ttf", 104), fill=INK)
     d.text((76, 270), "Віки", font=font("seguibl.ttf", 104), fill=INK)
-    d.text((80, 420), "Sporting · Compak · рушниці · техніка", font=font("segoeui.ttf", 34), fill=SOFT)
+    d.text((80, 420), "Sporting™ · Compak® · рушниці · техніка", font=font("segoeui.ttf", 34), fill=SOFT)
     d.text((80, 466), "мова тренера · 394 терміни · квізи", font=font("segoeui.ttf", 34), fill=SOFT)
     d.rounded_rectangle([80, 530, 262, 576], radius=10, fill=(0, 0, 0))
     d.text((98, 534), "ClayArena", font=font("segoeuib.ttf", 30), fill=CYAN)

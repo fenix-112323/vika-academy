@@ -8,7 +8,7 @@
 - `data/<module>.js` — 5 місій: sporting, compak, guns, technique, organizer. Формат: `data/SCHEMA.md`.
 - `data/check.mjs` — перевірка даних (дублікати id, биті посилання, мова): `cd data && bun check.mjs`.
 - `data/export.mjs` — збирає `glossary.json` (чернетка глосарію): `cd data && bun export.mjs`.
-- Сайт статичний; GitHub Pages з кореня репозиторію (`main` / `/ (root)`). Індексується: статичний глосарій `glossary/` (bun scripts/build_seo.mjs), sitemap, Course/DefinedTerm.
+- Сайт статичний; GitHub Pages з кореня репозиторію (`main` / `/ (root)`). **Особистий сайт лише для Віки**: `noindex, nofollow`, без публічного глосарію і sitemap; посилання — тільки Віці. Превʼю для месенджерів залишаємо.
 - Для програмістів: DEVELOPERS.md. Усе називаємо проєктом; коментарі в коді — для команди ClayArena.
 
 ## Правила

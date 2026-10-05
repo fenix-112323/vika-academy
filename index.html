@@ -2,7 +2,7 @@
 <html lang="uk">
 <head>
 <meta charset="utf-8">
-<meta name="robots" content="index, follow, max-image-preview:large">
+<meta name="robots" content="noindex, nofollow">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Академія Віки · ClayAway</title>
 <meta name="description" content="Навчальна академія для Віки: Sporting, Compak Sporting, рушниці, техніка й мова тренера. Терміни англійською, пояснення українською та англійською, квізи й вправи перекладу.">
@@ -24,7 +24,6 @@
 <meta name="twitter:image" content="https://fenix-112323.github.io/vika-academy/og-image.png">
 <meta name="theme-color" content="#030712">
 <link rel="canonical" href="https://fenix-112323.github.io/vika-academy/">
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Course", "name": "Академія Віки — термінологія стендової стрільби", "description": "Sporting, Compak Sporting, рушниці й набої, техніка й мова тренера, організація: 5 місій, 394 терміни, квізи й вправи перекладу.", "url": "https://fenix-112323.github.io/vika-academy/", "inLanguage": ["uk", "en"], "provider": {"@type": "Organization", "name": "ClayArena", "url": "https://clayarena.com/"}, "isAccessibleForFree": true, "hasCourseInstance": {"@type": "CourseInstance", "courseMode": "online", "courseWorkload": "PT6H"}, "about": ["Sporting clays", "Compak Sporting", "Shotguns", "Shooting technique", "Interpreting for coaches"]}</script>
 <link rel="icon" type="image/png" href="favicon.png">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -187,7 +186,6 @@ footer{margin-top:48px;color:var(--muted);font-size:12.5px;border-top:1px solid 
 </header>
 <main id="app"></main>
 <div id="layer"></div>
-<nav aria-label="Glossary" style="max-width:1120px;margin:0 auto;padding:0 16px 40px;font-size:13px;color:#9CA3AF">Глосарій термінів: <a href="glossary/">усі 394 терміни</a></nav>
 
 <script src="data/sporting.js"></script>
 <script src="data/compak.js"></script>
@@ -202,8 +200,8 @@ footer{margin-top:48px;color:var(--muted);font-size:12.5px;border-top:1px solid 
    localStorage "vika-academy". XP: scene 10, term 5, correct answer 15, practice item 10. */
 const MODS = (window.ACADEMY||[]).slice().sort((a,b)=>a.order-b.order);
 const PLAN = [
-  {module:"sporting", order:1, title_en:"Sporting", title_uk:"Sporting"},
-  {module:"compak", order:2, title_en:"Compak Sporting", title_uk:"Compak Sporting"},
+  {module:"sporting", order:1, title_en:"Sporting™", title_uk:"Sporting™"},
+  {module:"compak", order:2, title_en:"Compak® Sporting", title_uk:"Compak® Sporting"},
   {module:"guns", order:3, title_en:"Guns & ammunition", title_uk:"Рушниці та набої"},
   {module:"technique", order:4, title_en:"Technique & coaching", title_uk:"Техніка і мова тренера"},
   {module:"organizer", order:5, title_en:"Organizer & range", title_uk:"Організатор і стенд"}
@@ -215,14 +213,14 @@ const T = {
       next:"Далі", restart:"Ще раз", correct:"Правильно!", wrong:"Не зовсім.", result:"Результат", show:"Показати переклад", gotIt:"Зарахувати", done:"Зараховано",
       search:"Пошук терміна англійською або українською…", allMods:"Усі місії", export:"Завантажити JSON глосарію", count:"термінів у глосарії",
       what:"Що це", detail:"Детально", usage:"Як кажуть українською", coachSays:"Як це звучить на стенді", tip:"Порада перекладачці", related:"Пов'язані терміни", verify:"перевірити за правилами", close:"Закрити",
-      notReady:"Ця місія ще готується.", levelUp:"Новий рівень!", backHome:"← До мапи", progress:"Прогрес", foot:"Академія Віки · ClayAway by ClayArena. Терміни англійською, пояснення українською та англійською. Матеріал стане основою глосарію ClayArena."},
+      notReady:"Ця місія ще готується.", levelUp:"Новий рівень!", backHome:"← До мапи", progress:"Прогрес", foot:"Академія Віки · ClayAway by ClayArena. Терміни англійською, пояснення українською та англійською. Parcours de Chasse – Sporting™ і Compak® Sporting — торговельні марки FITASC."},
   en:{home:"Map", gloss:"Glossary", hi:"Hi, Vika!", heroP:"This is your academy before the ClayAway tours. Five missions: two disciplines, guns, technique and the coach's language, and everything an organizer needs on the ground. Terms are always in English — that's how coaches say them everywhere. Explanations are in Ukrainian and English.",
       start:"Start mission", cont:"Continue", story:"Story", terms:"Terms", quiz:"Quiz", practice:"Translate the coach",
       scenes:"scenes", termsN:"terms", quizN:"questions", read:"Read", markRead:"Done reading ✓", know:"I know it", learnt:"Learnt", open:"Details",
       next:"Next", restart:"Again", correct:"Correct!", wrong:"Not quite.", result:"Result", show:"Show translation", gotIt:"Count it", done:"Counted",
       search:"Search a term in English or Ukrainian…", allMods:"All missions", export:"Download glossary JSON", count:"terms in the glossary",
       what:"What it is", detail:"In detail", usage:"How Ukrainian shooters say it", coachSays:"How it sounds on the stand", tip:"Tip for the interpreter", related:"Related terms", verify:"check against the rules", close:"Close",
-      notReady:"This mission is still being prepared.", levelUp:"Level up!", backHome:"← Back to the map", progress:"Progress", foot:"Vika's Academy · ClayAway by ClayArena. Terms in English, explanations in Ukrainian and English. This content will become the ClayArena glossary."}
+      notReady:"This mission is still being prepared.", levelUp:"Level up!", backHome:"← Back to the map", progress:"Progress", foot:"Vika's Academy · ClayAway by ClayArena. Terms in English, explanations in Ukrainian and English. Parcours de Chasse – Sporting™ and Compak® Sporting are trademarks of FITASC."}
 };
 const LEVELS=[[0,"Rookie"],[150,"Squad Member"],[400,"Stand Ready"],[800,"Coach's Voice"],[1300,"Interpreter Pro"],[2000,"ClayAway Master"]];
 const store={ get(){ try{return JSON.parse(localStorage.getItem("vika-academy")||"{}")}catch(e){return {}} }, set(v){ try{localStorage.setItem("vika-academy",JSON.stringify(v))}catch(e){} } };

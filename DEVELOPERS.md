@@ -11,23 +11,21 @@
 | `data/<module>.js` | 5 місій (sporting, compak, guns, technique, organizer); формат `data/SCHEMA.md` |
 | `data/check.mjs` | перевірка даних: дублікати id, биті `related`/`[[term]]`, мова (`cd data && bun check.mjs`) |
 | `data/export.mjs` | збирає `glossary.json` — чернетку глосарію ClayArena |
-| `glossary/` | статичні SEO-сторінки: список і сторінка на кожен термін (генерує `scripts/build_seo.mjs`) |
-| `sitemap.xml`, `robots.txt` | генерує `scripts/build_seo.mjs` |
 | `og-image.png`, іконки | превʼю для месенджерів (`scripts/make_og.py`) |
 
-Перебудова після зміни даних: `cd data && bun check.mjs && bun export.mjs && cd .. && bun scripts/build_seo.mjs`.
+Перебудова після зміни даних: `cd data && bun check.mjs && bun export.mjs`.
 
 ## Логіка застосунку (`index.html`)
 - `window.ACADEMY` — модулі з `data/*.js`; `TERMS` — усі терміни за id (перший модуль виграє; дублікати — у `glossary.json → also_in`).
 - Історія: `[[term-id]]` / `[[term-id|label]]` у тексті → кнопки, що відкривають картку терміна.
 - Прогрес у `localStorage` «vika-academy»: XP (сцена 10, термін 5, правильна відповідь 15, вправа 10), рівні Rookie → ClayAway Master.
-- У ClayArena: прогрес — у профілі користувача; бейдж «Пройшов Академію» в профілі організатора/перекладача.
+- Якщо Академія отримає акаунти — прогрес зберігати на сервері Академії (вона не є частиною ClayArena).
 
-## Глосарій → ClayArena
-- `glossary.json` / `glossary/<id>/` → таблиця `glossary_terms` і сторінки `/glossary/<term>/` на clayarena.com (індексуються, `DefinedTerm`).
-- Терміни з `verify: true` (136) звірити з довідником правил FITASC (проєкт ClayAway, `docs/rules/`), наприклад:
-  у Compak **немає** правила «низької рушниці» та мітки на жилеті (є лише в Sporting) — у модулі compak це треба виправити.
-- 15 дублікатів id злити в один запис.
+## Глосарій Академії
+- Академія — окремий проєкт, не частина ClayArena. Її глосарій (`glossary.json`, вкладка «Глосарій» у застосунку) — навчальний і не публікується окремими сторінками. Сайт — особистий для Віки (`noindex`).
+- Глосарій ClayArena будується окремо з довідника правил FITASC у проєкті ClayAway (`docs/glossary/`).
+- Терміни з `verify: true` звіряються з довідником правил ClayAway (`docs/rules/data/*.js`); після звірки — `verify: false` і `rule_refs`.
+- 15 дублікатів id між модулями — залишаються (перший модуль виграє), можна злити пізніше.
 
 ## Легальність
 Терміни й тексти — власний контент ClayArena. Посилання на FITASC — `nofollow`; текст регламентів не копіюємо. Російську мову не використовуємо.

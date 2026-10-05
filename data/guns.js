@@ -64,13 +64,13 @@ window.ACADEMY.push({
     { id: "pump-action", term: "Pump-action", aka: ["Pump", "Slide action"], cat: "Shotgun types",
       short_en: "A single-barrel shotgun reloaded by sliding the fore-end back and forth by hand.",
       short_uk: "Одноствольна рушниця, яку перезаряджають, рухаючи цівку вперед-назад рукою.",
-      long_en: "The pump-action is common for hunting and home use, especially in North America, but is almost never seen in European clay competitions. It is mentioned here only for context: a guest might own one or ask about it. Some grounds and some countries restrict pump-actions or their magazine capacity. If a guest wants to use a pump-action, ask the ground in advance.",
-      long_uk: "Помпова рушниця поширена на полюванні та для самозахисту, особливо в Північній Америці, але на європейських стендових змаганнях її майже не побачиш. Тут вона згадана лише для контексту: у гостя може бути така рушниця, або він спитає про неї. Деякі стрільбища й країни обмежують помпові рушниці чи місткість їхніх магазинів. Якщо гість хоче стріляти з помпи, заздалегідь спитайте стрільбище.",
+      long_en: "The pump-action is common for hunting and home use, especially in North America, but is almost never seen in European clay competitions. It is mentioned here only for context: a guest might own one or ask about it. FITASC rules ban pump-action guns in both Sporting and Compak, and some grounds and countries also restrict them or their magazine capacity. If a guest wants to use a pump-action, ask the ground in advance.",
+      long_uk: "Помпова рушниця поширена на полюванні та для самозахисту, особливо в Північній Америці, але на європейських стендових змаганнях її майже не побачиш. Тут вона згадана лише для контексту: у гостя може бути така рушниця, або він спитає про неї. Правила FITASC забороняють помпові рушниці і в спортингу, і в компаку, а деякі стрільбища й країни також обмежують їх чи місткість їхніх магазинів. Якщо гість хоче стріляти з помпи, заздалегідь спитайте стрільбище.",
       uk_usage: "«помпа», «помпова рушниця», «помповик»",
       coach_en: "We don't allow pump-actions on the sporting layout.",
       coach_uk: "На спортинговому полі помпові рушниці в нас заборонені.",
-      tip_uk: "Правила щодо помпових рушниць різні в різних країнах — не обіцяйте гостю, що «можна», поки не перепитаєте.",
-      related: ["semi-automatic", "fore-end"], verify: true },
+      tip_uk: "На змаганнях FITASC (Sporting і Compak) помпові рушниці заборонені. На тренуваннях правила різні в різних країнах і на різних стрільбищах — не обіцяйте гостю, що «можна», поки не перепитаєте.",
+      related: ["semi-automatic", "fore-end"], verify: false, rule_refs: [{book: "sporting", id: "ch7-permitted-guns", ref: "Chapter 7, 7.1 Definition", page: 11}, {book: "compak", id: "ch18-gun", ref: "Chapter 18, 18.1 Gun", page: 19}] },
 
     { id: "sporter", term: "Sporter", aka: ["Sporting gun", "Sporting model"], cat: "Shotgun types",
       short_en: "An over-and-under built for sporting clays: medium weight, flat-shooting, usually with multichokes.",
@@ -136,7 +136,7 @@ window.ACADEMY.push({
       coach_en: "Try the four-ten on the rabbit — if you break it with that, you're really on it.",
       coach_uk: "Спробуйте «кролика» з чотириста десятого — якщо розіб’єте ним, значить, ви справді точні.",
       tip_uk: "«.410» не читайте як «чотириста десять міліметрів» — це 0,41 дюйма.",
-      related: ["gauge", "20-bore", "load-weight"], verify: true },
+      related: ["gauge", "20-bore", "load-weight"], verify: true, rule_refs: [{book: "sporting", id: "ch7-permitted-guns", ref: "Chapter 7, 7.1 Definition", page: 11}], verify_note_uk: "Діаметри каналу, навіски .410 і класи американського скіту в регламентах FITASC не описані; FITASC лише обмежує калібр — не більше 12-го. Звірте з довідниками виробників і правилами американського скіту." },
 
     { id: "chamber-length", term: "Chamber length", aka: ["70 mm chamber", "76 mm chamber", "2¾ in", "3 in", "Magnum chamber"], cat: "Shotgun types",
       short_en: "The length of the cartridge a gun's chamber is made for, measured for the opened (fired) case.",
@@ -158,7 +158,7 @@ window.ACADEMY.push({
       coach_en: "He shoots a Krieghoff — heavy gun, very soft to shoot.",
       coach_uk: "Він стріляє з «Кригхофа» — рушниця важка, але дуже м’яка.",
       tip_uk: "Назви марок не перекладайте й не відмінюйте химерно; «Беретта» в українській — з двома «т» як у марці (Beretta).",
-      related: ["over-and-under", "sporter", "rental-gun"], verify: true },
+      related: ["over-and-under", "sporter", "rental-gun"], verify: true, verify_note_uk: "Марки й моделі — довідкова інформація, у правилах її немає; назви моделей і країни виробництва звірте із сайтами виробників." },
 
     // ---------- Gun parts ----------
     { id: "stock", term: "Stock", aka: ["Butt stock", "Buttstock", "Woodwork"], cat: "Gun parts",
@@ -225,7 +225,7 @@ window.ACADEMY.push({
       coach_en: "Hold the grip firmly but don't strangle it.",
       coach_uk: "Тримайте шийку міцно, але не душіть її.",
       tip_uk: "«Grip» — і частина рушниці, і хват (як ви тримаєте). Дивіться на контекст: «change your grip» — змінити хват.",
-      related: ["stock", "trigger", "length-of-pull"], verify: true },
+      related: ["stock", "trigger", "length-of-pull"], verify: true, verify_note_uk: "Технічний опис рушниці, правилами FITASC не регулюється; звірте з довідником зброяра чи майстра підгонки." },
 
     { id: "fore-end", term: "Fore-end", aka: ["Forend", "Forearm", "Fore-end iron"], cat: "Gun parts",
       short_en: "The wooden part under the barrels held by the front hand; on a break-action gun it also holds the barrels on.",
@@ -351,13 +351,13 @@ window.ACADEMY.push({
     { id: "trigger", term: "Trigger", aka: ["Trigger blade", "Adjustable trigger", "Trigger pull", "Double triggers", "Release trigger"], cat: "Gun parts",
       short_en: "The blade the finger presses to fire the gun; on competition guns it is often adjustable.",
       short_uk: "Гачок, який натискає палець, щоб вистрілити; на спортивних рушницях часто регульований.",
-      long_en: "Most clay guns have a single trigger that fires both barrels in turn. An adjustable trigger can be moved forward or back (usually a few millimetres, with a small hex key) to suit the length of the finger; this slightly changes the effective length of pull. 'Trigger pull' is the force needed to fire, typically about 1.5–2 kg on competition guns. Side-by-sides often have double triggers (front for one barrel, back for the other). Some trap shooters use a release trigger, which fires when the finger lets go — such guns must be clearly marked and announced to the referee.",
-      long_uk: "Більшість стендових рушниць мають один спусковий гачок, що по черзі стріляє з обох стволів. Регульований гачок можна зсунути вперед або назад (зазвичай на кілька міліметрів маленьким шестигранником) під довжину пальця; це трохи змінює фактичну довжину приклада. «Trigger pull» — зусилля спуску, на спортивних рушницях зазвичай близько 1,5–2 кг. Горизонталки часто мають два гачки (передній для одного ствола, задній для другого). Деякі трапісти користуються «release trigger», що стріляє, коли палець відпускає гачок, — такі рушниці мають бути чітко позначені, а суддю треба попередити.",
+      long_en: "Most clay guns have a single trigger that fires both barrels in turn. An adjustable trigger can be moved forward or back (usually a few millimetres, with a small hex key) to suit the length of the finger; this slightly changes the effective length of pull. 'Trigger pull' is the force needed to fire, typically about 1.5–2 kg on competition guns. Side-by-sides often have double triggers (front for one barrel, back for the other). Some trap shooters use a release trigger, which fires when the finger lets go — under the FITASC rules such guns must carry a large «R» on a fluorescent background on the outer side of the buttstock, and if the host country bans release triggers, the competition programme says so.",
+      long_uk: "Більшість стендових рушниць мають один спусковий гачок, що по черзі стріляє з обох стволів. Регульований гачок можна зсунути вперед або назад (зазвичай на кілька міліметрів маленьким шестигранником) під довжину пальця; це трохи змінює фактичну довжину приклада. «Trigger pull» — зусилля спуску, на спортивних рушницях зазвичай близько 1,5–2 кг. Горизонталки часто мають два гачки (передній для одного ствола, задній для другого). Деякі трапісти користуються «release trigger», що стріляє, коли палець відпускає гачок, — за правилами FITASC на зовнішньому боці приклада такої рушниці має бути наліпка з великою літерою «R» на флуоресцентному тлі, а якщо країна-господарка забороняє такі гачки, це зазначають у програмі змагань.",
       uk_usage: "«спуск», «спусковий гачок», «гачок»; «УСМ» — ударно-спусковий механізм",
       coach_en: "Don't pull the trigger — press it, and keep the gun moving.",
       coach_uk: "Не смикайте гачок — натискайте плавно, і рушниця має продовжувати рух.",
       tip_uk: "«Trigger» у переносному значенні — «тригер, поштовх»; у рушниці — лише «спусковий гачок».",
-      related: ["single-selective-trigger", "mechanical-trigger", "inertia-trigger", "grip"], verify: true },
+      related: ["single-selective-trigger", "mechanical-trigger", "inertia-trigger", "grip"], verify: true, rule_refs: [{book: "sporting", id: "ch7-release-trigger-marking", ref: "Chapter 7, 7.11 Release trigger mandatory marking", page: 13}, {book: "compak", id: "ch18-release-trigger-marking", ref: "Chapter 18, 18.2 Release trigger mandatory marking", page: 19}], verify_note_uk: "Зусилля спуску (1,5–2 кг) і діапазон регулювання — дані виробників, у правилах їх немає. Вимогу щодо наліпки «R» для release trigger звірено з регламентами." },
 
     { id: "single-selective-trigger", term: "Single selective trigger", aka: ["SST", "Selective trigger"], cat: "Gun parts",
       short_en: "One trigger that fires both barrels in turn, with a selector to choose which barrel fires first.",
@@ -390,7 +390,7 @@ window.ACADEMY.push({
       coach_en: "It's an inertia trigger — with these light cartridges the second barrel won't always switch over.",
       coach_uk: "Це інерційний спуск — із такими слабкими патронами другий ствол не завжди перемикається.",
       tip_uk: "Не обіцяйте стрільцю перестріл (re-shoot) після такої відмови — це вирішує суддя за правилами дисципліни.",
-      related: ["mechanical-trigger", "trigger", "recoil", "load-weight"], verify: true },
+      related: ["mechanical-trigger", "trigger", "recoil", "load-weight"], verify: true, rule_refs: [{book: "sporting", id: "ch8-malfunction-stay-put", ref: "Chapter 8, 8.8", page: 14}, {book: "compak", id: "ch21-malfunction", ref: "Chapter 21, 21.4 Malfunctioning gun or cartridge", page: 25}], verify_note_uk: "Поведінка інерційного механізму залежить від моделі — звірте з інструкцією виробника. Правило «не відкривати рушницю до огляду суддею» звірено." },
 
     { id: "barrel-selector", term: "Barrel selector", aka: ["Selector", "Barrel selector switch"], cat: "Gun parts",
       short_en: "A small switch that chooses which barrel fires first.",
@@ -473,13 +473,13 @@ window.ACADEMY.push({
     { id: "multichoke", term: "Multichoke", aka: ["Interchangeable chokes", "Screw-in chokes", "Multi-choke gun"], cat: "Chokes & patterns",
       short_en: "A gun whose barrels take screw-in choke tubes, so the choke can be changed.",
       short_uk: "Рушниця, у стволи якої вкручують змінні насадки, тож чок можна міняти.",
-      long_en: "A multichoke gun has a thread cut inside each muzzle, into which choke tubes are screwed. It lets the shooter change choke for each discipline, ground or even stand. Most new sporting guns are multichoke and come with a set of four to six tubes and a choke key. Tubes from one system (for example Beretta Optima, Browning Invector-Plus, Perazzi) do not fit another, and some systems differ between models of the same brand, so never force a tube that does not screw in easily. 'Multichoke' is also a trade name used by some makers.",
-      long_uk: "У рушниці зі змінними чоками в кожному дулі нарізано різьбу, у яку вкручують насадки. Це дає змогу міняти чок під кожну дисципліну, стрільбище чи навіть майданчик. Більшість нових спортингових рушниць мають змінні чоки й продаються з комплектом із чотирьох-шести насадок і ключем. Насадки однієї системи (наприклад, Beretta Optima, Browning Invector-Plus, Perazzi) не підходять до іншої, а деякі системи відрізняються навіть між моделями однієї марки, тож ніколи не вкручуйте силою насадку, що не йде легко. «Multichoke» — також торгова назва деяких виробників.",
+      long_en: "A multichoke gun has a thread cut inside each muzzle, into which choke tubes are screwed. It lets the shooter change choke for each discipline, ground or even stand — within the rules: in FITASC Sporting chokes may be changed between stands but not once on the stand, in Compak only between rounds. Most new sporting guns are multichoke and come with a set of four to six tubes and a choke key. Tubes from one system (for example Beretta Optima, Browning Invector-Plus, Perazzi) do not fit another, and some systems differ between models of the same brand, so never force a tube that does not screw in easily. 'Multichoke' is also a trade name used by some makers.",
+      long_uk: "У рушниці зі змінними чоками в кожному дулі нарізано різьбу, у яку вкручують насадки. Це дає змогу міняти чок під кожну дисципліну, стрільбище чи навіть майданчик — у межах правил: у FITASC Sporting чоки можна міняти між позиціями, але не на самій позиції, а в компаку — лише між раундами. Більшість нових спортингових рушниць мають змінні чоки й продаються з комплектом із чотирьох-шести насадок і ключем. Насадки однієї системи (наприклад, Beretta Optima, Browning Invector-Plus, Perazzi) не підходять до іншої, а деякі системи відрізняються навіть між моделями однієї марки, тож ніколи не вкручуйте силою насадку, що не йде легко. «Multichoke» — також торгова назва деяких виробників.",
       uk_usage: "«змінні чоки», «мультичок»",
       coach_en: "It's a multichoke, so bring all your tubes — the layout changes every day.",
       coach_uk: "Рушниця зі змінними чоками, тож беріть усі насадки — поле щодня змінюється.",
       tip_uk: "Якщо гість позичає чоки в когось іншого, обов’язково уточніть систему насадок — неправильний чок може пошкодити ствол.",
-      related: ["choke-tube", "choke-key", "fixed-choke", "choke"], verify: true },
+      related: ["choke-tube", "choke-key", "fixed-choke", "choke"], verify: true, rule_refs: [{book: "sporting", id: "ch7-borrow-replace", ref: "Chapter 7, 7.3", page: 12}, {book: "sporting", id: "ch7-no-changes-on-stand", ref: "Chapter 7, 7.4", page: 12}, {book: "compak", id: "ch18-gun-change", ref: "Chapter 18, 18.1 Gun (changing gun, choke, barrel)", page: 19}], verify_note_uk: "Сумісність систем чоків — за даними виробників. Правила зміни чоків звірено: у спортингу — між позиціями, у компаку — лише між раундами." },
 
     { id: "choke-tube", term: "Choke tube", aka: ["Tube", "Flush choke", "Extended choke", "Extended tube", "Ported choke"], cat: "Chokes & patterns",
       short_en: "A short screw-in tube at the muzzle that sets the choke; it can be flush or extended.",
@@ -523,7 +523,7 @@ window.ACADEMY.push({
       coach_en: "Skeet and quarter will do for the whole of this stand.",
       coach_uk: "Скіт і чверть підійдуть на весь цей майданчик.",
       tip_uk: "«Skeet» тут — назва чока, а не дисципліни; «I'm in skeet» може означати «в мене стоїть скітовий чок».",
-      related: ["cylinder", "improved-cylinder", "skeet-gun"], verify: true },
+      related: ["cylinder", "improved-cylinder", "skeet-gun"], verify: true, verify_note_uk: "Значення звуження (у дюймах і мм) і відповідні дистанції — орієнтовні дані виробників; у регламентах FITASC їх немає. Звірте з таблицею виробника конкретних насадок." },
 
     { id: "improved-cylinder", term: "Improved cylinder", aka: ["IC", "1/4 choke", "Quarter choke", "****"], cat: "Chokes & patterns",
       short_en: "A light constriction (about 0.010 in / 0.25 mm), also called quarter choke.",
@@ -545,7 +545,7 @@ window.ACADEMY.push({
       coach_en: "Light mod in the top barrel — the second bird is about thirty-five metres.",
       coach_uk: "У верхній ствол — легкий півчок, друга мішень приблизно за тридцять п’ять метрів.",
       tip_uk: "Якщо гість питає «чи є у вас 3/8», а в крамниці лише LM — це приблизно те саме, але варто перевірити маркування.",
-      related: ["improved-cylinder", "modified", "fractional-choke-names"], verify: true },
+      related: ["improved-cylinder", "modified", "fractional-choke-names"], verify: true, verify_note_uk: "Значення звуження (у дюймах і мм) і відповідні дистанції — орієнтовні дані виробників; у регламентах FITASC їх немає. Звірте з таблицею виробника конкретних насадок." },
 
     { id: "modified", term: "Modified", aka: ["M", "Mod", "1/2 choke", "Half choke", "***"], cat: "Chokes & patterns",
       short_en: "A medium constriction (about 0.020 in / 0.5 mm), also called half choke.",
@@ -556,7 +556,7 @@ window.ACADEMY.push({
       coach_en: "Quarter and half is all you need on this layout.",
       coach_uk: "Чверть і пів — усе, що потрібно на цьому полі.",
       tip_uk: "«Modified» не перекладайте як «модифікований» — це назва чока: «півчок».",
-      related: ["improved-cylinder", "improved-modified", "steel-shot", "fractional-choke-names"], verify: true },
+      related: ["improved-cylinder", "improved-modified", "steel-shot", "fractional-choke-names"], verify: true, verify_note_uk: "Значення звуження (у дюймах і мм) і відповідні дистанції — орієнтовні дані виробників; у регламентах FITASC їх немає. Звірте з таблицею виробника конкретних насадок." },
 
     { id: "improved-modified", term: "Improved modified", aka: ["IM", "3/4 choke", "Three-quarter choke", "**"], cat: "Chokes & patterns",
       short_en: "A fairly tight constriction (about 0.025 in / 0.65 mm), also called three-quarter choke.",
@@ -578,7 +578,7 @@ window.ACADEMY.push({
       coach_en: "I use light full in the top barrel for the trap second shot.",
       coach_uk: "У верхньому стволі в мене легкий повний чок — для другого пострілу в трапі.",
       tip_uk: "Не плутайте «light full» із «full» — різниця невелика, але стрільцям вона важлива.",
-      related: ["improved-modified", "full-choke", "fractional-choke-names"], verify: true },
+      related: ["improved-modified", "full-choke", "fractional-choke-names"], verify: true, verify_note_uk: "Значення звуження (у дюймах і мм) і відповідні дистанції — орієнтовні дані виробників; у регламентах FITASC їх немає. Звірте з таблицею виробника конкретних насадок." },
 
     { id: "full-choke", term: "Full choke", aka: ["Full", "F", "1/1 choke", "*"], cat: "Chokes & patterns",
       short_en: "The tightest common constriction (about 0.035–0.040 in / 0.9–1 mm) for the longest targets.",
@@ -589,7 +589,7 @@ window.ACADEMY.push({
       coach_en: "Full choke on that one — it's the longest bird on the ground.",
       coach_uk: "На цю — повний чок, це найдальша мішень на стрільбищі.",
       tip_uk: "Коли стрілець каже просто «чок», він може мати на увазі саме повний чок, а не насадку загалом. Уточнюйте.",
-      related: ["light-full", "improved-modified", "steel-shot", "trap-gun"], verify: true },
+      related: ["light-full", "improved-modified", "steel-shot", "trap-gun"], verify: true, verify_note_uk: "Значення звуження (у дюймах і мм) і відповідні дистанції — орієнтовні дані виробників; у регламентах FITASC їх немає. Звірте з таблицею виробника конкретних насадок." },
 
     { id: "fractional-choke-names", term: "Fractional choke names", aka: ["1/4, 1/2, 3/4", "Quarter, half, three-quarter", "European choke names"], cat: "Chokes & patterns",
       short_en: "The European habit of naming chokes as fractions of full choke: 1/4, 1/2, 3/4, full.",
@@ -600,7 +600,7 @@ window.ACADEMY.push({
       coach_en: "In English you'd call it improved cylinder; we just say quarter.",
       coach_uk: "Англійською це improved cylinder, а ми кажемо просто «чверть».",
       tip_uk: "Шпаргалка: чверть = IC, пів = M, три чверті = IM, повний = F.",
-      related: ["improved-cylinder", "modified", "improved-modified", "full-choke", "star-choke-marks"], verify: true },
+      related: ["improved-cylinder", "modified", "improved-modified", "full-choke", "star-choke-marks"], verify: true, verify_note_uk: "Відповідність дробових назв (1/4, 1/2…) англійським (IC, M…) — усталена практика, не стандарт; у правилах FITASC її немає. Звірте з таблицею виробника." },
 
     { id: "star-choke-marks", term: "Star choke marks", aka: ["Star system", "Stars", "Notches", "Choke markings"], cat: "Chokes & patterns",
       short_en: "Markings on guns and tubes where the number of stars (or notches) shows the choke.",
@@ -611,7 +611,7 @@ window.ACADEMY.push({
       coach_en: "More stars, more open: four stars is your quarter choke.",
       coach_uk: "Більше зірочок — відкритіший чок: чотири зірочки — це ваша «чверть».",
       tip_uk: "Логіка зірочок інтуїтивно «навпаки»: п’ять зірочок — не «найкращий», а найвідкритіший чок.",
-      related: ["fractional-choke-names", "choke-tube", "cylinder", "full-choke"], verify: true },
+      related: ["fractional-choke-names", "choke-tube", "cylinder", "full-choke"], verify: true, verify_note_uk: "Позначки зірочками й насічками — за таблицями Beretta та інших виробників; у правилах FITASC їх немає." },
 
     { id: "pattern", term: "Pattern", aka: ["Shot pattern", "Pattern density", "Shot string"], cat: "Chokes & patterns",
       short_en: "The spread of pellets from one shot as it arrives at the target distance.",
@@ -622,7 +622,7 @@ window.ACADEMY.push({
       coach_en: "Your pattern has a hole on the left — try another cartridge.",
       coach_uk: "У вашому снопі діра зліва — спробуйте інший патрон.",
       tip_uk: "«Pattern» тут — не «візерунок» і не «шаблон», а сніп дробу.",
-      related: ["pattern-plate", "point-of-impact", "choke", "shot-size"], verify: true },
+      related: ["pattern-plate", "point-of-impact", "choke", "shot-size"], verify: true, verify_note_uk: "Відсотки сніпу (коло 76 см на 40 ярдах) — традиційна методика перевірки, у правилах FITASC її немає; звірте з довідниками з балістики." },
 
     { id: "point-of-impact", term: "Point of impact", aka: ["POI", "50/50", "60/40", "70/30", "Shoots high", "Shoots flat"], cat: "Chokes & patterns",
       short_en: "Where the centre of the pattern lands relative to where the shooter is looking.",
@@ -644,7 +644,7 @@ window.ACADEMY.push({
       coach_en: "Let's go to the plate and see where this gun is really shooting.",
       coach_uk: "Ходімо до плити й подивимося, куди насправді б’є ця рушниця.",
       tip_uk: "«Plate» тут не «тарілка» — тарілкою в розмові можуть назвати мішень (clay). Плита — щит для пристрілки.",
-      related: ["pattern", "point-of-impact", "gun-fitting", "try-gun"], verify: true },
+      related: ["pattern", "point-of-impact", "gun-fitting", "try-gun"], verify: true, verify_note_uk: "Відстані пристрілки (16 і 40 ярдів) і розміри щита — практика майстрів підгонки, у правилах їх немає." },
 
     // ---------- Gun fit ----------
     { id: "gun-fit", term: "Gun fit", aka: ["Fit", "Stock fit", "Fitting"], cat: "Gun fit",
@@ -678,7 +678,7 @@ window.ACADEMY.push({
       coach_en: "We need two millimetres less drop at comb — you're shooting under.",
       coach_uk: "Потрібно на два міліметри менший опуск по гребеню — ви стріляєте під мішень.",
       tip_uk: "«Less drop» = гребінь вищий. Логіка проти інтуїції — перекладайте дуже уважно або додавайте пояснення «гребінь вище».",
-      related: ["drop-at-heel", "comb", "adjustable-comb", "point-of-impact"], verify: true },
+      related: ["drop-at-heel", "comb", "adjustable-comb", "point-of-impact"], verify: true, verify_note_uk: "Типові розміри (35–38 мм) — дані виробників і майстрів підгонки, у правилах FITASC їх немає." },
 
     { id: "drop-at-heel", term: "Drop at heel", aka: ["DAH", "Heel drop"], cat: "Gun fit",
       short_en: "How far the heel of the butt is below the line of the rib.",
@@ -689,7 +689,7 @@ window.ACADEMY.push({
       coach_en: "Drop at comb thirty-six, drop at heel fifty-four — that's a fairly standard sporter.",
       coach_uk: "Опуск по гребеню тридцять шість, по п’ятці п’ятдесят чотири — цілком стандартна спортингова рушниця.",
       tip_uk: "Цифри підгонки кажуть парою: спершу comb, потім heel. Не міняйте порядок.",
-      related: ["drop-at-comb", "butt-plate", "comb"], verify: true },
+      related: ["drop-at-comb", "butt-plate", "comb"], verify: true, verify_note_uk: "Типові розміри (50–60 мм) — дані виробників і майстрів підгонки, у правилах FITASC їх немає." },
 
     { id: "cast-off", term: "Cast off", aka: ["Cast", "Cast-off"], cat: "Gun fit",
       short_en: "A sideways bend of the stock to the right, for a right-handed shooter's eye to sit over the rib.",
@@ -789,7 +789,7 @@ window.ACADEMY.push({
       coach_en: "Misfire! Don't open the gun — show it to the referee.",
       coach_uk: "Осічка! Не відкривайте рушницю — покажіть судді.",
       tip_uk: "Правила щодо осічок у різних дисциплінах різні; не обіцяйте перестріл — рішення ухвалює суддя.",
-      related: ["cartridge", "powder", "inertia-trigger", "chamber"], verify: true },
+      related: ["cartridge", "powder", "inertia-trigger", "chamber"], verify: false, rule_refs: [{book: "sporting", id: "ch8-malfunction-stay-put", ref: "Chapter 8, 8.8", page: 14}, {book: "compak", id: "ch24-malfunction-zero", ref: "Chapter 24, Safety rules (malfunction)", page: 27}] },
 
     { id: "powder", term: "Powder", aka: ["Propellant", "Gunpowder", "Charge"], cat: "Ammunition",
       short_en: "The smokeless propellant inside the cartridge that burns and drives the shot out.",
@@ -811,7 +811,7 @@ window.ACADEMY.push({
       coach_en: "This ground is fibre wads only — check your boxes.",
       coach_uk: "На цьому стрільбищі — лише волокнисті пижі. Перевірте коробки.",
       tip_uk: "Якщо на коробці написано «fibre», «felt» чи «bio» — уточніть у стрільбища, що саме вони вважають допустимим.",
-      related: ["cartridge", "steel-shot", "lead-shot", "recoil"], verify: true },
+      related: ["cartridge", "steel-shot", "lead-shot", "recoil"], verify: true, verify_note_uk: "Вимоги щодо фетрових пижів встановлюють стрільбища й місцеве законодавство, у регламентах FITASC їх немає; дальність польоту пижа — орієнтовна." },
 
     { id: "shot", term: "Shot", aka: ["Pellets", "Shot charge", "Load"], cat: "Ammunition",
       short_en: "The small round pellets fired from the cartridge, usually of lead or steel.",
@@ -838,24 +838,24 @@ window.ACADEMY.push({
     { id: "load-weight", term: "Load weight", aka: ["Load", "Shot load", "24 g", "28 g", "Ounce load", "Payload"], cat: "Ammunition",
       short_en: "The weight of the shot in a cartridge, given in grams (or ounces): 24 g, 28 g and so on.",
       short_uk: "Вага дробу в патроні в грамах (або унціях): 24 г, 28 г тощо.",
-      long_en: "Load weight is the mass of the shot charge. In clay shooting, 28 g (about 1 oz) is the usual maximum for sporting and compak (FITASC and most national rules), and 24 g is the standard for ISSF Olympic trap and skeet. Lighter loads (21–24 g) are popular for practice and for juniors because they recoil less. In the UK and USA loads are also given in ounces: 1 oz ≈ 28 g, 7/8 oz ≈ 24 g. A ground or a competition may set its own limit, often printed in the programme together with the shot size.",
-      long_uk: "Вага навіски — маса дробового заряду. У стендовій стрільбі 28 г (приблизно 1 унція) — звичайний максимум для спортингу й компаку (FITASC і більшість національних правил), а 24 г — стандарт для олімпійських трапу й скіту ISSF. Легші навіски (21–24 г) популярні для тренувань і серед юніорів, бо дають меншу віддачу. У Британії й США навіску вказують і в унціях: 1 oz ≈ 28 г, 7/8 oz ≈ 24 г. Стрільбище чи змагання можуть установити власний ліміт, який часто зазначають у програмі разом із номером дробу.",
+      long_en: "Load weight is the mass of the shot charge. In clay shooting, 28 g (about 1 oz) is the maximum for FITASC Sporting and Compak (with a +2% tolerance) and for most national rules, and 24 g is the standard for ISSF Olympic trap and skeet. Lighter loads (21–24 g) are popular for practice and for juniors because they recoil less. In the UK and USA loads are also given in ounces: 1 oz ≈ 28 g, 7/8 oz ≈ 24 g. A ground or a competition may set its own limit, often printed in the programme together with the shot size.",
+      long_uk: "Вага навіски — маса дробового заряду. У стендовій стрільбі 28 г (приблизно 1 унція) — максимум для FITASC Sporting і Compak (з допуском +2%) і для більшості національних правил, а 24 г — стандарт для олімпійських трапу й скіту ISSF. Легші навіски (21–24 г) популярні для тренувань і серед юніорів, бо дають меншу віддачу. У Британії й США навіску вказують і в унціях: 1 oz ≈ 28 г, 7/8 oz ≈ 24 г. Стрільбище чи змагання можуть установити власний ліміт, який часто зазначають у програмі разом із номером дробу.",
       uk_usage: "«навіска», «навіска 28», «двадцять вісімка», «двадцять четвірка»",
       coach_en: "Maximum load is 28 grams, maximum shot size 2.5 millimetres.",
       coach_uk: "Максимальна навіска — 28 грамів, максимальний розмір дробу — 2,5 міліметра.",
       tip_uk: "«Load» також «заряджати» (load the gun). «Light load» — легка навіска, а не «легке навантаження».",
-      related: ["shot-size", "shot", "recoil", "steel-shot", "cartridge"], verify: true },
+      related: ["shot-size", "shot", "recoil", "steel-shot", "cartridge"], verify: true, rule_refs: [{book: "sporting", id: "ch7-cartridges", ref: "Chapter 7, 7.8", page: 12}, {book: "compak", id: "ch18-cartridge-load", ref: "Chapter 18, 18.3 Ammunition (load and shot size)", page: 19}], verify_note_uk: "Ліміт FITASC (28 г, допуск +2%) звірено; 24 г для ISSF і перерахунок в унції звірте з правилами ISSF." },
 
     { id: "shot-size", term: "Shot size", aka: ["No. 7.5", "No. 8", "No. 9", "Sevens", "Eights", "Nines", "Pellet size"], cat: "Ammunition",
       short_en: "The pellet diameter, given as a number: the bigger the number, the smaller the pellet.",
       short_uk: "Діаметр дробини, позначений номером: що більший номер, то дрібніший дріб.",
-      long_en: "Shot sizes are numbered in reverse: No. 9 is smaller than No. 7.5. Common clay sizes are No. 9 (about 2.0 mm) for close targets and skeet, No. 8 (about 2.2–2.3 mm) as an all-rounder and No. 7.5 (about 2.4 mm) for longer targets and trap. Numbering systems differ slightly between countries (British, American, Italian and others), so the same number can mean a slightly different diameter — the millimetre value printed on the box is the safest reference. Competition rules usually limit pellets to a maximum of about 2.5 mm (sporting) or 2.5–2.6 mm (ISSF), and some grounds set their own limits, especially for steel.",
-      long_uk: "Номери дробу йдуть у зворотному порядку: № 9 дрібніший за № 7,5. Поширені стендові номери — № 9 (близько 2,0 мм) для близьких мішеней і скіту, № 8 (близько 2,2–2,3 мм) як універсальний і № 7,5 (близько 2,4 мм) для дальших мішеней і трапу. Системи нумерації трохи різняться в різних країнах (британська, американська, італійська та інші), тож той самий номер може означати трохи інший діаметр — найнадійніше орієнтуватися на міліметри на коробці. Правила змагань зазвичай обмежують дробину приблизно 2,5 мм (спортинг) або 2,5–2,6 мм (ISSF), а деякі стрільбища встановлюють власні ліміти, особливо для сталі.",
+      long_en: "Shot sizes are numbered in reverse: No. 9 is smaller than No. 7.5. Common clay sizes are No. 9 (about 2.0 mm) for close targets and skeet, No. 8 (about 2.2–2.3 mm) as an all-rounder and No. 7.5 (about 2.4 mm) for longer targets and trap. Numbering systems differ slightly between countries (British, American, Italian and others), so the same number can mean a slightly different diameter — the millimetre value printed on the box is the safest reference. FITASC Sporting and Compak rules require spherical lead shot of 2.0 to 2.5 mm (tolerance ±0.1 mm), ISSF rules allow up to about 2.6 mm, and some grounds set their own limits, especially for steel.",
+      long_uk: "Номери дробу йдуть у зворотному порядку: № 9 дрібніший за № 7,5. Поширені стендові номери — № 9 (близько 2,0 мм) для близьких мішеней і скіту, № 8 (близько 2,2–2,3 мм) як універсальний і № 7,5 (близько 2,4 мм) для дальших мішеней і трапу. Системи нумерації трохи різняться в різних країнах (британська, американська, італійська та інші), тож той самий номер може означати трохи інший діаметр — найнадійніше орієнтуватися на міліметри на коробці. Правила FITASC для спортингу й компаку вимагають кулястого свинцевого дробу діаметром 2,0–2,5 мм (допуск ±0,1 мм), правила ISSF — приблизно до 2,6 мм, а деякі стрільбища встановлюють власні ліміти, особливо для сталі.",
       uk_usage: "«сімка з половиною», «вісімка», «дев’ятка», «дріб номер сім з половиною»",
       coach_en: "Nines for the close stuff, seven-and-a-halfs for the long crossers.",
       coach_uk: "Дев’ятку — на близькі, сімку з половиною — на далекі поперечні.",
       tip_uk: "Ніколи не «перекладайте» номер дробу в міліметри на око — назвіть номер, а міліметри беріть з коробки.",
-      related: ["shot", "load-weight", "steel-shot", "pattern"], verify: true },
+      related: ["shot", "load-weight", "steel-shot", "pattern"], verify: true, rule_refs: [{book: "sporting", id: "ch7-cartridges", ref: "Chapter 7, 7.8", page: 12}, {book: "compak", id: "ch18-cartridge-load", ref: "Chapter 18, 18.3 Ammunition (load and shot size)", page: 19}], verify_note_uk: "Межі FITASC (2,0–2,5 мм, ±0,1 мм) звірено; діаметри номерів дробу й ліміт ISSF звірте з таблицями виробників і правилами ISSF." },
 
     { id: "velocity", term: "Velocity", aka: ["Speed", "fps", "Feet per second", "m/s", "V1", "V2.5"], cat: "Ammunition",
       short_en: "How fast the shot leaves the gun, given in feet per second (fps) or metres per second (m/s).",
@@ -866,7 +866,7 @@ window.ACADEMY.push({
       coach_en: "You don't need 1500 fps cartridges — 1400 is plenty and kinder on your shoulder.",
       coach_uk: "Вам не потрібні патрони на 1500 fps — 1400 цілком досить, і плече подякує.",
       tip_uk: "fps — це «футів за секунду», а не «кадрів за секунду», як у відео.",
-      related: ["powder", "recoil", "cartridge"], verify: true },
+      related: ["powder", "recoil", "cartridge"], verify: true, verify_note_uk: "Швидкості й формули перерахунку — дані виробників, у правилах FITASC їх немає." },
 
     { id: "lead-shot", term: "Lead shot", aka: ["Lead", "Hardened lead", "Nickel-plated shot"], cat: "Ammunition",
       short_en: "The traditional shot material: heavy, soft and dense, it carries energy well.",
@@ -877,7 +877,7 @@ window.ACADEMY.push({
       coach_en: "No lead on this ground — steel only.",
       coach_uk: "На цьому стрільбищі свинцю не можна — тільки сталь.",
       tip_uk: "Нікельований дріб — це все одно свинець; на «steel only» стрільбищі його не можна.",
-      related: ["steel-shot", "shot", "wad"], verify: true },
+      related: ["steel-shot", "shot", "wad"], verify: true, rule_refs: [{book: "sporting", id: "ch7-cartridges", ref: "Chapter 7, 7.8", page: 12}, {book: "compak", id: "ch18-cartridge-load", ref: "Chapter 18, 18.3 Ammunition (load and shot size)", page: 19}], verify_note_uk: "Регламенти FITASC говорять саме про свинцевий дріб (до 28 г). Обмеження ЄС щодо свинцю змінюються — звірте з чинним регламентом ЄС і національними правилами." },
 
     { id: "steel-shot", term: "Steel shot", aka: ["Steel", "Soft iron", "Non-toxic shot", "Steel-only", "Steel proof"], cat: "Ammunition",
       short_en: "Shot made of soft iron, used where lead is banned; lighter and harder than lead.",
@@ -888,7 +888,7 @@ window.ACADEMY.push({
       coach_en: "With steel, open your chokes one step and go up a shot size.",
       coach_uk: "Зі сталлю відкрийте чоки на один крок і візьміть крупніший дріб — на номер менший.",
       tip_uk: "«Go up a shot size» = дробини більші, тобто номер МЕНШИЙ (з № 9 на № 8). Тут легко заплутатися.",
-      related: ["lead-shot", "modified", "full-choke", "shot-size", "wad"], verify: true },
+      related: ["lead-shot", "modified", "full-choke", "shot-size", "wad"], verify: true, verify_note_uk: "Щільність, проби стволів і рекомендації щодо чоків — дані виробників і проб-палат; регламенти FITASC сталевого дробу не передбачають (вони говорять про свинець). Звірте з правилами стрільбища." },
 
     { id: "recoil", term: "Recoil", aka: ["Kick", "Felt recoil", "Muzzle flip", "Flinch"], cat: "Ammunition",
       short_en: "The backward push of the gun into the shoulder when it fires.",
@@ -933,7 +933,7 @@ window.ACADEMY.push({
       coach_en: "Your hard case must be locked before you hand it over at check-in.",
       coach_uk: "Перед здачею на реєстрації кейс має бути замкнений.",
       tip_uk: "Ключі від кейса — у ручній поклажі власника, а не всередині кейса. Нагадайте групі заздалегідь.",
-      related: ["gun-slip", "flying-with-guns", "efp"], verify: true },
+      related: ["gun-slip", "flying-with-guns", "efp"], verify: true, verify_note_uk: "Вимоги до кейса й перевезення патронів різні в авіакомпаній — звірте з умовами конкретного перевізника." },
 
     { id: "gun-rack", term: "Gun rack", aka: ["Rack", "Gun stand", "Gun rest"], cat: "Handling, transport & law",
       short_en: "A stand where guns are placed upright, open and empty, at the clubhouse or on the stands.",
@@ -966,7 +966,7 @@ window.ACADEMY.push({
       coach_en: "Flag in, action open — then you can walk to the next stand.",
       coach_uk: "Прапорець у патроннику, затвор відкрито — тепер можете йти до наступного майданчика.",
       tip_uk: "Вимогу щодо прапорців перевіряйте в регламенті конкретних змагань — вона не скрізь однакова.",
-      related: ["semi-automatic", "break-the-gun", "chamber", "gun-rack"], verify: true },
+      related: ["semi-automatic", "break-the-gun", "chamber", "gun-rack"], verify: true, rule_refs: [{book: "sporting", id: "ch7-gun-handling", ref: "Chapter 7, 7.1 Definition", page: 11}, {book: "compak", id: "ch24-carrying", ref: "Chapter 24, Safety rules (handling and carrying)", page: 27}], verify_note_uk: "Прапорця в патроннику регламенти FITASC не вимагають (вони вимагають носити рушницю відкритою, напівавтомат — із відкритим затвором); звірте з правилами стрільбища й змагань." },
 
     { id: "muzzle-discipline", term: "Muzzle discipline", aka: ["Muzzle awareness", "Muzzle control", "Muzzles down"], cat: "Handling, transport & law",
       short_en: "The habit of always keeping the muzzle pointed in a safe direction when handling a gun.",
@@ -999,7 +999,7 @@ window.ACADEMY.push({
       coach_en: "Is this gun on your European Firearms Pass? The serial number must match.",
       coach_uk: "Ця рушниця вписана у ваш європейський паспорт на зброю? Серійний номер має збігатися.",
       tip_uk: "Для українських груп з-поза ЄС EFP не підходить — потрібні окремі дозволи. Почніть оформлення за кілька тижнів, а краще місяців, і перевірте все в посольствах.",
-      related: ["flying-with-guns", "hard-case", "action", "gauge"], verify: true },
+      related: ["flying-with-guns", "hard-case", "action", "gauge"], verify: true, verify_note_uk: "Правила EFP і дозволів змінюються — звірте з чинною директивою ЄС і вимогами країн маршруту." },
 
     { id: "flying-with-guns", term: "Flying with guns", aka: ["Declaring firearms", "Firearms in checked baggage", "Sporting firearms baggage", "Ammunition allowance"], cat: "Handling, transport & law",
       short_en: "Travelling by air with shotguns: declared in advance, unloaded, locked in a hard case, with cartridges under separate rules.",
@@ -1010,7 +1010,7 @@ window.ACADEMY.push({
       coach_en: "Did you declare your guns when you booked? Some airlines need 48 hours' notice.",
       coach_uk: "Ви задекларували рушниці під час бронювання? Деяким авіакомпаніям потрібне попередження за 48 годин.",
       tip_uk: "Збирайте від групи заздалегідь: номери дозволів, серійні номери, кількість патронів. Пересадки (особливо з різними авіакомпаніями) — найризикованіше місце.",
-      related: ["hard-case", "efp", "cartridge"], verify: true },
+      related: ["hard-case", "efp", "cartridge"], verify: true, verify_note_uk: "Ліміт патронів (близько 5 кг) і порядок декларування залежать від авіакомпанії — звірте з умовами перевізника письмово." },
 
     { id: "rental-gun", term: "Rental gun", aka: ["Hire gun", "Club gun", "Ground gun", "Loan gun"], cat: "Handling, transport & law",
       short_en: "A gun lent or rented by the shooting ground, usually for the day and with the ground's cartridges.",
@@ -1021,7 +1021,7 @@ window.ACADEMY.push({
       coach_en: "You can hire a gun for twenty-five euros, but you must use our cartridges.",
       coach_uk: "Рушницю можна взяти в оренду за двадцять п’ять євро, але патрони мають бути наші.",
       tip_uk: "Під час бронювання туру уточніть кількість клубних рушниць, лівші/правші та розміри — на групу їх може не вистачити.",
-      related: ["sporter", "adjustable-comb", "gun-fit", "semi-automatic"], verify: true }
+      related: ["sporter", "adjustable-comb", "gun-fit", "semi-automatic"], verify: true, verify_note_uk: "Умови оренди й потреба в ліцензії залежать від країни й стрільбища — звірте з конкретним стрільбищем." }
   ],
   quiz: [
     { q_en: "A coach says: 'Break your gun before you leave the stand.' What should the shooter do?",

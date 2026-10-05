@@ -40,8 +40,8 @@ window.ACADEMY.push({
     { id: "s6",
       title_en: "Shoot-off at sunset",
       title_uk: "Перестрілка на заході сонця",
-      text_en: "In the evening the group watches the end of a local [[grand-prix|Grand Prix]]. Eight layouts — a full [[round]] of 25 targets each, 200 in total. The results board is covered with [[category|categories]]: Lady, Junior, Veteran, Super Veteran and Senior. «Senior is not grandpas,» Marek warns. «In FITASC Senior is the main adult category.» Vika circles it in red: a classic trap for an interpreter. Next to it, the club also prints a [[class]] table, A, B and C, so beginners compete with beginners. Two men finish with 187 and share first place. For seventh place, a tie is settled by [[countback]] — whoever shot better on the last layout. But for gold there is a [[shoot-off]]. The two finalists walk to a special stand, the referee announces «sudden death», and the crowd gathers. Pair, pair, pair — then one rabbit escapes. The other man raises his gun: winner, and also [[hoa|HOA]] of the weekend. «Next spring — a [[world-cup|World Cup]] stage, and maybe the European [[championship]],» Marek grins. Vika closes her notebook. She has a feeling she will need a second one.",
-      text_uk: "Увечері група дивиться фінал місцевого [[grand-prix|Grand Prix]]. Вісім майданчиків — кожен по [[round]] з 25 мішеней, разом 200. Табло рясніє [[category|categories]]: Lady, Junior, Veteran, Super Veteran і Senior. «Senior — це не дідусі, — попереджає Марек. — У FITASC Senior — основна доросла категорія». Віка обводить це червоним: класична пастка для перекладача. Поряд клуб друкує ще й таблицю [[class]] — A, B, C, — щоб новачки змагалися з новачками. Двоє чоловіків мають по 187 і ділять перше місце. Нічию за сьоме місце розв'язують через [[countback]] — хто краще відстріляв останній майданчик. А за золото — [[shoot-off]]. Двоє фіналістів ідуть до окремої позиції, суддя оголошує «до першого промаху», і довкола збирається натовп. Дуплет, дуплет, дуплет — і один кролик тікає. Інший чоловік піднімає рушницю: переможець, а заразом і [[hoa|HOA]] вихідних. «Навесні — етап [[world-cup|World Cup]], а може, і [[championship]] Європи», — усміхається Марек. Віка закриває блокнот. Здається, їй знадобиться другий."
+      text_en: "In the evening the group watches the end of a local [[grand-prix|Grand Prix]]. Eight layouts — a full [[round]] of 25 targets each, 200 in total. The results board is covered with [[category|categories]]: Lady, Junior, Veteran, Super Veteran and Senior. «Senior is not grandpas,» Marek warns. «In FITASC Senior is the main adult category.» Vika circles it in red: a classic trap for an interpreter. Next to it, the club also prints a [[class]] table, A, B and C, so beginners compete with beginners. Two men finish with 187 and share first place. For seventh place, a tie is settled by [[countback]] — whoever shot better on the last layout. But for gold there is a [[shoot-off]]. The two finalists shoot a 25-target shoot-off on a fresh layout, are still level, and the referee announces «sudden death»; the crowd gathers. Pair, pair, pair — then one rabbit escapes. The other man raises his gun: winner, and also [[hoa|HOA]] of the weekend. «Next spring — a [[world-cup|World Cup]] stage, and maybe the European [[championship]],» Marek grins. Vika closes her notebook. She has a feeling she will need a second one.",
+      text_uk: "Увечері група дивиться фінал місцевого [[grand-prix|Grand Prix]]. Вісім майданчиків — кожен по [[round]] з 25 мішеней, разом 200. Табло рясніє [[category|categories]]: Lady, Junior, Veteran, Super Veteran і Senior. «Senior — це не дідусі, — попереджає Марек. — У FITASC Senior — основна доросла категорія». Віка обводить це червоним: класична пастка для перекладача. Поряд клуб друкує ще й таблицю [[class]] — A, B, C, — щоб новачки змагалися з новачками. Двоє чоловіків мають по 187 і ділять перше місце. Нічию за сьоме місце розв'язують через [[countback]] — хто краще відстріляв останній майданчик. А за золото — [[shoot-off]]. Двоє фіналістів стріляють перестрілку на 25 мішеней на новому майданчику, знову мають рівний результат, і суддя оголошує «до першого промаху»; довкола збирається натовп. Дуплет, дуплет, дуплет — і один кролик тікає. Інший чоловік піднімає рушницю: переможець, а заразом і [[hoa|HOA]] вихідних. «Навесні — етап [[world-cup|World Cup]], а може, і [[championship]] Європи», — усміхається Марек. Віка закриває блокнот. Здається, їй знадобиться другий."
     }
   ],
   terms: [
@@ -118,7 +118,7 @@ window.ACADEMY.push({
       coach_uk: "У результатах NSCA він у класі Master і HOA — це найвищий рівень.",
       tip_uk: "Sporting Clays — американська назва; у США «station» часто означає те саме, що в Європі «stand».",
       related: ["sporting", "class", "hoa", "gun-up"],
-      verify: true
+      verify: true, verify_note_uk: "Правил NSCA (класи, gun up, формати Sporting Clays) немає в довіднику FITASC — звірте з чинними правилами NSCA."
     },
     { id: "trap-discipline",
       term: "Trap (discipline)",
@@ -171,14 +171,14 @@ window.ACADEMY.push({
       cat: "Ground & course",
       short_en: "One complete Sporting course of 25 targets with its group of stands and traps.",
       short_uk: "Один повний курс Sporting на 25 мішеней із групою позицій і машинок.",
-      long_en: "In FITASC Sporting a layout (parcours) is a set of usually three or four stands served by several traps, together presenting 25 targets as singles and pairs. A 100-target competition uses four layouts, a 200-target championship eight. Squads move from layout to layout, and the order and traps are changed between days. In English Sporting the word «course» usually means the whole circuit of stands.",
-      long_uk: "У FITASC Sporting layout (parcours) — це набір зазвичай із трьох-чотирьох позицій, які обслуговує кілька машинок; разом вони дають 25 мішеней поодинці та дуплетами. Змагання на 100 мішеней використовують чотири майданчики, чемпіонат на 200 — вісім. Зміни переходять з майданчика на майданчик, а порядок і налаштування машинок змінюють між днями. В English Sporting слово «course» зазвичай означає весь маршрут позицій.",
+      long_en: "In FITASC Sporting a layout (parcours) is a set of shooting stands served by several traps that together present 25 targets: 15 singles and 5 doubles. In the old system a layout has 3 shooting positions and 5 traps; new-system lines have 4 positions (three with 4 traps and one with 3) or 5 positions with 3 traps each, and a line of 3 positions with 5 traps each is allowed for Grand Prix only. An international competition is 200 targets, i.e. eight layouts; a 100-target event uses four. Squads move from layout to layout, and before the event the layouts are presented by the course designers and validated by the jury and the chief referee. In English Sporting the word «course» usually means the whole circuit of stands.",
+      long_uk: "У FITASC Sporting layout (parcours) — це набір стрілецьких позицій, які обслуговує кілька машинок; разом вони дають 25 мішеней: 15 поодиноких і 5 дуплетів. За старою системою на майданчику 3 позиції й 5 машинок; лінії нової системи мають 4 позиції (три з 4 машинками й одну з 3) або 5 позицій по 3 машинки, а лінію з 3 позицій по 5 машинок дозволено лише на Grand Prix. Міжнародні змагання — це 200 мішеней, тобто вісім майданчиків; змагання на 100 мішеней використовують чотири. Зміни переходять з майданчика на майданчик, а самі майданчики перед змаганнями представляють постановники й затверджують журі та головний суддя. В English Sporting слово «course» зазвичай означає весь маршрут позицій.",
       uk_usage: "«майданчик», «паркур», «поле»",
       coach_en: "Layout three is the hardest today — lots of minis in the trees.",
       coach_uk: "Третій майданчик сьогодні найважчий — багато міні між деревами.",
       tip_uk: "Уникайте «площадка» — це калька; літературно «майданчик». Не перекладайте layout як «план» чи «розкладка».",
       related: ["stand", "round", "trap-machine", "squad-rotation"],
-      verify: true
+      verify: false, rule_refs: [{book: "sporting", id: "ch2-traps-table", ref: "Chapter 2, 2.2 Traps", page: 3}, {book: "sporting", id: "ch4-glossary", ref: "Glossary", page: 26}, {book: "sporting", id: "ch16-format", ref: "Chapter 16, 16.1", page: 23}, {book: "sporting", id: "ch15-layout-officials", ref: "Chapter 15, 15.6 Responsible persons for the layouts, 15.6.1–15.6.4", page: 22}]
     },
     { id: "stand",
       term: "Stand",
@@ -201,14 +201,14 @@ window.ACADEMY.push({
       cat: "Ground & course",
       short_en: "The exact marked spot or square within a stand where the shooter must stand while shooting.",
       short_uk: "Точно позначене місце чи квадрат на позиції, де стрілець мусить стояти під час стрільби.",
-      long_en: "The peg is the precise shooting spot: a small square on the ground, a wooden frame or a stake. The shooter must keep both feet inside it while shooting; leaving it can lead to a warning or a lost target under the rules. The peg fixes the angle from which every shooter sees the targets, so the competition is fair. In English the word comes from the wooden peg that once marked the spot.",
-      long_uk: "Peg — точне місце стрільби: невеликий квадрат на землі, дерев'яна рамка або кілок. Під час стрільби стрілець мусить тримати обидві ноги всередині; вихід за межі за правилами може коштувати попередження або втраченої мішені. Квадрат фіксує кут, під яким кожен стрілець бачить мішені, тож змагання чесні. Англійська назва походить від дерев'яного кілочка, яким колись позначали місце.",
+      long_en: "The peg is the precise shooting spot. Under the FITASC rules the shooting stand is a 1 m square or a circle 1 m in diameter, level if possible and never slippery. In the ready position the shooter must have both feet inside it; a wrong ready position brings a warning with a yellow card and, if repeated on the same layout, a red card and a lost target. The peg fixes the angle from which every shooter sees the targets, so the competition is fair. In English the word comes from the wooden peg that once marked the spot.",
+      long_uk: "Peg — точне місце стрільби. За правилами FITASC стрілецька позиція — квадрат 1 × 1 м або коло діаметром 1 м, за можливості рівне й ніколи не слизьке. У вихідному положенні обидві ноги стрільця мають бути всередині; неправильне вихідне положення — це попередження з жовтою карткою, а повторне на тому самому майданчику — червона картка й зарахований промах. Квадрат фіксує кут, під яким кожен стрілець бачить мішені, тож змагання чесні. Англійська назва походить від дерев'яного кілочка, яким колись позначали місце.",
       uk_usage: "«квадрат», «номер», «стати на номер»",
       coach_en: "Step into the peg, set your feet for the kill point, then call.",
       coach_uk: "Стань у квадрат, постав ноги під точку влучання, тоді давай команду.",
       tip_uk: "Не перекладайте як «кілок» у значенні дерев'яного стовпчика — у більшості випадків це квадрат на землі.",
       related: ["stand", "cage", "safe-zone"],
-      verify: true
+      verify: false, rule_refs: [{book: "sporting", id: "ch2-shooting-stands", ref: "Chapter 2, 2.4 Shooting stands", page: 4}, {book: "sporting", id: "ch3-ready-position", ref: "Chapter 3, 3.1 Shooting position, 3.1.1", page: 5}, {book: "sporting", id: "ch12-yellow-card", ref: "Chapter 12, 12.1", page: 17}, {book: "sporting", id: "ch12-red-card", ref: "Chapter 12, 12.2", page: 17}]
     },
     { id: "cage",
       term: "Cage",
@@ -298,7 +298,7 @@ window.ACADEMY.push({
       coach_uk: "Кнопка в судді — дочекайся, поки він кивне, і тоді давай команду.",
       tip_uk: "«Пульт» у розмові — це кнопка запуску, а не пульт керування машинкою загалом.",
       related: ["voice-release", "trapper", "referee", "call"],
-      verify: true
+      verify: false, rule_refs: [{book: "sporting", id: "ch5-call-and-release", ref: "Chapter 5, 5.4", page: 9}, {book: "sporting", id: "ch6-nobird-target-cases", ref: "Chapter 6, 6.5.2 «NO BIRD» due to the target", page: 11}]
     },
     { id: "safe-zone",
       term: "Safe zone",
@@ -313,7 +313,7 @@ window.ACADEMY.push({
       coach_uk: "Бий кролика до другого стовпчика — далі вже поза зоною.",
       tip_uk: "Не перекладайте як «безпечна зона» в сенсі «тут можна сховатися» — це навпаки зона, куди стріляють. Краще «сектор стрільби».",
       related: ["cage", "peg", "target-showing", "referee"],
-      verify: true
+      verify: false, rule_refs: [{book: "sporting", id: "ch9-visible-break", ref: "Chapter 9, 9.1; 9.2", page: 15}, {book: "sporting", id: "ch1-safety-environment", ref: "Chapter 1, Definition of sporting", page: 3}]
     },
     { id: "tower",
       term: "Tower",
@@ -373,7 +373,7 @@ window.ACADEMY.push({
       coach_uk: "Спершу стандарт уліво, потім міді за пострілом.",
       tip_uk: "Не плутайте «стандарт» (тип мішені) з «за стандартом» (за правилами).",
       related: ["clay-target", "midi", "mini", "battue"],
-      verify: true
+      verify: true, rule_refs: [{book: "sporting", id: "ch2-targets", ref: "Chapter 2, 2.3 Targets", page: 4}], verify_note_uk: "Розміри й вага стандарту (110 мм, 25–26 мм, близько 105 г) і твердження, що в трапі й скиті використовують лише стандарт, у регламенті FITASC Sporting не наведені — звірте зі специфікацією мішеней і правилами ISSF."
     },
     { id: "midi",
       term: "Midi",
@@ -418,7 +418,7 @@ window.ACADEMY.push({
       coach_uk: "Батю наприкінці перевернеться й упаде — бий її, поки вона йде вгору.",
       tip_uk: "Вимова французька — [батю]; не кажіть «баттуе». Слово не відмінюється.",
       related: ["looper", "chandelle", "dropping", "clay-target"],
-      verify: true
+      verify: true, rule_refs: [{book: "sporting", id: "ch2-targets", ref: "Chapter 2, 2.3 Targets", page: 4}], verify_note_uk: "Батют є в переліку дозволених мішеней FITASC, але діаметр (близько 108 мм) і поведінку в польоті регламент не описує — звірте зі специфікацією виробника."
     },
     { id: "rabbit",
       term: "Rabbit",
@@ -441,14 +441,14 @@ window.ACADEMY.push({
       cat: "Targets",
       short_en: "A special 110 mm target shaped to keep its speed longer than a standard, used to make targets fly further and faster.",
       short_uk: "Особлива мішень діаметром 110 мм, форма якої дозволяє довше зберігати швидкість, ніж стандарт.",
-      long_en: "A rocket is a 110 mm target with a different profile from the standard, designed to hold its speed and line longer. It is used for long, fast targets where a standard would slow down too much. On the stand it can look like a standard, but it behaves differently at the end of its flight. Not every competition or ground uses rockets, and the list of approved target types depends on the rulebook.",
-      long_uk: "Rocket — мішень діаметром 110 мм з іншим профілем, ніж у стандарту, розрахована довше зберігати швидкість і лінію польоту. Її використовують для довгих швидких мішеней, де стандарт надто загальмував би. На позиції вона може виглядати як стандарт, але наприкінці польоту поводиться інакше. Не всі змагання чи комплекси використовують «ракети», а перелік дозволених типів мішеней визначають правила.",
+      long_en: "A rocket is a 110 mm target with a different profile from the standard, designed to hold its speed and line longer. It is used for long, fast targets where a standard would slow down too much. On the stand it can look like a standard, but it behaves differently at the end of its flight. The FITASC Compak rulebook lists the rocket among permitted targets, while the FITASC Sporting list (standard, rabbit, midi, super mini, battue, flash, ZZ) does not name it, so check the rules of the event.",
+      long_uk: "Rocket — мішень діаметром 110 мм з іншим профілем, ніж у стандарту, розрахована довше зберігати швидкість і лінію польоту. Її використовують для довгих швидких мішеней, де стандарт надто загальмував би. На позиції вона може виглядати як стандарт, але наприкінці польоту поводиться інакше. Регламент FITASC Compak називає rocket серед дозволених мішеней, а перелік FITASC Sporting (standard, rabbit, midi, super mini, battue, flash, ZZ) його не містить, тож перевіряйте правила змагань.",
       uk_usage: "«ракета», «рокет»",
       coach_en: "It's a rocket, not a standard — it won't slow down where you expect.",
       coach_uk: "Це ракета, не стандарт, — вона не загальмує там, де ти чекаєш.",
       tip_uk: "Якщо не впевнені, чи це rocket, перепитайте суддю або постановника — на око новачок їх не відрізнить.",
       related: ["standard-target", "crosser", "clay-target"],
-      verify: true
+      verify: true, rule_refs: [{book: "sporting", id: "ch2-targets", ref: "Chapter 2, 2.3 Targets", page: 4}, {book: "compak", id: "ch3-targets", ref: "Chapter 3, 3.2 Targets", page: 8}], verify_note_uk: "Профіль і поведінку мішені rocket регламенти не описують — звірте зі специфікацією виробника. Перелік дозволених мішеней звірено: у компаку rocket є, у переліку FITASC Sporting — немає."
     },
     { id: "chandelle",
       term: "Chandelle",
@@ -463,7 +463,7 @@ window.ACADEMY.push({
       coach_uk: "Бий шандель трохи до верхньої точки, поки вона ще йде вгору.",
       tip_uk: "Не плутайте з teal: teal летить майже вертикально, chandelle описує дугу.",
       related: ["teal", "battue", "looper", "springing"],
-      verify: true
+      verify: true, verify_note_uk: "Chandelle — назва подачі з практики постановників; у регламентах FITASC вона не визначена, тож опис звірте з тренером або постановником."
     },
     { id: "flash-target",
       term: "Flash target",
@@ -478,7 +478,7 @@ window.ACADEMY.push({
       coach_uk: "У фіналі будуть флеш-мішені — глядачі побачать кожне влучання.",
       tip_uk: "Для організатора: якщо замовляєте відеозйомку, запитайте, чи будуть флеш-мішені, — це найкращі кадри.",
       related: ["coloured-target", "dead", "shoot-off"],
-      verify: true
+      verify: false, rule_refs: [{book: "sporting", id: "ch2-targets", ref: "Chapter 2, 2.3 Targets", page: 4}, {book: "sporting", id: "ch6-target-one", ref: "Chapter 6, 6.3", page: 10}, {book: "compak", id: "ch20-one", ref: "Chapter 20, 20.1 The target is declared \"ONE\"", page: 23}]
     },
     { id: "coloured-target",
       term: "Coloured target",
@@ -486,14 +486,14 @@ window.ACADEMY.push({
       cat: "Targets",
       short_en: "Targets painted in different colours (orange, black, yellow, pink, white) to be visible against a particular background.",
       short_uk: "Мішені різного кольору (помаранчеві, чорні, жовті, рожеві, білі), щоб їх було видно на певному тлі.",
-      long_en: "Targets come in many colours: black against the sky, orange or fluorescent against trees, white for snow or dark backgrounds. The colour is chosen by the course setter for visibility, but in Sporting it can also make a target deliberately harder to see. If a target of a different colour from the one shown appears, it may be treated as irregular. Colour also helps the referee and shooters recognise which trap a target comes from.",
-      long_uk: "Мішені бувають різних кольорів: чорні — на тлі неба, помаранчеві чи флуоресцентні — на тлі дерев, білі — на снігу чи темному тлі. Колір обирає постановник курсу заради видимості, але в Sporting ним можна й навмисно ускладнити мішень. Якщо вилетіла мішень іншого кольору, ніж показували, її можуть визнати нерегулярною. Колір також допомагає судді й стрільцям розпізнати, з якої машинки летить мішень.",
+      long_en: "Targets come in many colours: black against the sky, orange or fluorescent against trees, white for snow or dark backgrounds. Under the FITASC rules the colour must stand out clearly against the background, and two-colour targets are not recommended; in Compak too the colour should give the best visibility. If a target of a different colour appears, the referee calls a No Bird. Colour also helps the referee and shooters recognise which trap a target comes from.",
+      long_uk: "Мішені бувають різних кольорів: чорні — на тлі неба, помаранчеві чи флуоресцентні — на тлі дерев, білі — на снігу чи темному тлі. За правилами FITASC колір має чітко виділятися на тлі, а двоколірні мішені не рекомендовані; у компаку колір теж добирають для найкращої видимості. Якщо вилетіла мішень іншого кольору, суддя оголошує no bird. Колір також допомагає судді й стрільцям розпізнати, з якої машинки летить мішень.",
       uk_usage: "«помаранчева», «чорна», «флуо»",
       coach_en: "The black one is the midi, the orange one is the standard — don't mix them up.",
       coach_uk: "Чорна — це міді, помаранчева — стандарт, не переплутай.",
       tip_uk: "Колір не є типом мішені: «orange» означає тільки колір, а не розмір.",
       related: ["flash-target", "irregular-target", "clay-target"],
-      verify: true
+      verify: false, rule_refs: [{book: "sporting", id: "ch2-targets", ref: "Chapter 2, 2.3 Targets", page: 4}, {book: "sporting", id: "ch6-nobird-target-cases", ref: "Chapter 6, 6.5.2 «NO BIRD» due to the target", page: 11}, {book: "compak", id: "ch3-targets", ref: "Chapter 3, 3.2 Targets", page: 8}]
     },
     { id: "crosser",
       term: "Crosser",
@@ -688,22 +688,22 @@ window.ACADEMY.push({
       coach_uk: "На цій позиції три поодинокі: кросер, свічка й кролик.",
       tip_uk: "«Одиночка» — розмовне; у поясненнях краще «поодинока мішень».",
       related: ["pair", "second-shot", "target-showing"],
-      verify: true
+      verify: false, rule_refs: [{book: "sporting", id: "ch4-single-target", ref: "Chapter 4, 4.1 Definition of a single target", page: 7}, {book: "sporting", id: "ch16-singles-then-doubles", ref: "Chapter 16, 16.3", page: 23}, {book: "sporting", id: "ch6-target-one", ref: "Chapter 6, 6.3", page: 10}]
     },
     { id: "pair",
       term: "Pair",
       aka: ["Double", "Doubles", "Doublé"],
       cat: "Singles & pairs",
-      short_en: "Two targets shot as one sequence, one shot for each target.",
-      short_uk: "Дві мішені, які стріляють однією послідовністю, по одному пострілу на кожну.",
-      long_en: "A pair (double) is two targets presented in one sequence. Depending on how the second target is released, it is a report pair, a simultaneous pair or a following pair (rafale). In a pair the shooter normally has one shot per target and chooses which target to shoot first only if the rules and the referee's announcement allow it. Pairs are where most points are won and lost in Sporting.",
-      long_uk: "Pair (дуплет) — дві мішені в одній послідовності. Залежно від того, як вилітає друга мішень, це report pair, simultaneous pair або following pair (rafale). У дуплеті стрілець зазвичай має по одному пострілу на мішень, а порядок мішеней обирає, лише якщо це дозволяють правила й оголошення судді. Саме на дуплетах у Sporting здобувають і втрачають найбільше очок.",
+      short_en: "Two targets shot as one sequence, with two cartridges in total.",
+      short_uk: "Дві мішені, які стріляють однією послідовністю, маючи загалом два патрони.",
+      long_en: "A pair (double) is two targets presented in one sequence. Depending on how the second target is released, it is a report pair, a simultaneous pair or a following pair (rafale). Under the FITASC Sporting rules the shooter has two cartridges for a pair and may fire both at the same target; in a report pair the order is fixed, in simultaneous and rafale pairs either target may be taken first. In Compak only one cartridge may be fired at each target of a pair. Pairs are where most points are won and lost in Sporting.",
+      long_uk: "Pair (дуплет) — дві мішені в одній послідовності. Залежно від того, як вилітає друга мішень, це report pair, simultaneous pair або following pair (rafale). За правилами FITASC Sporting на дуплет стрілець має два патрони й може випустити обидва по одній мішені; у дуплеті за пострілом порядок фіксований, а в одночасному дуплеті й rafale першою можна брати будь-яку мішень. У компаку по кожній мішені дуплета можна вистрілити лише один патрон. Саме на дуплетах у Sporting здобувають і втрачають найбільше очок.",
       uk_usage: "«дуплет», «дубль»",
       coach_en: "Two pairs on this stand — the first on report, the second simultaneous.",
       coach_uk: "На цій позиції два дуплети: перший — за пострілом, другий — одночасний.",
       tip_uk: "В українській стрілецькій мові найуживаніше «дуплет»; «дубль» теж розуміють. Не перекладайте «пара» — звучить як про людей.",
       related: ["report-pair", "simultaneous-pair", "following-pair", "single"],
-      verify: false
+      verify: false, rule_refs: [{book: "sporting", id: "ch4-doubles-general", ref: "Chapter 4, 4.2 Definition of doubles", page: 7}, {book: "sporting", id: "ch4-simultaneous-double", ref: "Chapter 4, 4.2 Definition of doubles, 4.2.2 Simultaneous double", page: 7}, {book: "sporting", id: "ch4-rafale-double", ref: "Chapter 4, 4.2 Definition of doubles, 4.2.3 Rafale double", page: 7}, {book: "compak", id: "ch3-one-cartridge-per-target", ref: "Chapter 3, 3.3.3 One cartridge per target in doubles", page: 8}]
     },
     { id: "report-pair",
       term: "Report pair",
@@ -718,7 +718,7 @@ window.ACADEMY.push({
       coach_uk: "Це репорт — спокійно добий першу, друга чекатиме на твій постріл.",
       tip_uk: "«Репорт» тут — не «звіт»! Report англійською також означає «звук пострілу». Типова помилка перекладача.",
       related: ["pair", "simultaneous-pair", "following-pair", "voice-release"],
-      verify: false
+      verify: false, rule_refs: [{book: "sporting", id: "ch4-double-on-report", ref: "Chapter 4, 4.2 Definition of doubles, 4.2.1 Double on report", page: 7}, {book: "compak", id: "ch3-double-on-report", ref: "Chapter 3, 3.3.1 Double on report", page: 8}]
     },
     { id: "simultaneous-pair",
       term: "Simultaneous pair",
@@ -726,14 +726,14 @@ window.ACADEMY.push({
       cat: "Singles & pairs",
       short_en: "A pair in which both targets are released at the same moment.",
       short_uk: "Дуплет, у якому обидві мішені вилітають одночасно.",
-      long_en: "In a simultaneous pair both targets are launched together on the shooter's call, from one trap or two. The shooter must decide quickly which target to take first — usually the one that will disappear or drop first. Under FITASC rules a shooter may be able to break both targets with one shot and have both counted, but the exact scoring should be checked in the current rulebook. In English Sporting the same thing is called a true pair.",
-      long_uk: "У simultaneous pair обидві мішені вилітають разом на команду стрільця — з однієї машинки чи з двох. Стрілець мусить швидко вирішити, яку брати першою, — зазвичай ту, що раніше зникне або впаде. За правилами FITASC розбиття обох мішеней одним пострілом може бути зараховане як дві влучні, але точний порядок зарахування треба перевіряти в чинних правилах. В English Sporting це називають true pair.",
+      long_en: "In a simultaneous pair both targets are launched together on the shooter's call, from one trap or two, and may be shot in either order. The shooter must decide quickly which target to take first — usually the one that will disappear or drop first. Under the FITASC Sporting rules the shooter has two cartridges for the pair and may even fire both at the same target; if one shot breaks both targets, both are scored («one» and «one»). Compak is different: there each target gets one cartridge, and two targets broken with one shot are a No Bird. In English Sporting the same thing is called a true pair.",
+      long_uk: "У simultaneous pair обидві мішені вилітають разом на команду стрільця — з однієї машинки чи з двох, — і стріляти їх можна в будь-якому порядку. Стрілець мусить швидко вирішити, яку брати першою, — зазвичай ту, що раніше зникне або впаде. За правилами FITASC Sporting на дуплет стрілець має два патрони й може навіть випустити обидва по одній мішені; якщо одним пострілом розбито обидві мішені, зараховують обидві («one» і «one»). У компаку інакше: там на кожну мішень один патрон, а дві мішені, розбиті одним пострілом, — це no bird. В English Sporting це називають true pair.",
       uk_usage: "«одночасний дуплет», «сімул», «одночасний»",
       coach_en: "Simultaneous pair: take the rabbit first, then the teal — the teal waits for you.",
       coach_uk: "Одночасний дуплет: спершу кролик, потім свічка — свічка тебе почекає.",
       tip_uk: "Не плутайте з report pair: в одночасному обидві мішені вже в повітрі, коли стрілець піднімає рушницю.",
       related: ["true-pair", "report-pair", "pair", "second-shot"],
-      verify: true
+      verify: false, rule_refs: [{book: "sporting", id: "ch4-simultaneous-double", ref: "Chapter 4, 4.2 Definition of doubles, 4.2.2 Simultaneous double", page: 7}, {book: "sporting", id: "ch4-doubles-general", ref: "Chapter 4, 4.2 Definition of doubles", page: 7}, {book: "sporting", id: "ch6-two-with-one-shot", ref: "Chapter 6, 6.5.2, note under the table; Chapter 7, 7.9", page: 11}, {book: "compak", id: "ch3-two-with-one-simultaneous", ref: "Chapter 3, 3.3.3 (simultaneous double: two targets with one shot)", page: 8}]
     },
     { id: "true-pair",
       term: "True pair",
@@ -763,7 +763,7 @@ window.ACADEMY.push({
       coach_uk: "Це рафаль — після першого пострілу одразу повертайся до машинки по другу.",
       tip_uk: "Rafale — термін FITASC; following pair — CPSA. Значення однакове. Не перекладайте «черговий дуплет».",
       related: ["pair", "report-pair", "simultaneous-pair", "trap-machine"],
-      verify: true
+      verify: false, rule_refs: [{book: "sporting", id: "ch4-rafale-double", ref: "Chapter 4, 4.2 Definition of doubles, 4.2.3 Rafale double", page: 7}]
     },
     { id: "second-shot",
       term: "Second shot",
@@ -771,14 +771,14 @@ window.ACADEMY.push({
       cat: "Singles & pairs",
       short_en: "The rule that lets a shooter fire the second barrel at a single target if the first shot misses.",
       short_uk: "Правило, що дозволяє стрільцеві зробити другий постріл по поодинокій мішені, якщо перший схибив.",
-      long_en: "In Sporting a shooter normally has two cartridges in the gun. On a single target, FITASC and CPSA rules allow both shots to be fired at the same target, and a hit with the second shot counts the same as a hit with the first. In pairs each target normally gets one shot; if the shooter uses both barrels on the first target of a double, the second target is usually scored as lost. Details vary between rulebooks, so check them before a big event.",
-      long_uk: "У Sporting у рушниці зазвичай два патрони. По поодинокій мішені правила FITASC і CPSA дозволяють випустити обидва постріли, і влучання з другого пострілу важить стільки ж, скільки з першого. У дуплеті на кожну мішень зазвичай по одному пострілу; якщо стрілець витратив обидва на першу мішень дуплета, друга, як правило, зараховується як промах. Деталі різняться в різних правилах, тож перед великими змаганнями їх варто перевірити.",
+      long_en: "In Sporting a shooter normally has two cartridges in the gun. On a single target, FITASC and CPSA rules allow both shots to be fired at the same target, and a hit with the second shot counts the same as a hit with the first. For a double FITASC Sporting gives two cartridges in total and allows both to be fired at the same target; the other target, not fired at, is then scored zero. In Compak this is forbidden: only one cartridge per target of a double, and both shots at the first target are scored Zero-Zero.",
+      long_uk: "У Sporting у рушниці зазвичай два патрони. По поодинокій мішені правила FITASC і CPSA дозволяють випустити обидва постріли, і влучання з другого пострілу важить стільки ж, скільки з першого. На дуплет FITASC Sporting дає загалом два патрони й дозволяє випустити обидва по одній мішені; друга мішень, по якій не стріляли, тоді зараховується як нуль. У компаку так не можна: по кожній мішені дуплета лише один патрон, а два постріли по першій мішені оцінюють як нуль-нуль.",
       uk_usage: "«другий постріл», «добити другим», «другим стволом»",
       coach_en: "On the singles you have a second shot — if you miss, don't panic, just finish it.",
       coach_uk: "На поодиноких є другий постріл — схибив, не панікуй, просто добий.",
       tip_uk: "«Добити» в мові стрільців — розбити мішень другим пострілом. Слово звучить жорстко, але так кажуть.",
       related: ["single", "pair", "simultaneous-pair", "lost"],
-      verify: true
+      verify: false, rule_refs: [{book: "sporting", id: "ch4-single-target", ref: "Chapter 4, 4.1 Definition of a single target", page: 7}, {book: "sporting", id: "ch4-doubles-general", ref: "Chapter 4, 4.2 Definition of doubles", page: 7}, {book: "sporting", id: "ch6-target-zero", ref: "Chapter 6, 6.4", page: 10}, {book: "compak", id: "ch3-one-cartridge-per-target", ref: "Chapter 3, 3.3.3 One cartridge per target in doubles", page: 8}]
     },
     { id: "call",
       term: "Call",
@@ -808,22 +808,22 @@ window.ACADEMY.push({
       coach_uk: "Двадцять два в першій серії — нормально, попереду ще сім.",
       tip_uk: "Українські стрільці частіше кажуть «серія», ніж «раунд». «Двохсотка» — змагання на 200 мішеней.",
       related: ["layout", "squad", "championship", "countback"],
-      verify: true
+      verify: false, rule_refs: [{book: "sporting", id: "ch4-glossary", ref: "Glossary", page: 26}, {book: "sporting", id: "ch16-format", ref: "Chapter 16, 16.1", page: 23}]
     },
     { id: "squad",
       term: "Squad",
       aka: ["Shooting squad"],
       cat: "Competition",
-      short_en: "A group of shooters, in FITASC usually up to six, who shoot a layout together.",
-      short_uk: "Група стрільців (у FITASC зазвичай до шести), що разом стріляють майданчик.",
-      long_en: "Shooters are divided into squads that move together from layout to layout. In FITASC Sporting a squad usually has up to six shooters; in English Sporting squads are often three to six people. The squad list is published before the event with the start layout and time for each squad. The squad also acts as a small community — shooters help each other with scoring and keep the pace.",
-      long_uk: "Стрільців ділять на зміни, які разом переходять з майданчика на майданчик. У FITASC Sporting у зміні зазвичай до шести стрільців; в English Sporting — часто від трьох до шести. Список змін публікують перед змаганнями з майданчиком старту й часом для кожної. Зміна — це й маленька спільнота: стрільці допомагають одне одному з записом результатів і тримають темп.",
+      short_en: "A group of shooters, in FITASC at most six drawn by lot, who shoot a layout together.",
+      short_uk: "Група стрільців (у FITASC щонайбільше шість, за жеребкуванням), що разом стріляють майданчик.",
+      long_en: "Shooters are divided into squads that move together from layout to layout. In FITASC Sporting a squad has at most six shooters, formed by draw, and members of the same national team are spread over different squads where possible; in English Sporting squads are often three to six people. The squad list is published before the event with the start layout and time for each squad. The squad also acts as a small community — shooters help each other with scoring and keep the pace.",
+      long_uk: "Стрільців ділять на зміни, які разом переходять з майданчика на майданчик. У FITASC Sporting у зміні щонайбільше шість стрільців, яких розподіляють жеребкуванням, а членів однієї національної збірної за можливості розводять по різних змінах; в English Sporting — часто від трьох до шести. Список змін публікують перед змаганнями з майданчиком старту й часом для кожної. Зміна — це й маленька спільнота: стрільці допомагають одне одному з записом результатів і тримають темп.",
       uk_usage: "«зміна», «група», «сквод» (рідко)",
       coach_en: "You're in squad 12, starting on layout five at nine-thirty.",
       coach_uk: "Ти в дванадцятій зміні, старт на п'ятому майданчику о дев'ятій тридцять.",
       tip_uk: "Організаторам: якщо гості хочуть стріляти разом, про спільну зміну просять під час реєстрації, а не на місці.",
       related: ["squad-rotation", "start-stand", "scorer"],
-      verify: true
+      verify: false, rule_refs: [{book: "sporting", id: "ch4-glossary", ref: "Glossary", page: 26}, {book: "sporting", id: "ch16-squads", ref: "Chapter 16, 16.2", page: 23}]
     },
     { id: "squad-rotation",
       term: "Squad rotation",
@@ -831,14 +831,14 @@ window.ACADEMY.push({
       cat: "Competition",
       short_en: "The rule that changes the shooting order inside a squad so that no one always shoots first.",
       short_uk: "Правило, за яким змінюється порядок стрільби в зміні, щоб ніхто не стріляв першим постійно.",
-      long_en: "Shooting first on a stand is a disadvantage, because you have seen the targets only in the showing. That is why the order rotates: in FITASC Sporting the first shooter moves to the end of the order as the squad moves on, so everyone takes a turn at the front. Rotation can also apply to the order of squads across layouts. The referee or squad leader checks that the order on the scorecard is respected.",
-      long_uk: "Стріляти першим на позиції невигідно, бо мішені ти бачив лише на показі. Тому порядок змінюється: у FITASC Sporting перший стрілець переходить у кінець черги, коли зміна йде далі, і так кожен по черзі стає першим. Ротація може стосуватися й порядку змін на майданчиках. Суддя або старший зміни стежить, щоб дотримувалися порядку, зазначеного в картці.",
+      long_en: "Shooting first on a stand is a disadvantage, because you have seen the targets only in the showing. That is why the order rotates: in FITASC Sporting the first shooter moves to the end of the order as the squad moves on, so everyone takes a turn at the front; under the FITASC rules the order rotates at each stand and also for the doubles. Rotation can also apply to the order of squads across layouts. The referee or squad leader checks that the order on the scorecard is respected.",
+      long_uk: "Стріляти першим на позиції невигідно, бо мішені ти бачив лише на показі. Тому порядок змінюється: у FITASC Sporting перший стрілець переходить у кінець черги, коли зміна йде далі, і так кожен по черзі стає першим; за правилами FITASC порядок змінюється на кожній позиції, а також для дуплетів. Ротація може стосуватися й порядку змін на майданчиках. Суддя або старший зміни стежить, щоб дотримувалися порядку, зазначеного в картці.",
       uk_usage: "«черговість», «ротація», «хто перший»",
       coach_en: "You were first on the last layout, now you're last — that's the rotation.",
       coach_uk: "На минулому майданчику ти був першим, тепер останній — така ротація.",
       tip_uk: "Якщо стрілець з вашої групи обурюється, що стріляє першим, поясніть ротацію — це не випадковість і не несправедливість.",
       related: ["squad", "start-stand", "target-showing"],
-      verify: true
+      verify: false, rule_refs: [{book: "sporting", id: "ch16-squads", ref: "Chapter 16, 16.2", page: 23}, {book: "sporting", id: "ch16-singles-then-doubles", ref: "Chapter 16, 16.3", page: 23}]
     },
     { id: "start-stand",
       term: "Start stand",
@@ -861,14 +861,14 @@ window.ACADEMY.push({
       cat: "Competition",
       short_en: "Throwing the targets of a stand once without shooting, so the squad can see their trajectories.",
       short_uk: "Показ мішеней позиції без стрільби, щоб зміна побачила траєкторії.",
-      long_en: "Before shooting a stand, the targets are shown to the squad: each single and the targets of each pair are thrown so that shooters can see where they start, how they fly and where they land. In English Sporting the first shooter can usually ask for a «show pair». The referee may also indicate the safe zone and the order of the targets during the showing. Watching the showing carefully is one of the main skills of a Sporting shooter.",
-      long_uk: "Перед стрільбою на позиції мішені показують зміні: кожну поодиноку й мішені кожного дуплета кидають, щоб стрільці побачили, звідки вони стартують, як летять і де падають. В English Sporting перший стрілець зазвичай може попросити «show pair». Під час показу суддя також може вказати зону стрільби й порядок мішеней. Уважно дивитися показ — одна з головних навичок стрільця в Sporting.",
+      long_en: "Before shooting a stand, the targets are shown to the squad. Under the FITASC rules all trajectories are shown to the first shooter of the squad, who must stand ready on the stand; on request the referee repeats the presentation, up to two targets for each target in the menu. Doubles on report are not shown; simultaneous and rafale doubles are, again up to two on request. During the presentation guns are open and unloaded, and shooting or mock shooting is forbidden. After an interruption of more than ten minutes the targets are shown again. In English Sporting the first shooter can usually ask for a «show pair».",
+      long_uk: "Перед стрільбою на позиції мішені показують зміні. За правилами FITASC усі траєкторії показують першому стрільцеві зміни, який має стояти напоготові на позиції; на його прохання суддя повторює показ — не більше двох мішеней на кожну мішень меню. Дуплети за пострілом (report) не показують; одночасні дуплети й rafale показують — на прохання теж не більше двох. Під час показу рушниці відкриті й незаряджені, а стріляти чи імітувати стрільбу заборонено. Після перерви, довшої за десять хвилин, мішені показують знову. В English Sporting перший стрілець зазвичай може попросити «show pair».",
       uk_usage: "«показ», «показ мішеней», «покажіть дуплет»",
       coach_en: "Watch the show pair — look where the second one drops, not at the trap.",
       coach_uk: "Дивись показ дуплета — стеж, куди падає друга, а не на машинку.",
       tip_uk: "На показі не стріляють; попередьте новачків, щоб не заряджали рушницю передчасно.",
       related: ["single", "pair", "squad-rotation", "safe-zone"],
-      verify: true
+      verify: false, rule_refs: [{book: "sporting", id: "ch16-presentation", ref: "Chapter 16, 16.4; 16.5", page: 23}, {book: "sporting", id: "ch16-presentation-doubles", ref: "Chapter 16, 16.6", page: 23}, {book: "sporting", id: "ch8-presentation-interruption", ref: "Chapter 8, 8.7", page: 14}, {book: "sporting", id: "ch16-long-interruption", ref: "Chapter 16, 16.9", page: 24}]
     },
     { id: "scorecard",
       term: "Scorecard",
@@ -913,7 +913,7 @@ window.ACADEMY.push({
       coach_uk: "Якщо думаєш, що влучив, питай суддю одразу, а не після наступного дуплета.",
       tip_uk: "Перекладаючи суперечку зі суддею, не пом'якшуйте й не загострюйте — передавайте точно. Рішення про влучання оскаржують негайно, на позиції.",
       related: ["scorer", "dead", "lost", "no-bird", "protest", "jury"],
-      verify: true
+      verify: false, rule_refs: [{book: "sporting", id: "ch5-referee-oath", ref: "Chapter 5, 5.1", page: 9}, {book: "sporting", id: "ch5-referee-certificate", ref: "Chapter 5, 5.2", page: 9}, {book: "sporting", id: "ch9-how-to-appeal", ref: "Chapter 9, 9.5; 9.5.1", page: 15}, {book: "sporting", id: "ch9-jury-appeal", ref: "Chapter 9, 9.6; 9.7", page: 16}]
     },
     { id: "dead",
       term: "Dead",
@@ -921,14 +921,14 @@ window.ACADEMY.push({
       cat: "Referee calls",
       short_en: "The referee's call for a target that has been hit and broken according to the rules.",
       short_uk: "Оголошення судді про мішень, влучену й розбиту відповідно до правил.",
-      long_en: "A target is dead when, after a legal shot, at least a visible piece has broken off or it has been completely shattered into dust. A target that is only «dusted» without a visible piece coming off is usually not counted. The referee may say «dead», «good» or simply stay silent, and announces clearly only when needed, according to the local practice. On the scorecard a dead target is marked with a cross, a slash or a 1.",
-      long_uk: "Мішень вважається dead, коли після правильного пострілу від неї відлетів принаймні видимий уламок або вона повністю розсипалась у пил. Мішень, з якої лише «пилить» без видимого уламка, зазвичай не зараховується. Суддя може сказати «dead», «good» або промовчати і чітко оголошувати лише за потреби — залежно від місцевої практики. У картці влучання позначають хрестиком, рискою або одиницею.",
+      long_en: "A target is dead when it was properly launched, the shooter fired in line with the shooting-position rules, and at least one visible piece broke off or the target was wholly or partly destroyed. A target that only gives off dust or smoke without a visible piece is scored zero. The referee may say «dead», «good» or simply stay silent, and announces clearly only when needed, according to the local practice. On the FITASC scorecard a hit is marked X; other cards use a slash or a 1.",
+      long_uk: "Мішень вважається dead, коли її правильно запущено, стрілець вистрілив відповідно до правил про вихідне положення, і від неї відлетів принаймні один видимий уламок або її повністю чи частково зруйновано. Мішень, з якої лише «пилить» чи «димить» без видимого уламка, зараховують як нуль. Суддя може сказати «dead», «good» або промовчати і чітко оголошувати лише за потреби — залежно від місцевої практики. У картці FITASC влучання позначають X, в інших картках — рискою чи одиницею.",
       uk_usage: "«є», «влучив», «збита», «розбита»",
       coach_en: "Dead! Only a small piece, but it counts.",
       coach_uk: "Є! Лише маленький уламок, але зараховано.",
       tip_uk: "Не перекладайте «мертва» — у стрілецькій мові це просто «є» або «зараховано».",
       related: ["lost", "scorecard", "referee", "flash-target"],
-      verify: true
+      verify: false, rule_refs: [{book: "sporting", id: "ch6-target-one", ref: "Chapter 6, 6.3", page: 10}, {book: "sporting", id: "ch6-target-zero", ref: "Chapter 6, 6.4", page: 10}, {book: "sporting", id: "ch14-model", ref: "Chapter 14, 14.2", page: 19}]
     },
     { id: "lost",
       term: "Lost",
@@ -936,14 +936,14 @@ window.ACADEMY.push({
       cat: "Referee calls",
       short_en: "The referee's call for a target that is scored as a miss.",
       short_uk: "Оголошення судді про мішень, зараховану як промах.",
-      long_en: "A target is lost when it is missed, or when the rules say it must be scored as a miss even without a shot: for example if the shooter fails to fire through their own fault, forgets to release the safety catch, shoots outside the zone, or breaks the gun-position rule after a warning. A lost target is marked with a zero. The referee calls it clearly so that the scorer and the shooter hear it.",
-      long_uk: "Мішень lost, коли стрілець схибив або коли правила вимагають зарахувати промах навіть без пострілу: наприклад, якщо стрілець не вистрілив з власної вини, забув зняти запобіжник, вистрілив поза зоною чи порушив правило положення рушниці після попередження. Промах позначають нулем. Суддя оголошує його чітко, щоб почули рахівник і стрілець.",
+      long_en: "A target is lost when it is missed — no visible piece comes off, only dust or smoke — or when the rules say it must be scored as a miss: for example if the shooter does not fire at a correct target without a valid reason, opens the gun or touches the safety after a malfunction before the referee has checked it, has a second gun or ammunition malfunction in the same round, or repeats a gun-position offence after a warning. A lost target is marked with a zero. The referee calls it clearly so that the scorer and the shooter hear it.",
+      long_uk: "Мішень lost, коли стрілець схибив — не відлетів жоден видимий уламок, лише пил чи дим, — або коли правила вимагають зарахувати промах: наприклад, якщо стрілець без поважної причини не вистрілив по правильній мішені, після несправності відкрив рушницю чи торкнувся запобіжника до огляду суддею, мав другу несправність зброї чи патрона в тому самому раунді або повторно порушив правило положення рушниці після попередження. Промах позначають нулем. Суддя оголошує його чітко, щоб почули рахівник і стрілець.",
       uk_usage: "«нуль», «промах», «мимо»",
       coach_en: "Lost — you stopped the gun. Shake it off and go again.",
       coach_uk: "Нуль — ти зупинив рушницю. Забудь і давай далі.",
       tip_uk: "«Lost» тут — не «загублена». Перекладайте «промах» або «нуль».",
       related: ["dead", "no-bird", "second-shot", "gun-position"],
-      verify: true
+      verify: false, rule_refs: [{book: "sporting", id: "ch6-target-zero", ref: "Chapter 6, 6.4", page: 10}, {book: "sporting", id: "ch12-red-card", ref: "Chapter 12, 12.2", page: 17}, {book: "sporting", id: "ch8-malfunction-stay-put", ref: "Chapter 8, 8.8", page: 14}]
     },
     { id: "no-bird",
       term: "No bird",
@@ -951,14 +951,14 @@ window.ACADEMY.push({
       cat: "Referee calls",
       short_en: "The referee's call cancelling a target, which is then repeated without penalty.",
       short_uk: "Оголошення судді, що скасовує мішень; її повторюють без штрафу.",
-      long_en: "«No bird» means the target does not count and will be thrown again. Typical reasons are a target broken at launch, an irregular target, a release without a call or noticeably late, two targets instead of one, or an allowed malfunction. In a pair, a no bird usually means the whole pair is repeated. The referee should call «no bird» before or at the moment of the shot whenever possible.",
-      long_uk: "«No bird» означає, що мішень не враховується й буде кинута знову. Типові причини: мішень розбилася при запуску, нерегулярна мішень, запуск без команди чи з помітним запізненням, дві мішені замість однієї або дозволена несправність. У дуплеті no bird зазвичай означає, що повторюють увесь дуплет. Суддя за можливості має оголосити «no bird» до пострілу або в момент пострілу.",
+      long_en: "«No bird» means the target does not count and will be thrown again. Typical reasons are a target broken at launch, an irregular target, a release without a call or noticeably late, two targets instead of one, or the first gun malfunction of the round. In a pair, a no bird means the pair is repeated; on a report pair, if only the second target was irregular, the result of the first target is kept. The referee should call «no bird» before or at the moment of the shot whenever possible.",
+      long_uk: "«No bird» означає, що мішень не враховується й буде кинута знову. Типові причини: мішень розбилася при запуску, нерегулярна мішень, запуск без команди чи з помітним запізненням, дві мішені замість однієї або перша в раунді несправність рушниці. У дуплеті no bird означає повтор дуплета; у дуплеті за пострілом, якщо неправильною була лише друга мішень, результат першої зберігають. Суддя за можливості має оголосити «no bird» до пострілу або в момент пострілу.",
       uk_usage: "«нова», «повтор», «ноу берд»",
       coach_en: "No bird — the trap threw two. Reload and wait for the referee.",
       coach_uk: "Повтор — машинка кинула дві. Перезаряди й чекай на суддю.",
       tip_uk: "Не перекладайте «немає птаха». Кажіть «повтор» або «нова мішень».",
       related: ["broken-target", "irregular-target", "malfunction", "lost"],
-      verify: true
+      verify: false, rule_refs: [{book: "sporting", id: "ch6-nobird-target-cases", ref: "Chapter 6, 6.5.2 «NO BIRD» due to the target", page: 11}, {book: "sporting", id: "ch6-nobird-target-doubles", ref: "Chapter 6, 6.5.2, table", page: 11}, {book: "sporting", id: "ch6-nobird-gun-rules", ref: "Chapter 6, 6.5 \"NO BIRD\", 6.5.1 \"NO BIRD\" due to the weapon or ammunition", page: 10}]
     },
     { id: "irregular-target",
       term: "Irregular target",
@@ -966,14 +966,14 @@ window.ACADEMY.push({
       cat: "Referee calls",
       short_en: "A target that does not match the one shown — different trajectory, speed, colour or type.",
       short_uk: "Мішень, яка не відповідає показаній: інша траєкторія, швидкість, колір чи тип.",
-      long_en: "An irregular target differs clearly from the target shown to the squad: wrong angle or height, different speed, a different colour or target type, or released from the wrong trap. If the shooter does not fire, the referee normally declares a no bird. If the shooter does fire at an irregular target, under many rulebooks the result stands as if it were regular. This is why experienced shooters say: if it looks wrong, do not shoot.",
-      long_uk: "Irregular target помітно відрізняється від показаної: інший кут чи висота, інша швидкість, інший колір чи тип мішені або запуск не з тієї машинки. Якщо стрілець не стріляє, суддя зазвичай оголошує no bird. Якщо ж стрілець вистрілив по нерегулярній мішені, за багатьма правилами результат зараховується, наче мішень була правильною. Тому досвідчені стрільці кажуть: якщо мішень «не та» — не стріляй.",
+      long_en: "An irregular target differs clearly from the target shown to the squad: wrong angle or height, different speed, a different colour, size or type, or released from the wrong trap. Only the referee decides whether a trajectory is irregular, and he declares it a No Bird; this decision cannot be taken to the jury. Once No Bird has been called, the target must not be shot at. Because the decision is the referee's alone, experienced shooters say: if it looks wrong, do not shoot and look at the referee.",
+      long_uk: "Irregular target помітно відрізняється від показаної: інший кут чи висота, інша швидкість, інший колір, розмір чи тип мішені або запуск не з тієї машинки. Лише суддя вирішує, чи траєкторія неправильна, і оголошує no bird; це рішення не можна оскаржити до журі. Коли no bird оголошено, стріляти по мішені не можна. Оскільки рішення ухвалює тільки суддя, досвідчені стрільці кажуть: якщо мішень «не та» — не стріляй і подивися на суддю.",
       uk_usage: "«нерегулярна», «неправильна мішень», «не та мішень»",
       coach_en: "That one was irregular — good that you didn't shoot. It's a no bird.",
       coach_uk: "Мішень була неправильна — добре, що не стріляв. Буде повтор.",
       tip_uk: "Ключова порада для групи: сумніваєшся — не стріляй і підніми руку до судді.",
       related: ["no-bird", "broken-target", "target-showing", "coloured-target"],
-      verify: true
+      verify: false, rule_refs: [{book: "sporting", id: "ch6-nobird-target-cases", ref: "Chapter 6, 6.5.2 «NO BIRD» due to the target", page: 11}, {book: "sporting", id: "ch5-refusing-target", ref: "Chapter 5, 5.6", page: 9}, {book: "sporting", id: "ch9-jury-appeal", ref: "Chapter 9, 9.6; 9.7", page: 16}, {book: "sporting", id: "ch12-shooting-nobird", ref: "Chapter 12, 12.3", page: 17}]
     },
     { id: "broken-target",
       term: "Broken target",
@@ -981,14 +981,14 @@ window.ACADEMY.push({
       cat: "Referee calls",
       short_en: "A target that breaks when leaving the trap, before being shot; it is repeated as a no bird.",
       short_uk: "Мішень, що розбилася при вильоті з машинки ще до пострілу; її повторюють як no bird.",
-      long_en: "Sometimes a target cracks in the trap or comes out in pieces. Such a broken target cannot be scored, so the referee calls «no bird» and it is thrown again. In a pair, if one target comes out broken, the whole pair is usually repeated. Careful: in everyday English «broken» also describes a target that was hit — context decides which meaning is meant.",
-      long_uk: "Іноді мішень тріскає в машинці або вилітає уламками. Таку мішень не можна зарахувати, тож суддя оголошує «no bird», і її кидають знову. Якщо в дуплеті розбитою вилетіла одна мішень, зазвичай повторюють увесь дуплет. Увага: у побутовій англійській «broken» також означає влучену мішень — значення визначає контекст.",
+      long_en: "Sometimes a target cracks in the trap or comes out in pieces. Such a broken target cannot be scored, so the referee calls «no bird» and it is thrown again. In a pair the pair is repeated; on a report pair, if only the second target comes out broken, the result of the first is kept. Careful: in everyday English «broken» also describes a target that was hit — context decides which meaning is meant.",
+      long_uk: "Іноді мішень тріскає в машинці або вилітає уламками. Таку мішень не можна зарахувати, тож суддя оголошує «no bird», і її кидають знову. У дуплеті його повторюють; якщо в дуплеті за пострілом розбитою вилетіла лише друга мішень, результат першої зберігають. Увага: у побутовій англійській «broken» також означає влучену мішень — значення визначає контекст.",
       uk_usage: "«розбита з машинки», «бита», «вилетіла битою»",
       coach_en: "It came out broken — no bird, you get the pair again.",
       coach_uk: "Вилетіла битою — повтор, отримаєш дуплет ще раз.",
       tip_uk: "Пастка: «broken target» може означати і «влучену», і «розбиту при запуску». Слухайте, чи був постріл.",
       related: ["no-bird", "irregular-target", "dead", "trap-machine"],
-      verify: true
+      verify: false, rule_refs: [{book: "sporting", id: "ch6-nobird-target-cases", ref: "Chapter 6, 6.5.2 «NO BIRD» due to the target", page: 11}, {book: "sporting", id: "ch6-nobird-target-doubles", ref: "Chapter 6, 6.5.2, table", page: 11}]
     },
     { id: "malfunction",
       term: "Malfunction",
@@ -996,59 +996,59 @@ window.ACADEMY.push({
       cat: "Referee calls",
       short_en: "A failure of the gun or cartridge, not caused by the shooter, that prevents a normal shot.",
       short_uk: "Несправність рушниці чи патрона, не спричинена стрільцем, що заважає нормальному пострілу.",
-      long_en: "A malfunction is when the gun fails to fire, fires the wrong barrel, jams, or a cartridge misfires or is under-powered, without the shooter being at fault. The shooter must keep the gun pointed safely, not open it and let the referee inspect it. If the referee accepts the malfunction, the target is repeated — but only a limited number of malfunctions are allowed per round, after which further targets count as lost. Forgetting to load, or leaving the safety on, is not a malfunction.",
-      long_uk: "Malfunction — це коли рушниця не стріляє, стріляє не тим стволом, заклинює або патрон дає осічку чи слабкий постріл без вини стрільця. Стрілець мусить тримати рушницю в безпечному напрямку, не відкривати її й дати судді оглянути. Якщо суддя визнає несправність, мішень повторюють, але кількість таких випадків на раунд обмежена, і після ліміту наступні мішені зараховуються як промахи. Забути зарядити чи не зняти запобіжник — не несправність.",
+      long_en: "A malfunction is when the gun fails to fire, fires the wrong barrel, jams, or a cartridge misfires or is under-powered, without the shooter being at fault. The shooter must keep the gun pointed safely, not open it and let the referee inspect it. If the referee accepts the malfunction, the first one in a round is a No Bird with a warning and the target is repeated; from the second one in the same round the target is scored zero. Opening the gun or touching the safety before the referee's check also means a zero.",
+      long_uk: "Malfunction — це коли рушниця не стріляє, стріляє не тим стволом, заклинює або патрон дає осічку чи слабкий постріл без вини стрільця. Стрілець мусить тримати рушницю в безпечному напрямку, не відкривати її й дати судді оглянути. Якщо суддя визнає несправність, перша в раунді — це no bird із попередженням, і мішень повторюють; починаючи з другої в тому самому раунді, мішень зараховують як нуль. Якщо відкрити рушницю чи торкнутися запобіжника до огляду суддею, теж буде нуль.",
       uk_usage: "«несправність», «осічка», «відмова рушниці»",
       coach_en: "Don't open the gun! Show the referee first — it may be a malfunction.",
       coach_uk: "Не відкривай рушницю! Спершу покажи судді — можливо, це несправність.",
       tip_uk: "Важливо перекласти миттєво: «Не відкривай рушницю, тримай стволи в безпечному напрямку».",
       related: ["allowance", "no-bird", "lost", "cartridge"],
-      verify: true
+      verify: false, rule_refs: [{book: "sporting", id: "ch6-nobird-gun-rules", ref: "Chapter 6, 6.5 \"NO BIRD\", 6.5.1 \"NO BIRD\" due to the weapon or ammunition", page: 10}, {book: "sporting", id: "ch8-malfunction-stay-put", ref: "Chapter 8, 8.8", page: 14}, {book: "sporting", id: "ch7-malfunction-procedure", ref: "Chapter 7, 7.6", page: 12}, {book: "sporting", id: "ch6-second-malfunction", ref: "Chapter 6, 6.4; 6.5.1 (quick guide)", page: 10}]
     },
     { id: "allowance",
       term: "Allowance",
-      aka: ["Malfunction allowance", "Allowed malfunctions"],
+      aka: ["Malfunction allowance", "One malfunction per round"],
       cat: "Referee calls",
-      short_en: "The limited number of malfunctions per round for which a shooter may repeat the target.",
-      short_uk: "Обмежена кількість несправностей на раунд, за яких стрільцеві дозволено повторити мішень.",
-      long_en: "Rulebooks set a maximum number of accepted malfunctions — for example two per round (layout) in FITASC Sporting — after which further malfunctions are scored as lost targets. The allowance protects shooters from bad luck, but stops anyone from using «malfunctions» to gain time. If the gun is broken, the shooter may be allowed to change it within a short time. The exact number and conditions must be checked in the current rulebook.",
-      long_uk: "Правила встановлюють максимальну кількість визнаних несправностей — наприклад, дві на раунд (майданчик) у FITASC Sporting, — після чого наступні несправності зараховуються як промахи. Ліміт захищає стрільця від невезіння, але не дає нікому виграти час «несправностями». Якщо рушниця зламалася, стрільцеві можуть дозволити замінити її за короткий час. Точну кількість і умови треба перевіряти в чинних правилах.",
-      uk_usage: "«ліміт осічок», «дозволені відмови»",
-      coach_en: "That's your second malfunction this round — the next one will be scored lost.",
-      coach_uk: "Це твоя друга несправність у цій серії — наступна зарахується як промах.",
+      short_en: "The single malfunction per round for which a shooter may repeat the target; later ones are scored zero.",
+      short_uk: "Одна несправність на раунд, за якої стрільцеві дозволено повторити мішень; наступні зараховують як нуль.",
+      long_en: "Under the FITASC Sporting rules only the first gun or ammunition incident in a round (layout) is accepted: the shooter gets a warning, the target is a No Bird and is repeated. From the second incident in the same round there is no repeat and the target is scored zero; on simultaneous and rafale doubles a second failure on the first shot gives zero and zero. Compak uses the same principle. The allowance protects shooters from bad luck but stops anyone from using «malfunctions» to gain time. If the gun cannot be repaired before the squad finishes the stand, the shooter may continue only with another gun obtained at once, or finish later in another squad with the jury's approval.",
+      long_uk: "За правилами FITASC Sporting визнають лише перший випадок несправності зброї чи патрона в раунді (на майданчику): стрілець отримує попередження, мішень — no bird, і її повторюють. Починаючи з другого випадку в тому самому раунді, повтору немає, і мішень зараховують як нуль; на одночасних дуплетах і rafale друга відмова на першому пострілі дає нуль і нуль. Компак застосовує той самий принцип. Ліміт захищає стрільця від невезіння, але не дає нікому виграти час «несправностями». Якщо рушницю не вдається полагодити, доки зміна не завершить позицію, стрілець може продовжити лише з іншою рушницею, отриманою негайно, або дострілити пізніше в іншій зміні з дозволу журі.",
+      uk_usage: "«ліміт осічок», «одна осічка на серію»",
+      coach_en: "That's your malfunction for this round — the next one will be scored lost.",
+      coach_uk: "Це твоя несправність у цій серії — наступна зарахується як промах.",
       tip_uk: "Слово allowance має й інші значення (знижка, допуск), але тут ідеться саме про ліміт несправностей.",
       related: ["malfunction", "round", "lost"],
-      verify: true
+      verify: false, rule_refs: [{book: "sporting", id: "ch6-nobird-gun-rules", ref: "Chapter 6, 6.5 \"NO BIRD\", 6.5.1 \"NO BIRD\" due to the weapon or ammunition", page: 10}, {book: "sporting", id: "ch6-second-malfunction", ref: "Chapter 6, 6.4; 6.5.1 (quick guide)", page: 10}, {book: "sporting", id: "ch7-malfunction-procedure", ref: "Chapter 7, 7.6", page: 12}, {book: "compak", id: "ch20-gun-failure-principle", ref: "Chapter 20, 20.3.1 Due to guns or ammunition", page: 23}]
     },
     { id: "gun-position",
       term: "Gun position",
       aka: ["Low gun", "Gun down", "Ready position", "Vest marker", "Marker line"],
       cat: "Rules",
-      short_en: "The FITASC rule that the gun must be held low, with the stock below a marker on the vest, until the target appears.",
-      short_uk: "Правило FITASC: рушницю тримають низько, приклад нижче мітки на жилеті, доки не з'явиться мішень.",
-      long_en: "In FITASC Sporting the shooter calls with the gun out of the shoulder: the butt touches the body below a visible marker (a strip of tape) fixed horizontally on the vest, and both hands hold the gun. The marker is placed at a set distance below the top of the shoulder — commonly given as 25 cm. The gun may only be mounted once the target is visible. A first violation brings a warning; repeated violations are scored as lost targets.",
-      long_uk: "У FITASC Sporting стрілець дає команду з рушницею поза плечем: п'ятка приклада торкається тіла нижче помітної мітки (стрічки), горизонтально закріпленої на жилеті, і рушницю тримають обидві руки. Мітку розміщують на визначеній відстані нижче верхньої точки плеча — найчастіше називають 25 см. Вкидати рушницю можна, лише коли мішень стала видимою. За перше порушення — попередження, за повторні — мішені зараховують як промахи.",
+      short_en: "The FITASC Sporting rule that the gun must be held low, with the stock below a line on the vest, until the target appears; it does not apply in Compak.",
+      short_uk: "Правило FITASC Sporting: рушницю тримають низько, приклад нижче мітки на жилеті, доки не з'явиться мішень; у компаку воно не діє.",
+      long_en: "In FITASC Sporting the shooter calls with the gun out of the shoulder: both feet inside the stand, the heel of the stock touching the body and the top rear point of the stock below a horizontal line on the vest. The line is drawn 25 cm (9.85 in) below the axis of the shoulder, parallel to it, in a contrasting colour; the rule applies to every type of stock, including adjustable combs. The shooter holds this position until the target has been released and is visible, and may not mount the gun before it appears; every target, rabbits included, is shot from the shoulder. A first offence brings a verbal warning with a yellow card, a further offence on the same layout a red card and a lost target. Compak has no such rule: there the gun position at the call is free.",
+      long_uk: "У FITASC Sporting стрілець дає команду з рушницею поза плечем: обидві ноги всередині позиції, п'ятка приклада торкається тіла, а верхня задня точка приклада — нижче горизонтальної лінії на жилеті. Лінію наносять 25 см (9,85 дюйма) нижче осі плеча, паралельно їй, контрастним кольором; правило діє для будь-якого приклада, зокрема з регульованим гребенем. Стрілець тримає це положення, доки мішень не вилетіла й не стала видимою, і не може вкидати рушницю до її появи; по кожній мішені, зокрема по кролику, стріляють із рушницею в плечі. За перше порушення — усне попередження з жовтою карткою, за наступне на тому самому майданчику — червона картка й зарахований промах. У компаку такого правила немає: там положення рушниці під час команди вільне.",
       uk_usage: "«низька позиція», «рушниця внизу», «стрічка на жилеті», «мітка»",
       coach_en: "Butt under the tape, eyes on the trap, then call — and only mount when you see it.",
       coach_uk: "Приклад під стрічку, погляд на машинку, тоді команда — і вкидай, лише коли побачиш мішень.",
-      tip_uk: "Гостям, які звикли до English Sporting, нагадуйте про це заздалегідь: найчастіше попередження новачкам — саме за позицію рушниці.",
+      tip_uk: "Гостям, які звикли до English Sporting, нагадуйте про це заздалегідь: найчастіше попередження новачкам — саме за позицію рушниці. У компаку це правило не діє — не переносьте його туди.",
       related: ["gun-up", "gun-mount", "call", "referee"],
-      verify: true
+      verify: false, rule_refs: [{book: "sporting", id: "ch3-ready-position", ref: "Chapter 3, 3.1 Shooting position, 3.1.1", page: 5}, {book: "sporting", id: "ch3-jacket-line", ref: "Chapter 3, 3.1 Shooting position, 3.1.1", page: 5}, {book: "sporting", id: "ch3-mounting", ref: "Chapter 3, 3.1 Shooting position, 3.1.2", page: 6}, {book: "sporting", id: "ch12-yellow-card", ref: "Chapter 12, 12.1", page: 17}, {book: "sporting", id: "ch12-red-card", ref: "Chapter 12, 12.2", page: 17}, {book: "compak", id: "ch17-gun-position", ref: "Chapter 17, 17.4 Shooting sequence for Compak by Squad (gun position)", page: 18}]
     },
     { id: "gun-up",
       term: "Gun up",
       aka: ["Gun mounted", "Pre-mounted gun"],
       cat: "Rules",
-      short_en: "Starting with the gun already in the shoulder before calling, allowed in English Sporting and NSCA but not in FITASC.",
-      short_uk: "Старт з рушницею вже в плечі до команди — дозволено в English Sporting і NSCA, але не у FITASC.",
-      long_en: "Under CPSA and NSCA rules the shooter may mount the gun before calling for the target, which makes many targets easier. In FITASC Sporting and Compak this is not allowed: the gun must be in the low position until the target appears. Shooters who switch between the systems often need time to adjust. When a coach says «gun up» or «gun down», it is about this starting position.",
-      long_uk: "За правилами CPSA та NSCA стрілець може вкинути рушницю до команди на мішень, і багато мішеней від цього стають легшими. У FITASC Sporting і Compak так не можна: рушниця має бути в низькій позиції, доки не з'явиться мішень. Стрільцям, які переходять між системами, часто потрібен час, щоб пристосуватися. Коли тренер каже «gun up» чи «gun down», ідеться саме про цю стартову позицію.",
+      short_en: "Starting with the gun already in the shoulder before calling, allowed in English Sporting, NSCA and Compak but not in FITASC Sporting.",
+      short_uk: "Старт з рушницею вже в плечі до команди — дозволено в English Sporting, NSCA і компаку, але не у FITASC Sporting.",
+      long_en: "Under CPSA and NSCA rules the shooter may mount the gun before calling for the target, which makes many targets easier. In FITASC Compak Sporting this is allowed as well: the gun position at the call is free, provided every target is shot from the shoulder. In FITASC Sporting it is not allowed: the gun must be in the low position, with the stock below the vest line, until the target appears. Shooters who switch between the systems often need time to adjust. When a coach says «gun up» or «gun down», it is about this starting position.",
+      long_uk: "За правилами CPSA та NSCA стрілець може вкинути рушницю до команди на мішень, і багато мішеней від цього стають легшими. У FITASC Compak Sporting це теж дозволено: положення рушниці під час команди вільне, аби по кожній мішені стріляли з плеча. У FITASC Sporting так не можна: рушниця має бути в низькій позиції, приклад нижче лінії на жилеті, доки не з'явиться мішень. Стрільцям, які переходять між системами, часто потрібен час, щоб пристосуватися. Коли тренер каже «gun up» чи «gun down», ідеться саме про цю стартову позицію.",
       uk_usage: "«з плеча», «з вкинутої», «рушниця в плечі»",
       coach_en: "You can start gun up in training, but at the Grand Prix it's low gun only.",
       coach_uk: "На тренуванні можна починати з рушницею в плечі, але на Grand Prix — тільки з низької позиції.",
       tip_uk: "Не перекладайте «рушницю вгору» — мова про те, що рушниця вже в плечі, а не піднята в небо.",
       related: ["gun-position", "english-sporting", "nsca", "gun-mount"],
-      verify: false
+      verify: false, rule_refs: [{book: "sporting", id: "ch3-ready-position", ref: "Chapter 3, 3.1 Shooting position, 3.1.1", page: 5}, {book: "sporting", id: "ch3-mounting", ref: "Chapter 3, 3.1 Shooting position, 3.1.2", page: 6}, {book: "compak", id: "ch17-gun-position", ref: "Chapter 17, 17.4 Shooting sequence for Compak by Squad (gun position)", page: 18}]
     },
     { id: "time-limit",
       term: "Time limit",
@@ -1056,14 +1056,14 @@ window.ACADEMY.push({
       cat: "Rules",
       short_en: "The maximum time a shooter may take to get ready and call after their turn begins.",
       short_uk: "Максимальний час, за який стрілець має приготуватися й дати команду після початку своєї черги.",
-      long_en: "To keep competitions moving, the rules give each shooter a limited time to take position, load and call once it is their turn; FITASC sets a fixed number of seconds. A shooter who repeatedly delays can be warned and then penalised. Squads also have to be at their layout on time. For an organizer, this is why groups must not stop the squad to take photos or translate long explanations on the stand.",
-      long_uk: "Щоб змагання не затягувалися, правила дають кожному стрільцеві обмежений час, аби стати на позицію, зарядити й дати команду, коли настала його черга; FITASC встановлює фіксовану кількість секунд. Стрільця, який раз у раз затримує, можуть попередити, а потім оштрафувати. Зміни теж мають вчасно приходити на свій майданчик. Для організатора: саме тому групі не можна зупиняти зміну для фото чи довгих пояснень на позиції.",
+      long_en: "To keep competitions moving, the rules give each shooter a limited time. In FITASC Sporting a shooter has at most 15 seconds between single targets or between doubles; going over it first earns a warning and then the penalties of Article 12.2 (red card, zero). After a referee's final decision the shooter must resume shooting within 15 seconds, otherwise it counts as refusal to comply. In Compak the limit is 10 seconds to call after the previous stand's target. Squads also have to be at their layout on time. For an organizer, this is why groups must not stop the squad to take photos or translate long explanations on the stand.",
+      long_uk: "Щоб змагання не затягувалися, правила дають кожному стрільцеві обмежений час. У FITASC Sporting між поодинокими мішенями чи між дуплетами стрілець має щонайбільше 15 секунд; за перевищення спершу попередження, а потім покарання за статтею 12.2 (червона картка, нуль). Після остаточного рішення судді стрілець має відновити стрільбу протягом 15 секунд, інакше це вважають відмовою виконувати вимоги. У компаку ліміт — 10 секунд на команду після мішені попереднього номера. Зміни теж мають вчасно приходити на свій майданчик. Для організатора: саме тому групі не можна зупиняти зміну для фото чи довгих пояснень на позиції.",
       uk_usage: "«ліміт часу», «затримка»",
       coach_en: "Don't keep the referee waiting — there's a time limit and he'll warn you.",
       coach_uk: "Не змушуй суддю чекати — є ліміт часу, і він зробить попередження.",
       tip_uk: "Перекладайте коротко між позиціями, а не на позиції: ваш переклад теж «з'їдає» час стрільця.",
       related: ["referee", "disqualification", "squad"],
-      verify: true
+      verify: false, rule_refs: [{book: "sporting", id: "ch7-fifteen-seconds", ref: "Chapter 7, 7.5", page: 12}, {book: "sporting", id: "ch10-resume-15s", ref: "Chapter 10, 10.1; 10.2", page: 16}, {book: "compak", id: "ch21-firing-time", ref: "Chapter 21, 21.1 Firing time", page: 24}]
     },
     { id: "shoot-off",
       term: "Shoot-off",
@@ -1071,14 +1071,14 @@ window.ACADEMY.push({
       cat: "Rules",
       short_en: "An extra shooting contest to decide a tie for a medal or a title.",
       short_uk: "Додаткова стрільба, щоб розв'язати нічию за медаль чи титул.",
-      long_en: "When shooters finish with the same score for a medal position, they shoot again. In FITASC Sporting a shoot-off is usually shot on a stand or layout chosen by the jury, often as pairs on a «sudden death» basis: the first shooter to miss when others hit is eliminated. The shoot-off result only decides the places in the tie, it does not change the main score. Ties for lower places are normally decided by countback instead.",
-      long_uk: "Коли стрільці мають однаковий результат у боротьбі за медаль, вони стріляють знову. У FITASC Sporting перестрілку зазвичай проводять на позиції чи майданчику, обраних журі, часто дуплетами «до першого промаху»: хто перший схибив, коли інші влучили, вибуває. Результат перестрілки визначає лише місця серед тих, хто мав нічию, і не змінює основного результату. Нічию за нижчі місця зазвичай розв'язують за countback.",
+      long_en: "When shooters tie for one of the first three places, they shoot again. In FITASC Sporting the shoot-off is a round of 25 targets, on a new layout set by the jury if time allows; if they are still level, a second round is shot as sudden death — the first shooter to score a zero is eliminated, provided all have shot the same number of targets. Empty places in the shoot-off squad are not filled, and if no time was fixed in advance, the shooters must be ready within 15 minutes of being called; anyone absent is disqualified. The shoot-off only decides the places in the tie. Ties below third place are decided by countback instead.",
+      long_uk: "Коли стрільці мають однаковий результат за одне з перших трьох місць, вони стріляють знову. У FITASC Sporting перестрілка — це раунд із 25 мішеней на новому майданчику, який установлює журі, якщо дозволяє час; якщо рівність зберігається, стріляють другий раунд «до першого промаху» — вибуває той, хто першим отримав нуль, за умови, що всі відстріляли однакову кількість мішеней. Порожні місця в зміні перестрілки не заповнюють, а якщо час заздалегідь не призначено, стрільці мають бути готові протягом 15 хвилин після виклику; хто відсутній, того дискваліфікують. Перестрілка визначає лише місця серед тих, хто мав рівний результат. Рівність за нижчі місця розв'язують за countback.",
       uk_usage: "«перестрілка», «шут-оф», «до першого промаху»",
-      coach_en: "Stay warm — if it's a tie, the shoot-off starts fifteen minutes after the last squad.",
-      coach_uk: "Не охолоняй: якщо буде нічия, перестрілка почнеться за п'ятнадцять хвилин після останньої зміни.",
+      coach_en: "Stay close to the jury — if it's a tie, you must be ready to shoot within fifteen minutes of the call.",
+      coach_uk: "Тримайся поруч із журі: якщо буде нічия, ти маєш бути готовий стріляти протягом п'ятнадцяти хвилин після виклику.",
       tip_uk: "Організаторам: якщо стрілець вашої групи може потрапити в перестрілку, не плануйте трансфер одразу після останньої зміни.",
       related: ["countback", "jury", "flash-target", "championship"],
-      verify: true
+      verify: false, rule_refs: [{book: "sporting", id: "ch18-top-three", ref: "Chapter 18, 18.1; 18.2", page: 24}, {book: "sporting", id: "ch18-sudden-death", ref: "Chapter 18, 18.3", page: 25}, {book: "sporting", id: "ch18-squad-and-timing", ref: "Chapter 18, 18.4; 18.5; 18.6", page: 25}, {book: "compak", id: "ch14-shootoff-medals", ref: "Chapter 14, Shoot-offs (first three places)", page: 14}]
     },
     { id: "countback",
       term: "Countback",
@@ -1093,7 +1093,7 @@ window.ACADEMY.push({
       coach_uk: "У вас обох по 92, але він вище за останньою серією — на останньому майданчику в нього 24.",
       tip_uk: "Якщо гості не розуміють, чому з однаковим результатом різні місця, — це і є countback.",
       related: ["shoot-off", "round", "hoa"],
-      verify: true
+      verify: false, rule_refs: [{book: "sporting", id: "ch18-top-three", ref: "Chapter 18, 18.1; 18.2", page: 24}, {book: "sporting", id: "ch18-team-ties", ref: "Chapter 18, 18.7", page: 25}, {book: "compak", id: "ch14-countback", ref: "Chapter 14, Shoot-offs (ranking below third place)", page: 14}]
     },
     { id: "hoa",
       term: "HOA",
@@ -1123,7 +1123,7 @@ window.ACADEMY.push({
       coach_uk: "Вона третя в абсолюті й перша серед жінок — дві нагороди за один результат.",
       tip_uk: "Найбільша пастка: Senior у FITASC — це «дорослі», а не «літні». Не кажіть «сеньйори» в значенні «пенсіонери». Вікові межі перевіряйте в регламенті конкретних змагань.",
       related: ["class", "hoa", "championship"],
-      verify: true
+      verify: true, verify_note_uk: "Категорії та вікові межі (Junior до 21, Veteran від 56, Super Veteran від 66) у довіднику правил FITASC Sporting не наведені — звірте з чинними загальними правилами FITASC і програмою змагань."
     },
     { id: "class",
       term: "Class",
@@ -1138,7 +1138,7 @@ window.ACADEMY.push({
       coach_uk: "З такою середньою наступного сезону перейдеш у клас A.",
       tip_uk: "Не плутайте класи (AA, A, B…) зі спортивними розрядами — це різні системи.",
       related: ["category", "hoa", "cpsa", "nsca"],
-      verify: true
+      verify: true, verify_note_uk: "Класи (AA, A, B, C; Master…E) — система CPSA та NSCA, у регламентах FITASC її немає; звірте з правилами відповідної асоціації."
     },
     { id: "grand-prix",
       term: "Grand Prix",
@@ -1153,7 +1153,7 @@ window.ACADEMY.push({
       coach_uk: "Гран-прі — 200 мішеней за три дні, бронюйте готель заздалегідь.",
       tip_uk: "Для організатора: формат (100/150/200 мішеней, кількість днів) завжди перевіряйте в регламенті конкретного Grand Prix.",
       related: ["world-cup", "championship", "fitasc", "round"],
-      verify: true
+      verify: true, rule_refs: [{book: "sporting", id: "ch2-traps-table", ref: "Chapter 2, 2.2 Traps", page: 3}], verify_note_uk: "Статус і формат Grand Prix (100–200 мішеней, кількість днів, рейтингові очки) регламент FITASC Sporting не описує; з правил звірено лише, що лінію з 3 позицій по 5 машинок дозволено тільки на Grand Prix."
     },
     { id: "world-cup",
       term: "World Cup",
@@ -1168,7 +1168,7 @@ window.ACADEMY.push({
       coach_uk: "Після Кубка світу рейтингові очки справді важать.",
       tip_uk: "У назвах змагань лишайте англійське «World Cup» і додавайте «Кубок світу» в поясненні.",
       related: ["grand-prix", "championship", "fitasc"],
-      verify: true
+      verify: true, verify_note_uk: "Статус і формат World Cup у регламенті не описані — звірте з чинним календарем FITASC."
     },
     { id: "championship",
       term: "Championship",
@@ -1183,7 +1183,7 @@ window.ACADEMY.push({
       coach_uk: "Збірну на чемпіонат Європи відбирають за цими результатами.",
       tip_uk: "«Їдемо на Європу» в стрілецькій мові означає «на чемпіонат Європи», а не просто подорож.",
       related: ["grand-prix", "world-cup", "category", "shoot-off"],
-      verify: true
+      verify: false, rule_refs: [{book: "sporting", id: "ch16-format", ref: "Chapter 16, 16.1", page: 23}, {book: "sporting", id: "ch16-squads", ref: "Chapter 16, 16.2", page: 23}, {book: "sporting", id: "ch18-team-ties", ref: "Chapter 18, 18.7", page: 25}]
     },
     { id: "protest",
       term: "Protest",
@@ -1191,14 +1191,14 @@ window.ACADEMY.push({
       cat: "Events",
       short_en: "A formal complaint about the application of the rules, decided by the jury.",
       short_uk: "Офіційна скарга щодо застосування правил, яку розглядає журі.",
-      long_en: "If a shooter believes the rules were applied wrongly, they first raise it immediately with the referee. If not satisfied, they can lodge a written protest with the jury, usually within a short time limit and with a fee that is returned if the protest is upheld. A protest is about the rules — for example, whether a target was irregular — while the referee's judgement of a hit or miss is normally final. The time limit and fee are set in the rulebook and the event regulations.",
-      long_uk: "Якщо стрілець вважає, що правила застосовано неправильно, він спершу одразу звертається до судді. Якщо це не допомогло, можна подати письмовий протест до журі — зазвичай у стислий строк і зі збором, який повертають, якщо протест задоволено. Протест стосується правил — наприклад, чи була мішень нерегулярною, — а оцінка судді щодо влучання чи промаху зазвичай остаточна. Строк і розмір збору визначають правила й регламент змагань.",
+      long_en: "If a shooter believes a ruling is wrong, they must protest immediately on the stand by raising a hand and saying «appeal» or «protest»; the referee stops shooting, hears the reason and decides. Decisions on whether a trajectory is correct, on No Birds and on whether a target is «one» or «zero» cannot go further. Any other referee decision can be appealed to the jury in writing: in FITASC Sporting with a deposit of 40% of the entry fee, which is refunded if the jury agrees and otherwise goes to a charity chosen by the FITASC Chairman. In Compak the deposit is the amount in force on the day, and the complaint must concern an incident of the same day.",
+      long_uk: "Якщо стрілець вважає рішення неправильним, він мусить одразу на позиції підняти руку й сказати «appeal» чи «protest»; суддя зупиняє стрільбу, вислуховує причину й ухвалює рішення. Рішення про правильність траєкторії, no bird і про те, чи мішень «one» або «zero», далі оскаржити не можна. Будь-яке інше рішення судді можна оскаржити до журі письмово: у FITASC Sporting — із заставою в розмірі 40% стартового внеску, яку повертають, якщо журі погодиться, а інакше передають на благодійність за вибором голови FITASC. У компаку застава — сума, чинна в день змагань, а скарга має стосуватися випадку того самого дня.",
       uk_usage: "«протест», «подати протест»",
-      coach_en: "If you want to protest, it has to be in writing, with the fee, and quickly.",
-      coach_uk: "Якщо хочеш подати протест — письмово, зі збором і швидко.",
+      coach_en: "If you want to protest to the jury, it has to be in writing, with the deposit.",
+      coach_uk: "Якщо хочеш подати протест до журі — письмово і з заставою.",
       tip_uk: "Перекладаючи протест, будьте особливо точними: ваш переклад може стати частиною офіційного розгляду.",
       related: ["jury", "referee", "disqualification"],
-      verify: true
+      verify: false, rule_refs: [{book: "sporting", id: "ch9-how-to-appeal", ref: "Chapter 9, 9.5; 9.5.1", page: 15}, {book: "sporting", id: "ch9-jury-appeal", ref: "Chapter 9, 9.6; 9.7", page: 16}, {book: "sporting", id: "ch9-deposit-outcome", ref: "Chapter 9, 9.8", page: 16}, {book: "compak", id: "ch4-complaint-procedure", ref: "Chapter 4, 4.2 Role of the jury, point 3 (complaint procedure)", page: 10}]
     },
     { id: "jury",
       term: "Jury",
@@ -1221,14 +1221,14 @@ window.ACADEMY.push({
       cat: "Events",
       short_en: "Exclusion of a shooter from the competition for a serious rule or safety violation.",
       short_uk: "Виключення стрільця зі змагань за серйозне порушення правил чи безпеки.",
-      long_en: "Disqualification is the most severe penalty. It is used for dangerous gun handling, unsporting behaviour, using banned equipment or repeatedly ignoring warnings. Rulebooks usually apply a ladder: warning, penalty (for example a lost target), then disqualification, but a serious safety breach can lead straight to it. The decision is normally taken by the jury, and the shooter's results are removed.",
-      long_uk: "Дискваліфікація — найсуворіше покарання. Її застосовують за небезпечне поводження зі зброєю, неспортивну поведінку, заборонене спорядження чи систематичне ігнорування попереджень. Зазвичай правила передбачають «драбину»: попередження, штраф (наприклад, зарахований промах), потім дискваліфікація, але серйозне порушення безпеки може призвести до неї одразу. Рішення зазвичай ухвалює журі, а результати стрільця анулюють.",
+      long_en: "Disqualification (expulsion) is the most severe penalty. Under the FITASC rules the ladder is a warning for a first breach; then, for a repeat offence, refusal to comply or an attempt to influence the referee, the jury may impose the loss of one target, the loss of a 25-target round or expulsion. On a referee's report the jury may expel a shooter at once for loss of self-control, refusal to comply, influencing a referee or deliberately shooting at live animals. An expulsion is reported to the shooter's federation and to FITASC, kept on record for five years, and a second one within three years may lead to a permanent ban. An expelled shooter gets no refund.",
+      long_uk: "Дискваліфікація (виключення) — найсуворіше покарання. За правилами FITASC «драбина» така: за перше порушення — попередження, а за повторне, за відмову виконувати вимоги чи спробу вплинути на суддю журі може зняти одну мішень, зняти раунд із 25 мішеней або виключити стрільця зі змагань. За рапортом судді журі може негайно виключити стрільця за втрату самоконтролю, відмову виконувати вимоги, тиск на суддю чи навмисну стрільбу по живих тваринах. Про виключення повідомляють федерацію стрільця й FITASC, запис зберігають п'ять років, а повторне виключення протягом трьох років може призвести до довічної заборони. Виключений стрілець не отримує жодного відшкодування.",
       uk_usage: "«дискваліфікація», «дискваліфікували», «DQ»",
       coach_en: "Swing through the cage post like that again and it's disqualification.",
       coach_uk: "Ще раз поведеш рушницю за стійку рами — дискваліфікація.",
       tip_uk: "Попередьте групу заздалегідь: безпека понад усе, і за неї дискваліфікують без «другого шансу».",
       related: ["jury", "protest", "time-limit", "safe-zone", "muzzle-discipline"],
-      verify: true
+      verify: false, rule_refs: [{book: "sporting", id: "ch13-jury-penalties", ref: "Chapter 13, 13.3", page: 17}, {book: "sporting", id: "ch13-immediate-expulsion", ref: "Chapter 13, 13.4", page: 17}, {book: "sporting", id: "ch13-expulsion-record", ref: "Chapter 13, 13.5; 13.6", page: 17}, {book: "sporting", id: "ch13-no-refund", ref: "Chapter 13, 13.7", page: 18}]
     }
   ],
   quiz: [

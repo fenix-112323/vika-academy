@@ -26,15 +26,15 @@ window.ACADEMY.push({
       id: "s3",
       title_en: "The dance of the six",
       title_uk: "Танок шістьох",
-      text_en: "The group forms a [[squad]] of six. Marek reads the [[start-order]] from the [[squad-sheet]]: shooters one to five take stands 1 to 5, and Taras, number six, goes to the [[waiting-position]] behind stand 1. «Gun open, no cartridges,» Marek reminds him. The [[referee]] starts the [[shooting-order-on-stand|order of shooting]]: the shooter on stand 1 fires all five targets of his row, then stand 2 shoots its five, and so on to stand 5. Then comes the [[rotation]]. «Everybody one step to the right!» Vika translates, a little too loudly. The shooter from stand 5 walks back to the waiting position, Taras steps onto stand 1, and the cycle repeats. Vika does the maths aloud: «Six shooters, five stands, so everyone waits once and shoots from every stand once.» Marek nods: «Six passes for a full squad. With five shooters there is no waiting, the squad just turns.» Later a seventh client wants to join. «No,» says the referee kindly, «six is the maximum.» Vika explains in Ukrainian and suggests he join the next squad. When one client leaves early for a phone call, the squad becomes an [[incomplete-squad]], and the rotation simply skips the empty place.",
-      text_uk: "Група стає в [[squad]] із шести людей. Марек зачитує [[start-order]] зі [[squad-sheet]]: стрільці з першого по п’ятий займають номери з 1 по 5, а Тарас, шостий, іде на [[waiting-position]] за першим номером. «Рушниця відкрита, без патронів», — нагадує йому Марек. [[referee|Referee]] запускає [[shooting-order-on-stand|order of shooting]]: стрілець на першому номері відстрілює всі п’ять мішеней свого рядка, потім п’ять мішеней стріляє другий номер і так до п’ятого. Далі — [[rotation]]. «Усі на один номер праворуч!» — перекладає Віка трохи голосніше, ніж треба. Стрілець із п’ятого номера йде на позицію очікування, Тарас стає на перший номер, і цикл повторюється. Віка рахує вголос: «Шестеро стрільців, п’ять номерів — отже, кожен один раз чекає і один раз стріляє з кожного номера». Марек киває: «Для повної групи — шість проходів. Якщо стрільців п’ятеро, ніхто не чекає, група просто обертається». Згодом сьомий клієнт хоче долучитися. «Ні, — лагідно каже суддя, — шість — це максимум». Віка пояснює українською і пропонує йому стати в наступну групу. Коли один клієнт іде раніше через телефонну розмову, група стає [[incomplete-squad]], і ротація просто пропускає порожнє місце."
+      text_en: "The group forms a [[squad]] of six. Marek reads the [[start-order]] from the [[squad-sheet]]: shooters one to five take stands 1 to 5, and Taras, number six, goes to the [[waiting-position]] behind stand 1. «Gun open, no cartridges,» Marek reminds him. The [[referee]] starts the [[shooting-order-on-stand|order of shooting]]: the shooter on stand 1 fires all five targets of his row, then stand 2 shoots its five, and so on to stand 5. Then comes the [[rotation]]. «Everybody one step to the right!» Vika translates, a little too loudly. The shooter from stand 5 walks back to the waiting position, Taras steps onto stand 1, and the cycle repeats. Vika does the maths aloud: «Six shooters, five stands, so everyone waits once and shoots from every stand once.» Marek nods: «Six passes for a full squad. With five shooters one place stays empty and moves along the line.» Later a seventh client wants to join. «No,» says the referee kindly, «six is the maximum.» Vika explains in Ukrainian and suggests he join the next squad. When one client leaves early for a phone call, the squad becomes an [[incomplete-squad]], and the rotation simply skips the empty place.",
+      text_uk: "Група стає в [[squad]] із шести людей. Марек зачитує [[start-order]] зі [[squad-sheet]]: стрільці з першого по п’ятий займають номери з 1 по 5, а Тарас, шостий, іде на [[waiting-position]] за першим номером. «Рушниця відкрита, без патронів», — нагадує йому Марек. [[referee|Referee]] запускає [[shooting-order-on-stand|order of shooting]]: стрілець на першому номері відстрілює всі п’ять мішеней свого рядка, потім п’ять мішеней стріляє другий номер і так до п’ятого. Далі — [[rotation]]. «Усі на один номер праворуч!» — перекладає Віка трохи голосніше, ніж треба. Стрілець із п’ятого номера йде на позицію очікування, Тарас стає на перший номер, і цикл повторюється. Віка рахує вголос: «Шестеро стрільців, п’ять номерів — отже, кожен один раз чекає і один раз стріляє з кожного номера». Марек киває: «Для повної групи — шість проходів. Якщо стрільців п’ятеро, одне місце залишається порожнім і рухається вздовж лінії». Згодом сьомий клієнт хоче долучитися. «Ні, — лагідно каже суддя, — шість — це максимум». Віка пояснює українською і пропонує йому стати в наступну групу. Коли один клієнт іде раніше через телефонну розмову, група стає [[incomplete-squad]], і ротація просто пропускає порожнє місце."
     },
     {
       id: "s4",
       title_en: "Little rules, big differences",
       title_uk: "Дрібні правила, великі наслідки",
-      text_en: "After the coffee break the referee runs a training round under competition rules, and Vika learns how many small rules there are. Oksana mounts her gun before calling. «Gun down!» says the referee, pointing at the [[vest-marker]] on her vest. «Until the target appears, the stock stays below the line. That’s the [[gun-position]].» Vika translates and adds: «In Compak you call with the gun down, like in Sporting.» Taras loads while walking to the stand. «[[loading-on-stand|Only on the stand]]!» The referee also explains [[two-cartridges]]: never more than two in the gun. After Oksana’s call the target leaves with a short pause. «Was that late?» she asks. «No, the [[release-delay]] can be up to about three seconds.» Then a target comes out in pieces. «[[broken-target|Broken]]! [[no-bird|No bird]]!» Another flies far too low. «[[irregular-target|Irregular]], repeat.» Finally Taras’s gun clicks without firing. The referee checks it: a real [[malfunction]]. «You have the [[malfunction-limit|limit]] per round, after that it’s lost.» At the end of the day Vika has a list of new phrases and one rule in capital letters: if in doubt, ask the referee and translate exactly, without adding your own opinion.",
-      text_uk: "Після кавової перерви суддя проводить тренувальний раунд за правилами змагань, і Віка дізнається, скільки є дрібних правил. Оксана вкидає рушницю до плеча ще до команди. «Gun down!» — каже суддя й показує на [[vest-marker]] на її жилеті. «Доки мішень не з’явиться, приклад залишається нижче лінії. Це [[gun-position]]». Віка перекладає й додає: «У компаку команду дають з опущеною рушницею, як у спортингу». Тарас заряджає рушницю дорогою до номера. «[[loading-on-stand|Only on the stand]]!» Суддя також пояснює [[two-cartridges]]: у рушниці ніколи не більше двох патронів. Після команди Оксани мішень вилітає з короткою паузою. «Це було із запізненням?» — питає вона. «Ні, [[release-delay]] може бути приблизно до трьох секунд». Далі мішень вилітає вже розбитою. «[[broken-target|Broken]]! [[no-bird|No bird]]!» Ще одна летить надто низько. «[[irregular-target|Irregular]], повтор». Насамкінець рушниця Тараса клацає без пострілу. Суддя перевіряє її: справжня [[malfunction]]. «У вас є [[malfunction-limit|limit]] на раунд, далі мішень зараховується як промах». Наприкінці дня у Віки список нових фраз і одне правило великими літерами: якщо сумніваєшся — питай суддю й перекладай дослівно, без власних коментарів."
+      text_en: "After the coffee break the referee runs a training round under competition rules, and Vika learns how many small rules there are. Oksana calls with her gun already mounted and glances nervously at the referee. «That’s fine here,» he says. «In Compak the gun position at the call is free. The [[vest-marker]] and the [[gun-position|low-gun]] rule belong to FITASC Sporting, not to Compak.» Vika translates and adds: «Yesterday on the Sporting course the gun had to stay down; today you may start mounted, but every target is shot from the shoulder.» Taras loads while walking to the stand. «[[loading-on-stand|Only on the stand]]!» The referee also explains [[two-cartridges]]: never more than two in the gun. After Oksana’s call the target leaves with a short pause. «Was that late?» she asks. «No, the [[release-delay]] can be up to about three seconds.» Then a target comes out in pieces. «[[broken-target|Broken]]! [[no-bird|No bird]]!» Another flies far too low. «[[irregular-target|Irregular]], repeat.» Finally Taras’s gun clicks without firing. The referee checks it: a real [[malfunction]]. «The [[malfunction-limit|limit]] is one per round; the next one is a zero.» At the end of the day Vika has a list of new phrases and one rule in capital letters: if in doubt, ask the referee and translate exactly, without adding your own opinion.",
+      text_uk: "Після кавової перерви суддя проводить тренувальний раунд за правилами змагань, і Віка дізнається, скільки є дрібних правил. Оксана дає команду з уже вкинутою рушницею й тривожно зиркає на суддю. «Тут так можна, — каже він. — У компаку положення рушниці під час команди вільне. [[vest-marker]] і правило [[gun-position|low gun]] — це FITASC Sporting, а не компак». Віка перекладає й додає: «Учора на маршруті спортингу рушницю треба було тримати внизу, а сьогодні можна починати з плеча, але по кожній мішені стріляють лише з рушницею в плечі». Тарас заряджає рушницю дорогою до номера. «[[loading-on-stand|Only on the stand]]!» Суддя також пояснює [[two-cartridges]]: у рушниці ніколи не більше двох патронів. Після команди Оксани мішень вилітає з короткою паузою. «Це було із запізненням?» — питає вона. «Ні, [[release-delay]] може бути приблизно до трьох секунд». Далі мішень вилітає вже розбитою. «[[broken-target|Broken]]! [[no-bird|No bird]]!» Ще одна летить надто низько. «[[irregular-target|Irregular]], повтор». Насамкінець рушниця Тараса клацає без пострілу. Суддя перевіряє її: справжня [[malfunction]]. «[[malfunction-limit|Limit]] — одна відмова на раунд, наступна вже буде нулем». Наприкінці дня у Віки список нових фраз і одне правило великими літерами: якщо сумніваєшся — питай суддю й перекладай дослівно, без власних коментарів."
     },
     {
       id: "s5",
@@ -54,14 +54,14 @@ window.ACADEMY.push({
       cat: "Discipline",
       short_en: "A FITASC clay discipline shot from five stands in a line at targets from six traps, following a fixed menu.",
       short_uk: "Дисципліна FITASC, у якій стріляють із п’яти номерів у лінію по мішенях із шести машинок за фіксованим меню.",
-      long_en: "Compak Sporting is a compact form of Sporting governed by FITASC. Instead of walking a course with several stands, the squad shoots on one small layout: five stands in a straight line and (at least) six traps, labelled A to F, throwing targets across, towards and away from the line. Each shooter fires 25 targets per round, five from each stand, as singles and pairs in the order shown on the menu board. Compared with FITASC Sporting it needs far less land and time, and the rotation of shooters along the line resembles Trap; unlike Trap and Skeet, the targets are varied Sporting presentations (rabbits, battues, incomers, quartering and crossing targets, minis and midis). The discipline appeared in France in the late 1980s and early 1990s and was then adopted by FITASC with its own European and World Championships.",
-      long_uk: "Compak Sporting — компактна форма спортингу під егідою FITASC. Замість того щоб ходити маршрутом із кількома площадками, група стріляє на одному невеликому майданчику: п’ять номерів у рівну лінію і щонайменше шість машинок, позначених літерами від A до F, що кидають мішені впоперек, назустріч і від лінії. Кожен стрілець за раунд стріляє 25 мішеней, по п’ять із кожного номера, — поодинокі й дуплети в порядку, указаному на табло з меню. Порівняно з FITASC Sporting він потребує значно менше землі й часу, а ротація стрільців уздовж лінії нагадує трап; на відміну від трапу і скиту, мішені тут — різноманітні подачі спортингу (кролик, батут, мішені назустріч, навскіс і впоперек, міні й міді). Дисципліна з’явилася у Франції наприкінці 1980-х — на початку 1990-х років, а згодом FITASC визнала її й запровадила окремі чемпіонати Європи та світу.",
+      long_en: "Compak Sporting is a compact form of Sporting governed by FITASC. Instead of walking a course with several stands, the squad shoots on one small layout: five stands in a straight line and six traps, lettered A to F, throwing targets across, towards and away from the line. Each shooter fires 25 targets per round, five from each stand, as singles and doubles in the order shown on the menu board. Compared with FITASC Sporting it needs far less land and time, and the rotation of shooters along the line resembles Trap; unlike Trap and Skeet, the targets are varied Sporting presentations (rabbits, battues, incomers, quartering and crossing targets, minis and midis). According to the FITASC rulebook the discipline was created in 1989 and adopted by FITASC in 1991; its name and rules are a FITASC registered trade mark.",
+      long_uk: "Compak Sporting — компактна форма спортингу під егідою FITASC. Замість того щоб ходити маршрутом із кількома площадками, група стріляє на одному невеликому майданчику: п’ять номерів у рівну лінію і шість машинок, позначених літерами від A до F, що кидають мішені впоперек, назустріч і від лінії. Кожен стрілець за раунд стріляє 25 мішеней, по п’ять із кожного номера, — поодинокі й дуплети в порядку, указаному на табло з меню. Порівняно з FITASC Sporting він потребує значно менше землі й часу, а ротація стрільців уздовж лінії нагадує трап; на відміну від трапу і скиту, мішені тут — різноманітні подачі спортингу (кролик, батут, мішені назустріч, навскіс і впоперек, міні й міді). За регламентом FITASC дисципліну створено 1989 року, а FITASC ухвалила її 1991 року; назва й правила — зареєстрована торгова марка FITASC.",
       uk_usage: "«компак», «компак-спортинг»; «стріляти компак», «піти на компак».",
       coach_en: "Today we don’t walk the course, we shoot Compak: five stands, six traps, twenty-five targets.",
       coach_uk: "Сьогодні маршрутом не ходимо, стріляємо компак: п’ять номерів, шість машинок, двадцять п’ять мішеней.",
       tip_uk: "Пишеться Compak (через k), не «Compact». Не перекладайте як «компактний спортинг» в офіційних текстах — це власна назва дисципліни. Не плутайте з Sportrap (британська дисципліна) і з «англійським спортингом».",
       related: ["compak-layout", "menu", "rotation", "compak-round", "sportrap", "compak-inline"],
-      verify: true
+      verify: false, rule_refs: [{book: "compak", id: "ch1-discipline", ref: "Chapter 1, General Information", page: 5}, {book: "compak", id: "ch2-traps", ref: "Chapter 2, 2.4 Traps", page: 7}, {book: "compak", id: "ch2-shooting-positions", ref: "Chapter 2, 2.2 Shooting positions", page: 6}, {book: "compak", id: "ch17-round-combinations", ref: "Chapter 17, 17.1 Shooting rounds", page: 17}]
     },
     {
       id: "fitasc-compak-rules",
@@ -70,30 +70,30 @@ window.ACADEMY.push({
       cat: "Discipline",
       short_en: "The official FITASC rulebook for Compak Sporting: layout, menus, rotation, scoring, finals and penalties.",
       short_uk: "Офіційні правила FITASC для Compak Sporting: майданчик, меню, ротація, підрахунок, фінали й покарання.",
-      long_en: "FITASC publishes separate regulations for Compak Sporting, alongside its general and Sporting rules. They define the layout (stands, traps, field limits), how menus are composed, how the squad rotates, what counts as a no bird, irregular target or malfunction, how finals and shoot-offs are run and which penalties apply. Many rules are shared with FITASC Sporting (gun position, two shots allowed on a single target, release delay), but the layout and rotation are specific to Compak. FITASC updates its regulations every few years, especially the final format, so organizers and interpreters should always check the edition in force for a given event.",
-      long_uk: "FITASC видає окремі правила для Compak Sporting на додачу до загальних правил і правил спортингу. Вони визначають будову майданчика (номери, машинки, межі поля), складання меню, ротацію групи, що вважається no bird, неправильною мішенню чи відмовою, як проводяться фінали й перестрілки та які застосовуються покарання. Багато норм спільні з FITASC Sporting (положення рушниці, два постріли по поодинокій мішені, затримка вильоту), але будова майданчика й ротація — особливі для компаку. FITASC оновлює правила раз на кілька років, особливо формат фіналу, тому організаторам і перекладачам варто завжди перевіряти чинну редакцію для конкретних змагань.",
+      long_en: "FITASC publishes separate regulations for Compak Sporting (current edition dated 01/01/2025, approved by the General Assembly on 18 July 2024). They define the installation (the 35–40 m × 25 m rectangle, five stations, six traps A–F), trajectories and targets, layouts and menus, squad and in-line shooting, practice, dress code, lateness, guns and ammunition, referees, what counts as a hit, a zero or a NO BIRD, penalties, shoot-offs and safety. Several rules are shared with FITASC Sporting (two shots allowed on a single, release within 3 seconds, loads of at most 28 g), but some differ in important ways: in Compak the gun position at the call is free (no low-gun rule, no vest marker), a shooter has 10 seconds to call instead of 15, and in a double only one cartridge may be fired at each target. Organizers and interpreters should always check which edition applies to a given event.",
+      long_uk: "FITASC видає окремі правила для Compak Sporting (чинна редакція від 01/01/2025, затверджена Генеральною асамблеєю 18 липня 2024 року). Вони визначають будову майданчика (прямокутник 35–40 × 25 м, п’ять номерів, шість машинок A–F), траєкторії й мішені, майданчики й меню, стрільбу групою і в лінію, тренування, вимоги до одягу, запізнення, зброю й патрони, суддівство, що вважається влучанням, промахом чи no bird, покарання, перестрілки й безпеку. Частина норм спільна з FITASC Sporting (два постріли по поодинокій мішені, виліт протягом 3 секунд, навіска не більше 28 г), але є й важливі відмінності: у компаку положення рушниці під час команди вільне (немає правила low gun і маркера на жилеті), на команду стрілець має 10 секунд, а не 15, а в дуплеті по кожній мішені можна вистрілити лише один раз. Організаторам і перекладачам варто завжди перевіряти, яка редакція діє на конкретних змаганнях.",
       uk_usage: "«правила компаку», «правила FITASC» (вимовляють «фітаск»).",
-      coach_en: "Check the current Compak regulations: the final format changed again.",
-      coach_uk: "Перевірте чинні правила компаку: формат фіналу знову змінився.",
+      coach_en: "Check the current Compak regulations: here you may call with the gun already mounted.",
+      coach_uk: "Перевірте чинні правила компаку: тут можна давати команду з уже вкинутою рушницею.",
       tip_uk: "FITASC — французька абревіатура (Fédération Internationale de Tir aux Armes Sportives de Chasse); не розшифровуйте її англійською. Посилайтеся на конкретну редакцію правил і рік.",
       related: ["compak-sporting", "gun-position", "compak-final"],
-      verify: true
+      verify: false, rule_refs: [{book: "compak", id: "ch1-discipline", ref: "Chapter 1, General Information", page: 5}, {book: "compak", id: "ch2-terrain", ref: "Chapter 2, 2.1 Terrain", page: 5}, {book: "compak", id: "ch17-gun-position", ref: "Chapter 17, 17.4 Shooting sequence for Compak by Squad (gun position)", page: 18}, {book: "compak", id: "ch21-firing-time", ref: "Chapter 21, 21.1 Firing time", page: 24}, {book: "compak", id: "ch3-one-cartridge-per-target", ref: "Chapter 3, 3.3.3 One cartridge per target in doubles", page: 8}]
     },
     {
       id: "compak-inline",
       term: "Compak Sporting InLine",
-      aka: ["Compak InLine", "InLine"],
+      aka: ["Compak in line", "Compak InLine", "InLine"],
       cat: "Discipline",
-      short_en: "A name used for some Compak variants with a different stand arrangement or format; not a core FITASC term, so check locally.",
-      short_uk: "Назва деяких варіантів компаку з іншим розташуванням номерів чи форматом; не базовий термін FITASC, тож уточнюйте на місці.",
-      long_en: "Some clubs and national associations use names such as «Compak InLine» or «InLine Sporting» for variants of Compak, for example layouts with the stands arranged differently or simplified rotation and menus for training and club events. We have not been able to confirm a single, standard definition in the FITASC Compak regulations, so the exact meaning depends on the organizer. When you see this name in an invitation or programme, ask the organizer how many stands and traps are used, how shooters rotate and whether FITASC Compak rules apply in full.",
-      long_uk: "Деякі клуби й національні асоціації називають «Compak InLine» чи «InLine Sporting» різновиди компаку — наприклад, майданчики з іншим розташуванням номерів або спрощені ротацію й меню для тренувань і клубних стартів. Нам не вдалося підтвердити єдине стандартне визначення в правилах FITASC для компаку, тож точне значення залежить від організатора. Якщо бачите цю назву в запрошенні чи програмі, уточніть в організатора, скільки номерів і машинок використовують, як переходять стрільці і чи діють правила FITASC для компаку в повному обсязі.",
-      uk_usage: "Зазвичай не перекладають: «інлайн», «компак інлайн».",
-      coach_en: "This weekend is InLine, not standard Compak, so read the programme carefully.",
-      coach_uk: "Цих вихідних — InLine, а не стандартний компак, тож уважно прочитайте програму.",
-      tip_uk: "Не вигадуйте визначення. Перепитайте організатора й перекажіть групі саме його пояснення.",
+      short_en: "Compak shot in line: every shooter of a group goes through stations 1 to 5 one after another, instead of a squad of six rotating together.",
+      short_uk: "Компак у лінію: кожен стрілець групи по черзі проходить номери від 1 до 5, а не група з шести, що обертається разом.",
+      long_en: "The FITASC Compak rulebook describes two ways of running a round: by squad (up to six shooters rotating through the five stations and the waiting position) and in line. In line, the shooters form a group whose size is the total number of competitors divided by the number of Compaks in use; every shooter starts on station 1 and finishes on station 5, and new shooters enter the line as the others move on. The referee stands to the left of station 1 and shows the first target of each double to every shooter arriving on station 1. At international level Compak in line is shot only with sonopull (voice) release and FITASC-approved electronic refereeing and scoring. A late shooter whose number has already been cancelled in the system while the next shooter is on station 1 scores 25 zeros.",
+      long_uk: "Регламент FITASC для компаку описує два способи провести раунд: групою (до шести стрільців, які по колу переходять п’ятьма номерами й позицією очікування) і в лінію. У лінію стрільці утворюють групу, розмір якої дорівнює загальній кількості учасників, поділеній на кількість задіяних майданчиків; кожен починає на першому номері й закінчує на п’ятому, а нові стрільці стають у лінію, коли попередні просуваються далі. Суддя стоїть ліворуч від першого номера й показує кожному, хто стає на перший номер, першу мішень кожного дуплета. На міжнародному рівні компак у лінію стріляють лише з голосовим запуском (sonopull) і з електронними системами суддівства та підрахунку, схваленими FITASC. Запізнілий стрілець, чий номер уже скасовано в системі, коли наступний стоїть на першому номері, отримує 25 нулів.",
+      uk_usage: "«компак у лінію», «в лінію»; розмовно «інлайн».",
+      coach_en: "This competition is shot in line: you start on station 1 and finish on station 5.",
+      coach_uk: "Ці змагання стріляють у лінію: ви починаєте на першому номері й закінчуєте на п’ятому.",
+      tip_uk: "«In line» — «у лінію», на противагу «by squad» — «групою». Не плутайте з ротацією групи з шести: у лінії кожен по черзі проходить номери 1–5, а суддя показує першу мішень дуплета кожному новому стрільцеві.",
       related: ["compak-sporting", "compak-layout"],
-      verify: true
+      verify: false, rule_refs: [{book: "compak", id: "ch16-squad-group", ref: "Chapter 16, Glossary (Squad, Group)", page: 15}, {book: "compak", id: "ch17-squads-groups", ref: "Chapter 17, 17.3 Squads and groups of shooters", page: 17}, {book: "compak", id: "ch17-inline-report", ref: "Chapter 17, 17.5.1 Compak Report Double", page: 18}, {book: "compak", id: "ch17-inline-simultaneous", ref: "Chapter 17, 17.5.2 Compak Simultaneous Double", page: 18}, {book: "compak", id: "ch2-trigger-inline", ref: "Chapter 2, 2.3 Triggering systems (Compak in line)", page: 7}, {book: "compak", id: "ch9-late-inline", ref: "Chapter 9, Lateness of a Shooter (in line)", page: 13}]
     },
     {
       id: "sportrap",
@@ -102,14 +102,14 @@ window.ACADEMY.push({
       cat: "Discipline",
       short_en: "A British discipline similar to Compak (stands in a line, several traps), run under national rather than FITASC rules.",
       short_uk: "Британська дисципліна, подібна до компаку (номери в лінію, кілька машинок), що проводиться за національними правилами, а не FITASC.",
-      long_en: "Sportrap is a discipline developed in Great Britain and run under the rules of the national association (CPSA). Like Compak it uses a line of stands and several traps, so it can be shot on a small area, but the number of traps, the target sequences, the gun position and the scoring details differ from FITASC Compak Sporting. Shooters from the UK often compare the two, so guests may mention it. For the glossary the key point is: Sportrap is not Compak, and results are not comparable.",
-      long_uk: "Sportrap — дисципліна, створена у Великій Британії, яку проводять за правилами національної асоціації (CPSA). Як і в компаку, тут є лінія номерів і кілька машинок, тож стріляти можна на невеликій площі, але кількість машинок, послідовності мішеней, положення рушниці й деталі підрахунку відрізняються від FITASC Compak Sporting. Британські стрільці часто їх порівнюють, тож гості можуть про це згадати. Для глосарію головне: Sportrap — це не компак, і результати не можна порівнювати.",
+      long_en: "Sportrap is a discipline developed in Great Britain and run under the rules of the national association (CPSA). Like Compak it uses a line of stands and several traps, so it can be shot on a small area, but the number of traps, the target sequences and the scoring details differ from FITASC Compak Sporting. Shooters from the UK often compare the two, so guests may mention it. For the glossary the key point is: Sportrap is not Compak, and results are not comparable.",
+      long_uk: "Sportrap — дисципліна, створена у Великій Британії, яку проводять за правилами національної асоціації (CPSA). Як і в компаку, тут є лінія номерів і кілька машинок, тож стріляти можна на невеликій площі, але кількість машинок, послідовності мішеней і деталі підрахунку відрізняються від FITASC Compak Sporting. Британські стрільці часто їх порівнюють, тож гості можуть про це згадати. Для глосарію головне: Sportrap — це не компак, і результати не можна порівнювати.",
       uk_usage: "«спортреп»; в Україні майже не вживається.",
-      coach_en: "Back home I shoot Sportrap, so the low gun in Compak feels strange.",
-      coach_uk: "Удома я стріляю Sportrap, тож опущена рушниця в компаку для мене незвична.",
+      coach_en: "Back home I shoot Sportrap, so the line of stands feels familiar, but the Compak menu is new to me.",
+      coach_uk: "Удома я стріляю Sportrap, тож лінія номерів мені знайома, а от меню компаку — нове.",
       tip_uk: "Не перекладайте як «спортивний трап» — це власна назва. Не ототожнюйте з компаком.",
       related: ["compak-sporting"],
-      verify: true
+      verify: true, verify_note_uk: "Правил Sportrap (CPSA) немає в довіднику FITASC: кількість машинок, послідовності, положення рушниці й підрахунок звірити з чинними правилами CPSA."
     },
     {
       id: "compak-for-training",
@@ -134,16 +134,16 @@ window.ACADEMY.push({
       term: "Compak layout",
       aka: ["Compak field", "Compak range", "layout"],
       cat: "Layout",
-      short_en: "One complete Compak installation: five stands in a line, a waiting position, at least six traps and the field limits.",
-      short_uk: "Одна повна установка компаку: п’ять номерів у лінію, позиція очікування, щонайменше шість машинок і межі поля.",
-      long_en: "A Compak layout is the whole installation on which one squad shoots a round: the line of five shooting stands, the waiting position behind stand 1, the traps (at least six, labelled A–F) placed in front of, beside, behind or above the line, and the marked field in which the targets must fly. A shooting ground may have several Compak layouts side by side, numbered or named, so that several squads can shoot at the same time. At championships squads change layouts between rounds, and each layout usually has a different set of trap positions and menus.",
-      long_uk: "Compak layout — уся установка, на якій одна група стріляє раунд: лінія з п’яти стрілецьких номерів, позиція очікування за першим номером, машинки (щонайменше шість, позначені A–F), розташовані перед лінією, збоку, позаду чи над нею, і розмічене поле, у межах якого мають летіти мішені. На стрілецькому комплексі може бути кілька майданчиків компаку поруч, з номерами чи назвами, щоб одночасно стріляли кілька груп. На чемпіонатах групи між раундами змінюють майданчики, і на кожному зазвичай інше розташування машинок та інші меню.",
+      short_en: "One complete Compak installation: five stands in a line, a waiting position, six traps and the target rectangle.",
+      short_uk: "Уся установка компаку: п’ять номерів у лінію, позиція очікування, шість машинок і прямокутник для мішеней.",
+      long_en: "A Compak layout is the whole installation on which one squad shoots a round: the line of five shooting stands, the waiting position behind stand 1, the six traps (lettered A–F from left to right) placed in front of, beside, behind or above the line, and the marked rectangle over which the targets must fly. A shooting ground may have several Compak layouts side by side, numbered or named, so that several squads can shoot at the same time. At championships squads change layouts between rounds, and each layout usually has a different set of trap positions and menus.",
+      long_uk: "Compak layout — уся установка, на якій одна група стріляє раунд: лінія з п’яти стрілецьких номерів, позиція очікування за першим номером, шість машинок (позначені A–F зліва направо), розташовані перед лінією, збоку, позаду чи над нею, і розмічений прямокутник, над яким мають пролітати мішені. На стрілецькому комплексі може бути кілька майданчиків компаку поруч, з номерами чи назвами, щоб одночасно стріляли кілька груп. На чемпіонатах групи між раундами змінюють майданчики, і на кожному зазвичай інше розташування машинок та інші меню.",
       uk_usage: "«майданчик компаку», «компак-майданчик», «поле»; часто просто «перший компак», «другий компак».",
       coach_en: "Your squad starts on layout 2, then moves to layout 4 after lunch.",
       coach_uk: "Ваша група починає на другому майданчику, а після обіду переходить на четвертий.",
       tip_uk: "Не кажіть «площадка» — це калька; правильно «майданчик». У спортингу layout — це площадка маршруту з кількома номерами; у компаку — увесь компактний майданчик.",
       related: ["compak-stand", "waiting-position", "trap-letters", "field-rectangle", "layout-change"],
-      verify: false
+      verify: false, rule_refs: [{book: "compak", id: "ch2-traps", ref: "Chapter 2, 2.4 Traps", page: 7}, {book: "compak", id: "ch2-terrain", ref: "Chapter 2, 2.1 Terrain", page: 5}, {book: "compak", id: "ch2-shooting-positions", ref: "Chapter 2, 2.2 Shooting positions", page: 6}]
     },
     {
       id: "compak-stand",
@@ -152,14 +152,14 @@ window.ACADEMY.push({
       cat: "Layout",
       short_en: "One of the five marked shooting positions in a straight line, numbered 1 to 5 from left to right.",
       short_uk: "Одна з п’яти позначених стрілецьких позицій у рівній лінії, пронумерованих від 1 до 5 зліва направо.",
-      long_en: "A Compak layout has five shooting stands in a straight line, numbered 1 to 5, usually from left to right as seen by the shooter. Each stand is a small marked square or frame on the ground; the shooter must have both feet inside it while shooting. From every stand the shooter sees the same traps, but the angles, distances and the order of targets (the menu row for that stand) are different. The stands are a few metres apart; the exact spacing and the size of the stand are set in the FITASC Compak regulations.",
-      long_uk: "На майданчику компаку п’ять стрілецьких номерів у рівну лінію, пронумерованих від 1 до 5, зазвичай зліва направо, якщо дивитися з боку стрільця. Кожен номер — невеликий позначений квадрат чи рамка на землі; під час стрільби обидві ноги стрільця мають бути всередині. З кожного номера стрілець бачить ті самі машинки, але кути, відстані й порядок мішеней (рядок меню для цього номера) різні. Номери розташовані за кілька метрів один від одного; точна відстань і розмір номера встановлені правилами FITASC для компаку.",
+      long_en: "A Compak layout has five shooting stands in a straight line, numbered 1 to 5, usually from left to right as seen by the shooter. Each stand is a 1 m × 1 m square, and the centres of neighbouring stands are 2 to 5 m apart; the line along the front of the stands is parallel to the front side of the rectangle, 4 to 8 m behind it, with stand 3 in the middle. Every stand has a Firing Angle Limiter (F.A.L.), a frame that limits the swing to the sides and upwards and stops the shooter from stepping or leaning out of the stand. From every stand the shooter sees the same traps, but the angles, distances and the order of targets (the menu row for that stand) are different.",
+      long_uk: "На майданчику компаку п’ять стрілецьких номерів у рівну лінію, пронумерованих від 1 до 5, зазвичай зліва направо, якщо дивитися з боку стрільця. Кожен номер — квадрат 1 × 1 м, а центри сусідніх номерів розташовані за 2–5 м один від одного; лінія по передньому краю номерів паралельна передній стороні прямокутника й розташована на 4–8 м позаду неї, а третій номер — посередині. На кожному номері є обмежувач кута стрільби (Firing Angle Limiter, F.A.L.) — рамка, що обмежує поворот рушниці вбік і вгору та не дає стрільцеві вийти чи нахилитися за межі номера. З кожного номера стрілець бачить ті самі машинки, але кути, відстані й порядок мішеней (рядок меню для цього номера) різні.",
       uk_usage: "«номер» («перший номер», «на третьому номері»), рідше «стенд».",
       coach_en: "On stand 3 the rabbit comes much closer, so don’t rush it.",
       coach_uk: "На третьому номері кролик іде значно ближче, тож не поспішайте.",
       tip_uk: "Українські стрільці кажуть «номер», а не «стенд» — «стенд» у нас часто означає весь стрілецький комплекс (наприклад, «поїхати на стенд»). Перекладайте stand як «номер».",
       related: ["compak-layout", "stand-spacing", "waiting-position", "rotation"],
-      verify: true
+      verify: false, rule_refs: [{book: "compak", id: "ch2-shooting-positions", ref: "Chapter 2, 2.2 Shooting positions", page: 6}, {book: "compak", id: "ch2-fal", ref: "Chapter 2, 2.2 Shooting positions (F.A.L.)", page: 6}]
     },
     {
       id: "waiting-position",
@@ -168,62 +168,62 @@ window.ACADEMY.push({
       cat: "Layout",
       short_en: "The marked place behind stand 1 where the sixth shooter of a full squad waits for their turn to enter the line.",
       short_uk: "Позначене місце за першим номером, де шостий стрілець повної групи чекає своєї черги стати в лінію.",
-      long_en: "Because a Compak squad can have six shooters but there are only five stands, one shooter is always off the line. He or she stands at the waiting position, a marked spot a few metres behind (and usually slightly to the side of) stand 1, with the gun open and unloaded. When the squad rotates, the waiting shooter moves onto stand 1 and the shooter who has just finished on stand 5 goes to the waiting position. While waiting, the shooter must not disturb the others and must not shoulder or point the gun.",
-      long_uk: "Оскільки в групі компаку може бути шість стрільців, а номерів лише п’ять, один стрілець завжди поза лінією. Він стоїть на позиції очікування — позначеному місці за кілька метрів позаду (і зазвичай трохи збоку) від першого номера — з відкритою незарядженою рушницею. Під час ротації стрілець, що чекав, переходить на перший номер, а той, хто щойно закінчив на п’ятому, іде на позицію очікування. Під час очікування стрілець не повинен заважати іншим, вкидати рушницю чи націлюватися.",
+      long_en: "Because a Compak squad can have six shooters but there are only five stands, one shooter is always off the line. He or she stands at the waiting position behind stand 1 with the gun open and unloaded. When the shooter on stand 5 has finished his menu, he goes to wait behind stand 1, everyone else moves one stand to the right and the waiting shooter steps onto stand 1. While waiting, the shooter must not disturb the others and must not mount or swing the gun: simulated shooting is forbidden outside the shooting positions and while a squad member is shooting.",
+      long_uk: "Оскільки в групі компаку може бути шість стрільців, а номерів лише п’ять, один стрілець завжди поза лінією. Він стоїть на позиції очікування за першим номером із відкритою незарядженою рушницею. Коли стрілець на п’ятому номері відстріляв своє меню, він іде чекати за перший номер, усі інші переходять на номер праворуч, а той, хто чекав, стає на перший. Під час очікування стрілець не повинен заважати іншим, вкидати рушницю чи імітувати стрільбу: імітація стрільби заборонена поза стрілецькими позиціями й тоді, коли стріляє хтось із групи.",
       uk_usage: "«шоста позиція», «місце очікування», «стоїть на очікуванні».",
       coach_en: "Number six, go to the waiting position behind stand 1, gun open.",
       coach_uk: "Шостий, ідіть на позицію очікування за першим номером, рушниця відкрита.",
-      tip_uk: "Це не «запасний» і не «резерв»: шостий стрілець — повноправний учасник групи, він просто починає з очікування. Точна відстань позиції від першого номера — за правилами FITASC.",
+      tip_uk: "Це не «запасний» і не «резерв»: шостий стрілець — повноправний учасник групи, він просто починає з очікування. Точної відстані позиції від першого номера правила не встановлюють — сказано лише «за першим номером».",
       related: ["rotation", "compak-stand", "squad", "start-order"],
-      verify: true
+      verify: false, rule_refs: [{book: "compak", id: "ch17-squad-rotation", ref: "Chapter 17, 17.4 Shooting sequence for Compak by Squad (rotation)", page: 18}, {book: "compak", id: "ch17-call-time-and-changeover", ref: "Chapter 17, 17.4 Shooting sequence for Compak by Squad (10 seconds, open gun)", page: 18}, {book: "compak", id: "ch24-dry-mounting", ref: "Chapter 24, Safety rules (simulated shooting, animals)", page: 27}]
     },
     {
       id: "field-rectangle",
       term: "Field limits",
       aka: ["Rectangle", "Shooting area", "Target area", "Compak rectangle"],
       cat: "Layout",
-      short_en: "The marked rectangle in front of the stands within which Compak targets must be thrown and shot.",
-      short_uk: "Розмічений прямокутник перед номерами, у межах якого мають кидати мішені й стріляти по них.",
-      long_en: "In front of the line of stands the FITASC regulations define a rectangular shooting area. Targets must be thrown so that they can be shot inside this area, and its limits are usually marked with posts or flags. The rectangle is commonly quoted as about 40 m wide and 25 m deep, with the line of stands on one of its long sides, but the exact dimensions and how they apply to towers and rear traps should be checked in the current rulebook. A target that leaves the limits before it can be shot may be declared irregular.",
-      long_uk: "Перед лінією номерів правила FITASC визначають прямокутну зону стрільби. Мішені мають кидати так, щоб по них можна було стріляти в межах цієї зони; її кордони зазвичай позначають стовпчиками чи прапорцями. Найчастіше називають розмір приблизно 40 м завширшки і 25 м завглибшки, причому лінія номерів розташована вздовж однієї з довгих сторін, але точні розміри й те, як вони стосуються вишки та задніх машинок, треба перевіряти в чинних правилах. Мішень, що виходить за межі до того, як по ній можна вистрілити, можуть визнати неправильною.",
+      short_en: "The compulsory rectangle in front of the stands over which every Compak target must fly.",
+      short_uk: "Обов’язковий прямокутник перед номерами, над яким має пролітати кожна мішень компаку.",
+      long_en: "Every Compak has a compulsory rectangular zone in front of the stands: 35 to 40 m wide and 25 m deep. Its corners are marked with four stakes about 50 cm high carrying a flag or another visible marker. Clockwise from the left the sides are named AB, BC, CD and DA; DA faces the shooters, and the front line of the stands runs parallel to it, 4 to 8 m behind it. In still air every target must pass over the rectangle at some point of its flight, and the compulsory trajectories are defined by the sides they cross (left to right across AB and CD, right to left across CD and AB, going away across BC). The rectangle governs how trajectories are set; the Compak rulebook does not describe it as a zone in which the target has to be broken.",
+      long_uk: "На кожному майданчику компаку є обов’язкова прямокутна зона перед номерами: 35–40 м завширшки і 25 м завглибшки. Її кути позначають чотирма кілочками заввишки близько 50 см із прапорцем чи іншою помітною позначкою. Сторони за годинниковою стрілкою, починаючи зліва, називають AB, BC, CD і DA; сторона DA звернена до стрільців, а передня лінія номерів паралельна їй і розташована на 4–8 м позаду. За безвітряної погоди кожна мішень має десь на своїй траєкторії пролетіти над прямокутником, а обов’язкові траєкторії визначають за сторонами, які вони перетинають (зліва направо — через AB і CD, справа наліво — через CD і AB, від стрільця — через BC). Прямокутник визначає, як налаштовують траєкторії; регламент компаку не описує його як зону, у межах якої мішень обов’язково треба розбити.",
       uk_usage: "«прямокутник», «межі поля», «зона стрільби».",
-      coach_en: "Shoot the rabbit before it leaves the rectangle: after the post it’s out of the area.",
-      coach_uk: "Стріляйте кролика, доки він не вийшов із прямокутника: за стовпчиком він уже поза зоною.",
-      tip_uk: "Цифри 40 × 25 м подавайте з позначкою «за правилами FITASC, перевірити редакцію».",
+      coach_en: "The four flags mark the corners of the rectangle: every target has to fly over it.",
+      coach_uk: "Чотири прапорці позначають кути прямокутника: кожна мішень має пролетіти над ним.",
+      tip_uk: "Розміри за регламентом FITASC (редакція 01/01/2025): 35–40 м завширшки, 25 м завглибшки. Не кажіть гостям, що мішень «поза прямокутником» не зараховують: такого правила в компаку немає.",
       related: ["compak-layout", "target-distance", "irregular-target"],
-      verify: true
+      verify: false, rule_refs: [{book: "compak", id: "ch2-terrain", ref: "Chapter 2, 2.1 Terrain", page: 5}, {book: "compak", id: "ch2-trap-placement", ref: "Chapter 2, 2.4 Traps (placement)", page: 7}, {book: "compak", id: "ch2-shooting-positions", ref: "Chapter 2, 2.2 Shooting positions", page: 6}, {book: "compak", id: "ch3-compulsory-trajectories", ref: "Chapter 3, 3.1.1 Compulsory trajectories", page: 7}]
     },
     {
       id: "stand-spacing",
       term: "Stand spacing",
       aka: ["Distance between stands"],
       cat: "Layout",
-      short_en: "The distance between neighbouring Compak stands, a few metres, fixed by the rules so that shooters do not disturb each other.",
-      short_uk: "Відстань між сусідніми номерами компаку — кілька метрів, установлена правилами, щоб стрільці не заважали одне одному.",
-      long_en: "The five stands are placed at equal distances along a straight line. The spacing is small enough to keep the layout compact and large enough that one shooter’s movement and ejected cartridges do not interfere with the neighbour. Figures of roughly 3 to 5 metres between stands are often given; check the exact value in the FITASC Compak regulations. The spacing matters for the organizer when building or marking a layout, and for spectators’ and waiting shooters’ safety lines.",
-      long_uk: "П’ять номерів розташовують на однаковій відстані вздовж прямої лінії. Відстань досить мала, щоб майданчик залишався компактним, і досить велика, щоб рухи одного стрільця й гільзи, що вилітають, не заважали сусідові. Часто називають приблизно 3–5 метрів між номерами; точне значення перевіряйте в правилах FITASC для компаку. Ця відстань важлива для організатора під час будівництва чи розмітки майданчика, а також для ліній безпеки глядачів і стрільця, що чекає.",
+      short_en: "The distance between neighbouring Compak stands: 2 to 5 m between centres under the FITASC rules.",
+      short_uk: "Відстань між сусідніми номерами компаку: за правилами FITASC — 2–5 м між центрами.",
+      long_en: "The five stands are placed along a straight line. Under the FITASC Compak rules each stand is a 1 m square and the distance between the centres of neighbouring stands is 2 to 5 m, so the layout stays compact while one shooter’s movement and ejected cases do not interfere too much with the neighbour. The front line of the stands is 4 to 8 m behind the front side of the rectangle. The distances between stations, like trajectories and menus, may be changed only after a complete round shot by all competitors. The spacing matters for the organizer when building or marking a layout, and for spectators’ and waiting shooters’ safety lines.",
+      long_uk: "П’ять номерів розташовують уздовж прямої лінії. За правилами FITASC для компаку кожен номер — квадрат 1 × 1 м, а відстань між центрами сусідніх номерів — 2–5 м: майданчик залишається компактним, а рухи одного стрільця й гільзи, що вилітають, не надто заважають сусідові. Передня лінія номерів розташована на 4–8 м позаду передньої сторони прямокутника. Відстані між номерами, як і траєкторії та меню, можна змінювати лише після повного раунду, який відстріляли всі учасники. Ця відстань важлива для організатора під час будівництва чи розмітки майданчика, а також для ліній безпеки глядачів і стрільця, що чекає.",
       uk_usage: "«відстань між номерами».",
       coach_en: "The stands here are close together, so wait until your neighbour has finished his pair.",
       coach_uk: "Номери тут близько один до одного, тож зачекайте, доки сусід відстріляє свій дуплет.",
-      tip_uk: "Не наводьте точну цифру як офіційну без перевірки правил.",
+      tip_uk: "Офіційні цифри: 2–5 м між центрами номерів, номер 1 × 1 м (регламент FITASC, редакція 01/01/2025).",
       related: ["compak-stand", "compak-layout"],
-      verify: true
+      verify: false, rule_refs: [{book: "compak", id: "ch2-shooting-positions", ref: "Chapter 2, 2.2 Shooting positions", page: 6}, {book: "compak", id: "ch5-layout-changes", ref: "Chapter 5, Layouts (changes between rounds)", page: 11}]
     },
     {
       id: "trap-letters",
       term: "Traps A–F",
       aka: ["Trap letters", "Machine A", "Trap A"],
       cat: "Layout",
-      short_en: "The six (or more) traps of a Compak layout, each identified by a letter that is used on the menu board.",
-      short_uk: "Шість (або більше) машинок компаку, кожна позначена літерою, яку використовують на табло з меню.",
-      long_en: "Each trap on a Compak layout is labelled with a capital letter, normally A to F for the standard six traps; the letter is shown on a sign at the trap or on a plan of the layout. The menu board refers to targets only by these letters, so «A» always means the same trap and the same flight line, whichever stand you are on. Letters are not tied to a fixed position (A is not always on the left); the organizer assigns them when setting the layout. Some layouts use more than six traps, in which case further letters are added.",
-      long_uk: "Кожна машинка на майданчику компаку позначена великою літерою, зазвичай від A до F для стандартних шести машинок; літеру показують на табличці біля машинки чи на схемі майданчика. Меню посилається на мішені лише цими літерами, тож «A» завжди означає ту саму машинку і ту саму траєкторію, хоч би на якому номері ви стояли. Літери не прив’язані до фіксованого місця (A не обов’язково зліва): організатор призначає їх, коли налаштовує майданчик. На деяких майданчиках понад шість машинок — тоді додають наступні літери.",
+      short_en: "The six traps of a Compak layout, lettered A to F from left to right; the letters are used on the menu board.",
+      short_uk: "Шість машинок компаку, позначених літерами від A до F зліва направо; ці літери використовують на табло з меню.",
+      long_en: "A Compak uses six traps, named A, B, C, D, E and F from left to right; each trap has a panel showing its letter. The menu board refers to targets only by these letters, so «A» always means the same trap and the same flight line, whichever stand you are on. The traps themselves may be placed freely as long as no target, even a NO BIRD, endangers anyone; a trap behind the stands must be raised at least 4 m above them (a tower). The traps may be manual, semi-automatic or automatic.",
+      long_uk: "На майданчику компаку шість машинок, позначених літерами A, B, C, D, E і F зліва направо; на кожній є табличка з її літерою. Меню посилається на мішені лише цими літерами, тож «A» завжди означає ту саму машинку і ту саму траєкторію, хоч би на якому номері ви стояли. Самі машинки можна розставляти вільно, якщо жодна мішень, навіть no bird, нікому не загрожує; машинку позаду номерів слід підняти щонайменше на 4 м над ними (вишка). Машинки можуть бути ручні, напівавтоматичні або автоматичні.",
       uk_usage: "«машинка А», «з машинки Ф»; літери вимовляють латиною або англійською: «а, бе, це» чи «ей, бі, сі».",
       coach_en: "Trap E is the tower, trap B is the rabbit, everything else is crossers.",
       coach_uk: "Машинка E — вишка, машинка B — кролик, усе інше — поперечні.",
       tip_uk: "Під час перекладу залишайте літери латиною, не замінюйте їх на кириличні А, Б, В — інакше стрілець не знайде їх на табло. Домовтеся з групою, як вимовляти літери (наприклад, англійською).",
       related: ["menu", "menu-board", "front-trap", "side-trap", "rear-trap", "tower-trap", "ground-trap"],
-      verify: true
+      verify: false, rule_refs: [{book: "compak", id: "ch2-traps", ref: "Chapter 2, 2.4 Traps", page: 7}, {book: "compak", id: "ch2-trap-placement", ref: "Chapter 2, 2.4 Traps (placement)", page: 7}]
     },
     {
       id: "front-trap",
@@ -328,14 +328,14 @@ window.ACADEMY.push({
       cat: "Layout",
       short_en: "How far from the stands Compak targets are shot, usually shorter than on a Sporting course and limited by the field rules.",
       short_uk: "На якій відстані від номерів стріляють мішені компаку — зазвичай ближче, ніж на маршруті спортингу, і в межах правил поля.",
-      long_en: "Because the whole layout fits into a compact rectangle, Compak targets are usually shot at short to medium distances, often roughly 15–35 metres, although tower and long crossing targets can be further. The distance changes from stand to stand: the same trap may give a close, fast target from stand 1 and a long one from stand 5. The FITASC rules set the field limits and minimum safety distances rather than one fixed shooting distance; exact numbers should be checked in the current rulebook.",
-      long_uk: "Оскільки весь майданчик вміщується в компактний прямокутник, мішені компаку зазвичай стріляють на короткій і середній дистанції, часто приблизно 15–35 метрів, хоча мішені з вишки й довгі поперечні бувають далі. Відстань змінюється від номера до номера: та сама машинка з першого номера дає близьку швидку мішень, а з п’ятого — далеку. Правила FITASC визначають межі поля й мінімальні безпечні відстані, а не одну фіксовану дистанцію стрільби; точні цифри перевіряйте в чинних правилах.",
+      long_en: "Because the whole layout fits into a compact rectangle, Compak targets are usually shot at short to medium distances, often roughly 15–35 metres, although tower and long crossing targets can be further. The distance changes from stand to stand: the same trap may give a close, fast target from stand 1 and a long one from stand 5. The FITASC rules do not fix a shooting distance: they define the rectangle the targets must fly over, require short trajectories that do not reach the neighbouring Compak and require that two shots can be fired safely at every single from all five stands; the rest is up to the course setter.",
+      long_uk: "Оскільки весь майданчик вміщується в компактний прямокутник, мішені компаку зазвичай стріляють на короткій і середній дистанції, часто приблизно 15–35 метрів, хоча мішені з вишки й довгі поперечні бувають далі. Відстань змінюється від номера до номера: та сама машинка з першого номера дає близьку швидку мішень, а з п’ятого — далеку. Правила FITASC не встановлюють дистанції стрільби: вони визначають прямокутник, над яким мають пролітати мішені, вимагають коротких траєкторій, що не заходять на сусідній майданчик, і можливості безпечно зробити два постріли по кожній поодинокій мішені з усіх п’яти номерів; решту вирішує постановник.",
       uk_usage: "«дистанція», «близька / далека мішень».",
       coach_en: "From stand 5 trap A is a long one, about thirty-five metres.",
       coach_uk: "З п’ятого номера машинка A далека — приблизно тридцять п’ять метрів.",
       tip_uk: "Цифри дистанцій — орієнтовні, не подавайте їх як правило.",
       related: ["field-rectangle", "compak-stand"],
-      verify: true
+      verify: true, rule_refs: [{book: "compak", id: "ch2-terrain", ref: "Chapter 2, 2.1 Terrain", page: 5}, {book: "compak", id: "ch3-trajectory-variety", ref: "Chapter 3, 3.1 Trajectories", page: 7}, {book: "compak", id: "ch3-free-trajectories", ref: "Chapter 3, 3.1.2 Free trajectories", page: 8}], verify_note_uk: "Типові дистанції 15–35 м — оцінка тренерів, у регламенті FITASC їх немає; правила задають лише прямокутник 35–40 × 25 м, короткі траєкторії й безпеку з усіх номерів."
     },
     {
       id: "layout-change",
@@ -362,14 +362,14 @@ window.ACADEMY.push({
       cat: "Menu & sequence",
       short_en: "The fixed programme that says which traps are thrown from each stand, in which order and as singles or which pairs.",
       short_uk: "Фіксована програма, що показує, які машинки й у якому порядку кидають на кожному номері — поодинці чи якими дуплетами.",
-      long_en: "In Compak the menu is the heart of the round. It lists, for each of the five stands, the five targets the shooter will receive, identified by trap letters, in their order: first the singles, then the pairs, with the type of each pair (report or simultaneous). For example, stand 1 may be «A, F, C, B–D» (three singles and a report pair). FITASC regulations specify how menus are built (for example the mix of singles and pairs per stand and how often each trap is used), and the organizer may use different menus on different rounds or days. The menu is displayed on a board at the layout so that every shooter can read it before shooting.",
-      long_uk: "У компаку меню — серце раунду. Для кожного з п’яти номерів воно містить п’ять мішеней, які отримає стрілець, позначених літерами машинок, у потрібному порядку: спершу поодинокі, потім дуплети, з типом кожного дуплета (репорт чи одночасний). Наприклад, для першого номера може бути «A, F, C, B–D» — три поодинокі й репорт. Правила FITASC визначають, як складати меню (наприклад, поєднання поодиноких і дуплетів на номері та скільки разів використовується кожна машинка), а організатор може ставити різні меню на різні раунди чи дні. Меню вивішують на табло біля майданчика, щоб кожен стрілець прочитав його перед стрільбою.",
+      long_en: "In Compak the menu is the heart of the round. It is displayed at each stand and lists, for each of the five stands, the five targets the shooter will receive, identified by trap letters, in their order, with the type of each double (on report or simultaneous). Per stand the combination is five singles, three singles and one double, or one single and two doubles, and on one Compak all five stands use the same type of double. The first target of each double must be the last target shot at the previous stand (for example A–F, F–C, C–E, E–B, B–D). FITASC advises using its 40 pre-established trajectory setting tables (Annex 3) in competitions, and menus may be changed only after a complete round. For example, stand 1 may be «A, F, C, B–D» (three singles and a report pair).",
+      long_uk: "У компаку меню — серце раунду. Його вивішують на кожному номері, і для кожного з п’яти номерів воно містить п’ять мішеней, які отримає стрілець, позначених літерами машинок, у потрібному порядку, з типом кожного дуплета (репорт чи одночасний). На номері може бути п’ять поодиноких, три поодинокі й один дуплет або одна поодинока й два дуплети, а на одному майданчику всі п’ять номерів мають однаковий тип дуплета. Перша мішень кожного дуплета має бути останньою мішенню попереднього номера (наприклад, A–F, F–C, C–E, E–B, B–D). FITASC радить використовувати на змаганнях її 40 готових таблиць траєкторій (додаток 3), а міняти меню можна лише після повного раунду. Наприклад, для першого номера може бути «A, F, C, B–D» — три поодинокі й репорт.",
       uk_usage: "«меню» — так і кажуть: «яке сьогодні меню?», «подивись меню».",
       coach_en: "Look at the menu before you step on the stand: three singles, then a true pair.",
       coach_uk: "Подивіться меню, перш ніж стати на номер: три поодинокі, потім одночасний дуплет.",
       tip_uk: "Не перекладайте як «програма» чи «розклад» — стрільці кажуть саме «меню». Пояснюйте клієнтам, що це не їжа, — це завжди викликає усмішку і добре запам’ятовується.",
       related: ["menu-board", "target-sequence", "pair-notation", "compak-single", "menu-change", "trap-letters"],
-      verify: true
+      verify: false, rule_refs: [{book: "compak", id: "ch17-menu", ref: "Chapter 17, 17.2 Menu or order of shooting targets", page: 17}, {book: "compak", id: "ch17-round-combinations", ref: "Chapter 17, 17.1 Shooting rounds", page: 17}, {book: "compak", id: "ch17-double-chain", ref: "Chapter 17, 17.2 Menu (first target of each double)", page: 17}, {book: "compak", id: "ch17-annex3-tables", ref: "Annex 3, Compak Sporting - shooting positions for a round", page: 32}, {book: "compak", id: "ch5-layout-changes", ref: "Chapter 5, Layouts (changes between rounds)", page: 11}]
     },
     {
       id: "menu-board",
@@ -394,14 +394,14 @@ window.ACADEMY.push({
       cat: "Menu & sequence",
       short_en: "One target thrown alone from one trap, as listed on the menu row for the stand.",
       short_uk: "Одна мішень, яку кидають окремо з однієї машинки, як зазначено в рядку меню для номера.",
-      long_en: "A single in Compak is one target from one trap, released on the shooter’s call. On each stand the shooter normally shoots the singles first, in the order shown on the menu, and then the pairs. A common pattern is three singles and one pair, or one single and two pairs, always five targets per stand. As in FITASC Sporting, the shooter may fire both barrels at a single; the target is scored as hit if broken by either shot.",
-      long_uk: "Поодинока мішень у компаку — одна мішень з однієї машинки, яку випускають на команду стрільця. На кожному номері стрілець зазвичай спершу стріляє поодинокі в порядку меню, а потім дуплети. Поширена схема — три поодинокі й один дуплет або одна поодинока й два дуплети, але завжди п’ять мішеней на номер. Як і у FITASC Sporting, по поодинокій мішені можна вистрілити з обох стволів; мішень зараховують, якщо її розбито будь-яким пострілом.",
+      long_en: "A single in Compak is one target from one trap, released on the shooter’s call. On each stand the shooter shoots the targets in the order of the menu, usually the singles first and then the doubles. Per stand the combination is five singles, three singles and one double, or one single and two doubles — always five targets. Every single must allow two shots from each of the five stands, and the target is scored as hit if it is broken by either shot.",
+      long_uk: "Поодинока мішень у компаку — одна мішень з однієї машинки, яку випускають на команду стрільця. На кожному номері стрілець стріляє мішені в порядку меню, зазвичай спершу поодинокі, а потім дуплети. На номері буває п’ять поодиноких, три поодинокі й один дуплет або одна поодинока й два дуплети — завжди п’ять мішеней. По кожній поодинокій мішені має бути змога вистрілити двічі з кожного з п’яти номерів, і мішень зараховують, якщо її розбито будь-яким пострілом.",
       uk_usage: "«поодинока», «одиночна», «сингл».",
-      coach_en: "Two singles from A and C, then two pairs.",
-      coach_uk: "Дві поодинокі з A і C, потім два дуплети.",
+      coach_en: "One single from A, then two pairs.",
+      coach_uk: "Одна поодинока з A, потім два дуплети.",
       tip_uk: "Не кажіть «одинарна мішень». Природно звучить «поодинока» або розмовне «сингл».",
       related: ["menu", "report-pair", "simultaneous-pair", "second-barrel", "targets-per-stand"],
-      verify: true
+      verify: false, rule_refs: [{book: "compak", id: "ch17-round-combinations", ref: "Chapter 17, 17.1 Shooting rounds", page: 17}, {book: "compak", id: "ch3-trajectory-variety", ref: "Chapter 3, 3.1 Trajectories", page: 7}]
     },
     {
       id: "pair-notation",
@@ -417,7 +417,7 @@ window.ACADEMY.push({
       coach_uk: "Плюс — разом, риска — на постріл. Не переплутайте.",
       tip_uk: "Не стверджуйте, що позначення універсальні: на конкретному комплексі вони можуть бути інші. Завжди дивіться легенду.",
       related: ["menu-board", "report-pair", "simultaneous-pair", "menu"],
-      verify: true
+      verify: true, rule_refs: [{book: "compak", id: "ch17-annex3-tables", ref: "Annex 3, Compak Sporting - shooting positions for a round", page: 32}], verify_note_uk: "Регламент FITASC не встановлює позначок дуплетів на табло (риска, плюс, «sim»); звірте з легендою конкретного комплексу."
     },
     {
       id: "target-sequence",
@@ -433,7 +433,7 @@ window.ACADEMY.push({
       coach_uk: "Проговоріть послідовність уголос, перш ніж дати команду: A, F, C, потім дуплет.",
       tip_uk: "Якщо стрілець вистрілив не по тій мішені через неправильну послідовність, рішення ухвалює суддя; перекладайте його слова точно.",
       related: ["menu", "compak-single", "wrong-target", "shooting-order-on-stand"],
-      verify: true
+      verify: false, rule_refs: [{book: "compak", id: "ch17-menu", ref: "Chapter 17, 17.2 Menu or order of shooting targets", page: 17}, {book: "compak", id: "ch17-double-chain", ref: "Chapter 17, 17.2 Menu (first target of each double)", page: 17}, {book: "compak", id: "ch5-layout-changes", ref: "Chapter 5, Layouts (changes between rounds)", page: 11}]
     },
     {
       id: "target-numbering",
@@ -445,11 +445,11 @@ window.ACADEMY.push({
       long_en: "In a Compak round each shooter’s targets can be numbered 1 to 25: targets 1–5 on the first stand the shooter shoots from, 6–10 on the next, and so on. Within a stand the targets are numbered in the order of the menu, so the two targets of a pair have consecutive numbers. The scorecard follows the same order, which helps the referee and the scorer record results and settle disputes («target 14 was a no bird»). Note that each shooter starts on a different stand, so «target 1» is not the same trap for everyone.",
       long_uk: "У раунді компаку мішені кожного стрільця можна пронумерувати від 1 до 25: мішені 1–5 на першому для нього номері, 6–10 на наступному і так далі. У межах номера мішені нумерують у порядку меню, тож дві мішені дуплета мають послідовні номери. Картка результатів має той самий порядок, що допомагає судді й секретарю записувати результати й розв’язувати суперечки («чотирнадцята мішень була no bird»). Зважайте, що кожен стрілець починає з іншого номера, тож «перша мішень» — не та сама машинка для всіх.",
       uk_usage: "«перша мішень», «чотирнадцята», «мішень номер десять».",
-      coach_en: "You lost target 9, that was the second bird of the pair on stand 2.",
-      coach_uk: "Ви промахнулися по дев’ятій мішені — це друга мішень дуплета на другому номері.",
+      coach_en: "You lost target 10, the second bird of the pair on your second stand.",
+      coach_uk: "Ви промахнулися по десятій мішені — це друга мішень дуплета на вашому другому номері.",
       tip_uk: "Не плутайте номер мішені з номером стрілецької позиції: «номер» українською — це позиція, тож кажіть «дев’ята мішень», а не «дев’ятий номер».",
       related: ["scorecard", "menu", "electronic-scoreboard"],
-      verify: true
+      verify: false, rule_refs: [{book: "compak", id: "ch15-annex1-sheet", ref: "Annex 1, Score sheet - by squad", page: 29}, {book: "compak", id: "ch15-zero-announce", ref: "Chapter 15, Score Sheet (announcing zeros, marks)", page: 14}]
     },
     {
       id: "menu-change",
@@ -458,14 +458,14 @@ window.ACADEMY.push({
       cat: "Menu & sequence",
       short_en: "Using a different menu with the same traps for another round, day or competition, so the same layout gives a new challenge.",
       short_uk: "Нове меню з тими самими машинками на інший раунд, день чи змагання, щоб той самий майданчик став новим викликом.",
-      long_en: "The traps of a Compak layout are fixed for the event, but their order and combination can be changed by changing the menu. At competitions the menus to be used are decided by the organizer and the jury according to the FITASC regulations, and they are displayed before the round. In training, a coach can change the menu at any time to repeat a difficult trap or practise particular pairs. A new menu means shooters must read the board again and not shoot from memory.",
-      long_uk: "Машинки на майданчику компаку на змаганнях стоять незмінно, але їхній порядок і комбінації можна змінити новим меню. На змаганнях меню визначають організатор і журі відповідно до правил FITASC і вивішують перед раундом. На тренуванні тренер може будь-коли змінити меню, щоб повторити складну машинку чи потренувати певні дуплети. Нове меню означає, що стрільцям треба знову читати табло, а не стріляти з пам’яті.",
+      long_en: "On a Compak layout the trajectories, the traps, the menus and even the distances between the stations may be changed, but under the FITASC rules only after a complete round, when all shooters have shot the same round of targets (50 targets with 2 installations, 100 targets with 4). Layouts and menus are set before the competition, either by the jury or a designated person using the pre-established tables or by the person in charge of layouts, and are checked by the FITASC Technical Committee members present (otherwise by the jury). In training, a coach can change the menu at any time to repeat a difficult trap or practise particular pairs. A new menu means shooters must read the board again and not shoot from memory.",
+      long_uk: "На майданчику компаку можна змінювати траєкторії, машинки, меню й навіть відстані між номерами, але за правилами FITASC лише після повного раунду, коли всі стрільці відстріляли однаковий набір мішеней (50 мішеней на 2 майданчиках або 100 мішеней на 4). Майданчики й меню встановлюють перед змаганнями — журі чи призначена особа за готовими таблицями або відповідальний за майданчики, — а перевіряють їх присутні члени Технічного комітету FITASC (якщо їх немає — журі). На тренуванні тренер може будь-коли змінити меню, щоб повторити складну машинку чи потренувати певні дуплети. Нове меню означає, що стрільцям треба знову читати табло, а не стріляти з пам’яті.",
       uk_usage: "«поміняли меню», «нове меню», «інше меню на другий день».",
       coach_en: "Same traps, new menu: read the board again, don’t shoot from memory.",
       coach_uk: "Машинки ті самі, меню нове: прочитайте табло ще раз, не стріляйте з пам’яті.",
-      tip_uk: "Чи можна міняти машинки й меню між раундами на конкретних змаганнях — питання правил і журі; не обіцяйте клієнтам «те саме меню, що вчора».",
+      tip_uk: "На змаганнях меню й машинки міняють лише після повного раунду для всіх учасників; не обіцяйте клієнтам «те саме меню, що вчора».",
       related: ["menu", "menu-board", "compak-for-training"],
-      verify: true
+      verify: false, rule_refs: [{book: "compak", id: "ch5-layout-changes", ref: "Chapter 5, Layouts (changes between rounds)", page: 11}, {book: "compak", id: "ch5-who-sets-layouts", ref: "Chapter 5, Layouts (setting the layouts)", page: 11}]
     },
 
     /* ---------------- Squad & rotation ---------------- */
@@ -476,14 +476,14 @@ window.ACADEMY.push({
       cat: "Squad & rotation",
       short_en: "How Compak shooters move: after each pass along the line everyone moves one stand to the right, stand 5 goes to the waiting position and the waiting shooter takes stand 1.",
       short_uk: "Як переходять стрільці в компаку: після кожного проходу лінією всі зсуваються на номер праворуч, п’ятий іде на позицію очікування, а той, хто чекав, стає на перший.",
-      long_en: "A Compak squad shoots in passes. In each pass the shooters on stands 1 to 5 shoot their five targets one after another, starting from stand 1. When the shooter on stand 5 has finished, everyone moves one stand to the right: the shooter from stand 5 goes to the waiting position, and the shooter from the waiting position steps onto stand 1. With six shooters a round takes six passes and each shooter waits once; with five or fewer, five passes are needed and an empty stand or position is simply skipped. Shooters move with guns open and unloaded and only when the referee indicates.",
-      long_uk: "Група компаку стріляє проходами. За кожен прохід стрільці на номерах 1–5 по черзі відстрілюють свої п’ять мішеней, починаючи з першого номера. Коли стрілець на п’ятому номері закінчив, усі зсуваються на один номер праворуч: стрілець із п’ятого іде на позицію очікування, а той, хто чекав, стає на перший номер. Для шести стрільців раунд триває шість проходів, і кожен один раз чекає; якщо стрільців п’ятеро чи менше, потрібно п’ять проходів, а порожній номер чи позицію просто пропускають. Переходять із відкритою незарядженою рушницею і лише за вказівкою судді.",
+      long_en: "A Compak squad shoots in passes. In each pass the shooters on stands 1 to 5 shoot their five targets one after another; stand 1 always starts the series. When the shooter on stand 5 has finished his menu, he goes to wait behind stand 1, everyone else moves one stand to the right, and the waiting shooter steps onto stand 1. A round therefore has six passes, and with six shooters each of them waits once; with fewer than six, a stand (or the waiting position) is empty in some passes, and the last target of the empty stand is shown to the next shooter. A shooter who has finished waits for the next shooter to finish before moving, without disturbing him; stations are changed with the gun open and unloaded, and the referee tells stand 1 when to start.",
+      long_uk: "Група компаку стріляє проходами. За кожен прохід стрільці на номерах 1–5 по черзі відстрілюють свої п’ять мішеней; серію завжди починає перший номер. Коли стрілець на п’ятому номері відстріляв своє меню, він іде чекати за перший номер, усі інші переходять на номер праворуч, а той, хто чекав, стає на перший. Отже, раунд складається з шести проходів, і в групі з шести кожен один раз чекає; якщо стрільців менше шести, на деяких проходах номер (або позиція очікування) порожній, і останню мішень порожнього номера показують наступному стрільцеві. Відстрілявши, стрілець чекає, доки наступний закінчить, і не заважає йому; номери міняють із відкритою незарядженою рушницею, а суддя показує першому номеру, коли починати.",
       uk_usage: "«перехід», «переходимо», «усі на номер праворуч», «по колу».",
       coach_en: "Stand 5 has finished: everybody move one to the right.",
       coach_uk: "П’ятий номер закінчив: усі переходять на один праворуч.",
-      tip_uk: "Точний момент переходу (після повного проходу всіх п’яти номерів) варто підтвердити в чинних правилах FITASC; на тренуваннях клуби іноді спрощують ротацію.",
+      tip_uk: "Порядок переходу закріплений у регламенті FITASC (17.4): п’ятий — на очікування за першим, решта — на номер праворуч. На тренуваннях клуби іноді спрощують ротацію.",
       related: ["waiting-position", "start-order", "shooting-order-on-stand", "incomplete-squad", "squad"],
-      verify: true
+      verify: false, rule_refs: [{book: "compak", id: "ch17-squad-rotation", ref: "Chapter 17, 17.4 Shooting sequence for Compak by Squad (rotation)", page: 18}, {book: "compak", id: "ch17-call-time-and-changeover", ref: "Chapter 17, 17.4 Shooting sequence for Compak by Squad (10 seconds, open gun)", page: 18}, {book: "compak", id: "ch17-empty-station", ref: "Chapter 17, 17.2 Menu (squad with fewer than six)", page: 17}, {book: "compak", id: "ch17-annex4-old-system", ref: "Annex 4, Old system position the shooter for the progression of a round", page: 37}]
     },
     {
       id: "start-order",
@@ -499,7 +499,7 @@ window.ACADEMY.push({
       coach_uk: "Цього раунду ви починаєте на третьому номері, а Тарас — з позиції очікування.",
       tip_uk: "Не плутайте стартовий номер учасника (номер у протоколі) з номером стрілецької позиції.",
       related: ["rotation", "squad-sheet", "waiting-position", "squad"],
-      verify: true
+      verify: true, rule_refs: [{book: "compak", id: "ch17-squad-show-targets", ref: "Chapter 17, 17.4 Shooting sequence for Compak by Squad (showing targets)", page: 17}, {book: "compak", id: "ch15-annex1-sheet", ref: "Annex 1, Score sheet - by squad", page: 29}], verify_note_uk: "Регламент каже лише, що номери займають у порядку протоколу; правило зміни стартового порядку між раундами в ньому не описане — звірте з програмою змагань."
     },
     {
       id: "squad-sheet",
@@ -508,14 +508,14 @@ window.ACADEMY.push({
       cat: "Squad & rotation",
       short_en: "The published list of squads with their shooters, start order, layouts and times for each round.",
       short_uk: "Оприлюднений список груп зі стрільцями, порядком, майданчиками й часом кожного раунду.",
-      long_en: "Before a Compak competition the organizer publishes the squadding: which shooters are in each squad, in what order, and on which layout and at what time each squad shoots each round. Shooters must be at the layout on time; a shooter who misses the start of the squad may be penalised or lose targets under the rules. For an interpreter the squad sheet is the most useful document of the day: it tells you where your clients must be and when.",
-      long_uk: "Перед змаганнями з компаку організатор оприлюднює розподіл на групи: які стрільці в кожній групі, у якому порядку, на якому майданчику й о котрій кожна група стріляє кожен раунд. Стрільці мають вчасно бути на майданчику; той, хто запізнився на старт групи, за правилами може отримати покарання чи втратити мішені. Для перекладача список груп — найкорисніший документ дня: він показує, де й коли мають бути ваші клієнти.",
+      long_en: "Before a Compak competition the organizer publishes the squadding: which shooters are in each squad, in what order, and on which layout and at what time each squad shoots each round. Shooters must be at the layout on time; under the FITASC rules a shooter who arrives after the first shooter of the squad has called for the first target scores 25 zeros for that round. For an interpreter the squad sheet is the most useful document of the day: it tells you where your clients must be and when.",
+      long_uk: "Перед змаганнями з компаку організатор оприлюднює розподіл на групи: які стрільці в кожній групі, у якому порядку, на якому майданчику й о котрій кожна група стріляє кожен раунд. Стрільці мають вчасно бути на майданчику; за правилами FITASC стрілець, який з’явився після того, як перший стрілець групи дав команду на першу мішень, отримує 25 нулів за цей раунд. Для перекладача список груп — найкорисніший документ дня: він показує, де й коли мають бути ваші клієнти.",
       uk_usage: "«розподіл по групах», «стартовий протокол», «список змін».",
       coach_en: "Check the squad sheet: you’re squad 7, layout 2, nine forty.",
       coach_uk: "Перевірте список груп: ви сьома група, другий майданчик, дев’ята сорок.",
       tip_uk: "Роздрукуйте або збережіть розподіл для всіх своїх клієнтів і позначте їхні групи й час.",
       related: ["start-order", "timetable", "squad", "layout-change"],
-      verify: false
+      verify: false, rule_refs: [{book: "compak", id: "ch9-late-squad", ref: "Chapter 9, Lateness of a Shooter (squad)", page: 13}, {book: "compak", id: "ch8-shooting-times", ref: "Chapter 8, Shooting Times", page: 12}]
     },
     {
       id: "incomplete-squad",
@@ -524,14 +524,14 @@ window.ACADEMY.push({
       cat: "Squad & rotation",
       short_en: "A Compak squad with fewer than six shooters; the rotation continues and the empty positions are skipped.",
       short_uk: "Група компаку, у якій менше шести стрільців; ротація триває, а порожні позиції пропускають.",
-      long_en: "Squads normally have up to six shooters, but some have five or fewer because of the number of entries or a withdrawal. With five shooters nobody waits and all five stands are occupied at each pass; with fewer, one or more stands stay empty and are skipped in the shooting order. The organizer tries to avoid squads that are too small, because shooters then have less rest between stands. The rotation rules stay the same.",
-      long_uk: "Зазвичай у групі до шести стрільців, але деякі мають п’ятьох чи менше через кількість заявок або зняття учасника. Якщо стрільців п’ятеро, ніхто не чекає, і на кожному проході зайняті всі п’ять номерів; якщо менше, один чи кілька номерів порожні й їх пропускають у черговості стрільби. Організатор намагається уникати надто малих груп, бо тоді стрільці мають менше відпочинку між номерами. Правила ротації залишаються ті самі.",
+      long_en: "Squads have at most six shooters, but some have five or fewer because of the number of entries or a withdrawal. The rotation stays the same — after stand 5 has shot, everyone moves one stand to the right — so with fewer than six shooters some stands (or the waiting position) are empty in each pass. When a stand is empty, the referee shows the last target of that stand to the next shooter, because his double starts with that target. The FITASC rulebook shows the progression for squads of 6, 5, 4, 3 and 2 shooters. The organizer tries to avoid very small squads, because shooters then have less rest between stands.",
+      long_uk: "У групі щонайбільше шість стрільців, але в деяких п’ятеро чи менше через кількість заявок або зняття учасника. Ротація залишається тією самою — після п’ятого номера всі переходять на номер праворуч, — тож якщо стрільців менше шести, на кожному проході якісь номери (або позиція очікування) порожні. Коли номер порожній, суддя показує наступному стрільцеві останню мішень цього номера, бо його дуплет починається саме з неї. Регламент FITASC наводить схеми переходів для груп із 6, 5, 4, 3 і 2 стрільців. Організатор намагається уникати надто малих груп, бо тоді стрільці мають менше відпочинку між номерами.",
       uk_usage: "«неповна група», «нас п’ятеро».",
-      coach_en: "You’re only four, so stand 5 stays empty this round.",
-      coach_uk: "Вас лише четверо, тож п’ятий номер цього раунду порожній.",
-      tip_uk: "Мінімальну кількість стрільців у групі встановлюють правила й організатор — уточнюйте, якщо доводиться формувати групу з двох-трьох людей.",
+      coach_en: "You’re only four: two places stay empty, and I’ll show you the last target of the empty stand.",
+      coach_uk: "Вас лише четверо: два місця порожні, і я покажу вам останню мішень порожнього номера.",
+      tip_uk: "Схеми для неповних груп (від 2 до 6 стрільців) є в додатку 4 регламенту FITASC; пояснюйте клієнтам, чому суддя показує мішень із порожнього номера.",
       related: ["rotation", "squad", "waiting-position"],
-      verify: true
+      verify: false, rule_refs: [{book: "compak", id: "ch17-empty-station", ref: "Chapter 17, 17.2 Menu (squad with fewer than six)", page: 17}, {book: "compak", id: "ch17-annex4-old-system", ref: "Annex 4, Old system position the shooter for the progression of a round", page: 37}, {book: "compak", id: "ch17-squads-groups", ref: "Chapter 17, 17.3 Squads and groups of shooters", page: 17}]
     },
     {
       id: "shooting-order-on-stand",
@@ -540,14 +540,14 @@ window.ACADEMY.push({
       cat: "Squad & rotation",
       short_en: "In Compak each shooter fires all five targets of his stand before the next stand shoots, in order from stand 1 to stand 5.",
       short_uk: "У компаку кожен стрілець відстрілює всі п’ять мішеней свого номера, перш ніж стріляє наступний, у порядку від першого до п’ятого номера.",
-      long_en: "Unlike Trap, where shooters on the line shoot one target each in turn, in Compak a shooter completes his full stand sequence (five targets) and then the turn passes to the next stand. Only the shooter whose turn it is may load and shoulder the gun; the others wait with guns open. The referee announces or signals when the next shooter may start. Shooting out of turn is an offence under the rules.",
-      long_uk: "На відміну від трапу, де стрільці на лінії стріляють по черзі по одній мішені, у компаку стрілець відстрілює всю послідовність свого номера (п’ять мішеней), а потім черга переходить до наступного номера. Заряджати й вкидати рушницю може лише той стрілець, чия черга; інші чекають із відкритими рушницями. Суддя оголошує чи показує, коли може починати наступний стрілець. Стрільба поза чергою — порушення правил.",
+      long_en: "Unlike Trap, where shooters on the line shoot one target each in turn, in Compak a shooter completes his full stand sequence (five targets) and then the turn passes to the next stand. Only the shooter whose turn it is may load and shoulder the gun; the others wait with guns open. The referee announces or signals when the next shooter may start; after the last target of the previous stand, the next shooter has at most 10 seconds to call. Shooting out of turn is an offence under the rules.",
+      long_uk: "На відміну від трапу, де стрільці на лінії стріляють по черзі по одній мішені, у компаку стрілець відстрілює всю послідовність свого номера (п’ять мішеней), а потім черга переходить до наступного номера. Заряджати й вкидати рушницю може лише той стрілець, чия черга; інші чекають із відкритими рушницями. Суддя оголошує чи показує, коли може починати наступний стрілець; після останньої мішені попереднього номера наступний стрілець має щонайбільше 10 секунд, щоб дати команду. Стрільба поза чергою — порушення правил.",
       uk_usage: "«черга», «твоя черга», «стріляє другий номер».",
       coach_en: "Wait until stand 2 has shot all five, then it’s your turn.",
       coach_uk: "Зачекайте, доки другий номер відстріляє всі п’ять, потім ваша черга.",
       tip_uk: "Порівняння з трапом допомагає новачкам: «у трапі по одній мішені по черзі, у компаку — по п’ять».",
       related: ["rotation", "shooting-out-of-turn", "loading-on-stand", "target-sequence"],
-      verify: true
+      verify: false, rule_refs: [{book: "compak", id: "ch17-squad-rotation", ref: "Chapter 17, 17.4 Shooting sequence for Compak by Squad (rotation)", page: 18}, {book: "compak", id: "ch17-call-time-and-changeover", ref: "Chapter 17, 17.4 Shooting sequence for Compak by Squad (10 seconds, open gun)", page: 18}, {book: "compak", id: "ch21-shooting-conduct", ref: "Chapter 21, 21.6 Rules of conduct, safety (when to shoot, loading)", page: 25}]
     },
 
     /* ---------------- Round & competition ---------------- */
@@ -574,14 +574,14 @@ window.ACADEMY.push({
       cat: "Round & competition",
       short_en: "Each shooter receives exactly five targets on each Compak stand, as singles and pairs.",
       short_uk: "На кожному номері компаку стрілець отримує рівно п’ять мішеней — поодинокі й дуплети.",
-      long_en: "Five stands times five targets gives the 25-target round. The five targets on a stand are always a combination of singles and pairs, for example three singles and one pair, or one single and two pairs. The menu specifies the combination for every stand and the regulations define which combinations are allowed and how the pairs are distributed across the round. For scoring, each target in a pair counts separately.",
-      long_uk: "П’ять номерів по п’ять мішеней — це раунд із 25 мішеней. П’ять мішеней на номері — це завжди поєднання поодиноких і дуплетів, наприклад три поодинокі й один дуплет або одна поодинока й два дуплети. Меню визначає поєднання для кожного номера, а правила — які поєднання дозволені і як розподіляють дуплети в раунді. Під час підрахунку кожна мішень дуплета рахується окремо.",
+      long_en: "Five stands times five targets gives the 25-target round. Under the FITASC rules the five targets on a stand are five singles, three singles and one double, or one single and two doubles; the doubles may be on report or simultaneous, but on one Compak the type of double is the same on all five stands. The menu specifies the combination for every stand. For scoring, each target in a double counts separately.",
+      long_uk: "П’ять номерів по п’ять мішеней — це раунд із 25 мішеней. За правилами FITASC п’ять мішеней на номері — це п’ять поодиноких, три поодинокі й один дуплет або одна поодинока й два дуплети; дуплети бувають репортом чи одночасними, але на одному майданчику тип дуплета однаковий на всіх п’яти номерах. Меню визначає поєднання для кожного номера. Під час підрахунку кожна мішень дуплета рахується окремо.",
       uk_usage: "«п’ять на номер», «по п’ять».",
       coach_en: "Five on every stand: one single and two pairs here.",
       coach_uk: "На кожному номері п’ять: тут одна поодинока й два дуплети.",
       tip_uk: "—",
       related: ["compak-round", "compak-single", "report-pair", "simultaneous-pair", "menu"],
-      verify: true
+      verify: false, rule_refs: [{book: "compak", id: "ch17-round-combinations", ref: "Chapter 17, 17.1 Shooting rounds", page: 17}]
     },
     {
       id: "show-targets",
@@ -590,14 +590,14 @@ window.ACADEMY.push({
       cat: "Round & competition",
       short_en: "Targets released without shooting so that the squad can see the flight of each trap before the round.",
       short_uk: "Мішені, які випускають без стрільби, щоб група побачила траєкторію кожної машинки перед раундом.",
-      long_en: "Before shooting starts on a Compak layout, the referee normally releases one target from each trap so that the shooters can see the trajectories. At competitions the rules define when show targets are given (for example at the start of each round, or for the first squad of the day on a new layout) and whether shooters may mount their guns during the show. During show targets nobody may shoot. The exact procedure differs between Compak and FITASC Sporting and between rule editions.",
-      long_uk: "Перед початком стрільби на майданчику компаку суддя зазвичай випускає по одній мішені з кожної машинки, щоб стрільці побачили траєкторії. На змаганнях правила визначають, коли показують мішені (наприклад, на початку кожного раунду чи для першої групи дня на новому майданчику) і чи можна під час показу вкидати рушницю. Під час показу ніхто не стріляє. Точна процедура відрізняється в компаку й FITASC Sporting та в різних редакціях правил.",
+      long_en: "In squad Compak the targets are shown only once in the morning, to the first squad: the shooter on stand 1 calls each single from A to F (at most two of each), then the referee shows all the simultaneous doubles for stands 1 to 5 and calls «start» or «competition». Doubles on report are not shown as pairs; the referee shows the next shooter the first target of his double instead. After an interruption of more than 10 minutes the six singles are shown again. In Compak in line the first shooter sees the singles and all simultaneous doubles, and later shooters on stand 1 are shown the first target of their double. While targets are shown, guns must be open and unloaded, and nobody shoots.",
+      long_uk: "У компаку групою мішені показують лише раз уранці — першій групі: стрілець на першому номері по черзі викликає кожну поодиноку від A до F (не більше двох кожної), потім суддя показує всі одночасні дуплети для номерів 1–5 і оголошує «start» чи «competition». Репорти як дуплети не показують: натомість суддя показує наступному стрільцеві першу мішень його дуплета. Після перерви, довшої за 10 хвилин, шість поодиноких показують знову. У компаку в лінію перший стрілець бачить поодинокі й усі одночасні дуплети, а наступним стрільцям на першому номері показують першу мішень їхнього дуплета. Під час показу рушниці відкриті й незаряджені, і ніхто не стріляє.",
       uk_usage: "«показ», «показати мішені», «пробні без пострілу».",
       coach_en: "The referee will show all six traps first. Watch, don’t shoot.",
       coach_uk: "Спершу суддя покаже всі шість машинок. Дивіться, не стріляйте.",
       tip_uk: "Не перекладайте як «пробні мішені»: пробна — це та, по якій стріляють. Show targets — лише для перегляду.",
       related: ["compak-round", "referee", "official-training"],
-      verify: true
+      verify: false, rule_refs: [{book: "compak", id: "ch17-squad-show-targets", ref: "Chapter 17, 17.4 Shooting sequence for Compak by Squad (showing targets)", page: 17}, {book: "compak", id: "ch17-double-chain", ref: "Chapter 17, 17.2 Menu (first target of each double)", page: 17}, {book: "compak", id: "ch17-inline-simultaneous", ref: "Chapter 17, 17.5.2 Compak Simultaneous Double", page: 18}, {book: "compak", id: "ch21-open-gun", ref: "Chapter 21, 21.6 Rules of conduct, safety (open gun)", page: 26}]
     },
     {
       id: "qualification",
@@ -606,14 +606,14 @@ window.ACADEMY.push({
       cat: "Round & competition",
       short_en: "The rounds all competitors shoot; their total decides the ranking and who goes to the final.",
       short_uk: "Раунди, які стріляють усі учасники; їхня сума визначає рейтинг і вихід у фінал.",
-      long_en: "In a Compak competition all competitors shoot the same number of qualification rounds, for example 100, 150 or 200 targets spread over one to three days. The sum of these rounds gives the ranking in the overall classification and in categories (ladies, juniors, veterans and others). At championships the best shooters by qualification score go on to a final. Ties in the qualification are broken according to the regulations, typically by a shoot-off for places that matter or by countback on the last rounds.",
-      long_uk: "На змаганнях із компаку всі учасники стріляють однакову кількість кваліфікаційних раундів, наприклад 100, 150 чи 200 мішеней протягом одного-трьох днів. Сума цих раундів визначає місце в загальному заліку й у категоріях (жінки, юніори, ветерани тощо). На чемпіонатах найкращі за кваліфікацією виходять у фінал. Рівність у кваліфікації розв’язують за правилами — зазвичай перестрілкою за важливі місця або порівнянням останніх раундів.",
+      long_en: "In a Compak competition all competitors shoot the same number of qualification rounds; an international competition under the FITASC rules is 200 targets on eight Compaks of 25 targets, while national and club events may be shorter (for example 100 or 150 targets). The sum of these rounds gives the ranking in the overall (open) classification and in categories. Under the FITASC rulebook ties for the first three places are decided by a 25-target shoot-off and then sudden death, and ties below third place by countback from the 8th Compak to the 1st. Some events also add a final for the best shooters; its format is set in the competition programme.",
+      long_uk: "На змаганнях із компаку всі учасники стріляють однакову кількість кваліфікаційних раундів; міжнародні змагання за правилами FITASC — це 200 мішеней на восьми майданчиках по 25 мішеней, а національні й клубні старти можуть бути коротшими (наприклад, 100 чи 150 мішеней). Сума цих раундів визначає місце в загальному заліку й у категоріях. За регламентом FITASC рівність за перші три місця розв’язує перестрілка на 25 мішеней, а потім «до першого промаху» (sudden death), а нижче третього місця — порівняння результатів від восьмого майданчика до першого. Деякі змагання додають фінал для найкращих; його формат визначає програма змагань.",
       uk_usage: "«кваліфікація», «основна програма».",
       coach_en: "After qualification you’re seventh, one target off the final.",
       coach_uk: "Після кваліфікації ви сьомий, за одну мішень від фіналу.",
-      tip_uk: "Правила розв’язання рівності (перестрілка чи порівняння серій) залежать від редакції — уточнюйте.",
+      tip_uk: "Рівність за регламентом FITASC: місця 1–3 — перестрілка, нижче — countback від восьмого майданчика. Якщо є фінал, його формат дивіться в програмі змагань.",
       related: ["compak-final", "compak-round", "shoot-off"],
-      verify: true
+      verify: false, rule_refs: [{book: "compak", id: "ch5-competition-layouts", ref: "Chapter 5, Layouts", page: 11}, {book: "compak", id: "ch14-shootoff-medals", ref: "Chapter 14, Shoot-offs (first three places)", page: 14}, {book: "compak", id: "ch14-countback", ref: "Chapter 14, Shoot-offs (ranking below third place)", page: 14}]
     },
     {
       id: "compak-final",
@@ -622,14 +622,14 @@ window.ACADEMY.push({
       cat: "Round & competition",
       short_en: "The extra round for the best qualifiers that decides the medals at major Compak competitions.",
       short_uk: "Додатковий раунд для найкращих за кваліфікацією, що визначає медалістів на великих змаганнях із компаку.",
-      long_en: "At European and World Compak Championships and many Grand Prix events, the top shooters after qualification (traditionally the best six in the senior category) shoot a final on a designated layout, often with spectators and a commentator. The traditional format is one 25-target round, shot as one squad, with the final score added to the qualification score; newer FITASC editions have experimented with finals starting from zero and with elimination. Ties for medals are decided by a shoot-off. Because the format has changed several times, always check the regulations in force for the event.",
-      long_uk: "На чемпіонатах Європи та світу з компаку й на багатьох Гран-прі найкращі стрільці після кваліфікації (традиційно шестеро найкращих у категорії сеньйорів) стріляють фінал на визначеному майданчику, часто з глядачами й коментатором. Традиційний формат — один раунд із 25 мішеней однією групою, і фінальний результат додають до кваліфікаційного; у новіших редакціях FITASC пробували фінали з нуля та з вибуванням. Рівність за медалі розв’язують перестрілкою. Оскільки формат кілька разів змінювався, завжди перевіряйте чинні правила для конкретних змагань.",
+      long_en: "Many Compak championships and Grand Prix events end with a final for the top shooters after qualification, often on a designated layout with spectators and a commentator. A common format is one 25-target round shot as one squad, with the final score added to the qualification score, but formats vary. The FITASC Compak rulebook (edition 01/01/2025) itself does not describe a final: ties for the first three places are decided by a 25-target shoot-off, then sudden death. Always check the competition programme for the final format.",
+      long_uk: "Багато чемпіонатів і Гран-прі з компаку завершуються фіналом для найкращих після кваліфікації, часто на визначеному майданчику з глядачами й коментатором. Поширений формат — один раунд із 25 мішеней однією групою, і фінальний результат додають до кваліфікаційного, але формати різняться. Сам регламент FITASC для компаку (редакція 01/01/2025) фіналу не описує: рівність за перші три місця розв’язує перестрілка на 25 мішеней, а потім «до першого промаху». Формат фіналу завжди перевіряйте в програмі змагань.",
       uk_usage: "«фінал», «вийшов у фінал», «фінальна серія».",
       coach_en: "You’re in the final: be on layout 1 in thirty minutes for show targets.",
       coach_uk: "Ви у фіналі: будьте на першому майданчику за тридцять хвилин на показ мішеней.",
       tip_uk: "Не обіцяйте клієнтам конкретний формат фіналу, доки не прочитали програму змагань.",
       related: ["qualification", "shoot-off", "show-targets", "world-championship"],
-      verify: true
+      verify: true, rule_refs: [{book: "compak", id: "ch14-shootoff-medals", ref: "Chapter 14, Shoot-offs (first three places)", page: 14}, {book: "compak", id: "ch5-competition-layouts", ref: "Chapter 5, Layouts", page: 11}], verify_note_uk: "Регламент FITASC Compak (01/01/2025) фіналу не описує: при рівності за місця 1–3 стріляють перестрілку. Формат фіналу (скільки фіналістів, з нуля чи з додаванням до кваліфікації) звіряти з програмою конкретних змагань."
     },
     {
       id: "grand-prix",
@@ -645,7 +645,7 @@ window.ACADEMY.push({
       coach_uk: "Гран-прі — 150 мішеней за два дні, фінал у неділю.",
       tip_uk: "Українською — «Гран-прі» (через дефіс). Кількість мішеней перевіряйте в програмі конкретних змагань.",
       related: ["qualification", "compak-final", "european-championship", "world-championship"],
-      verify: true
+      verify: true, verify_note_uk: "Регламент FITASC Compak не визначає формату Гран-прі (кількість мішеней, днів, фінал) — звіряти з календарем FITASC і програмою змагань."
     },
     {
       id: "european-championship",
@@ -654,14 +654,14 @@ window.ACADEMY.push({
       cat: "Round & competition",
       short_en: "The annual FITASC championship of Compak Sporting for European federations, with individual, category and team titles.",
       short_uk: "Щорічний чемпіонат FITASC із компак-спортингу для європейських федерацій з особистими, категорійними та командними титулами.",
-      long_en: "The European Compak Sporting Championship is organized under FITASC, usually once a year in a different country. It typically consists of 200 targets of qualification over several days, followed by finals, with titles in the overall (senior) classification, categories such as ladies, juniors, veterans and super veterans, and team events for national teams. Entries are made through national federations. Dates, number of targets and final formats are published in the official programme.",
-      long_uk: "Чемпіонат Європи з компак-спортингу проводять під егідою FITASC, зазвичай раз на рік у різних країнах. Він зазвичай складається з 200 мішеней кваліфікації протягом кількох днів і фіналів, з титулами в загальному (сеньйорському) заліку, у категоріях — жінки, юніори, ветерани, суперветерани тощо — та в командних змаганнях національних збірних. Заявки подають через національні федерації. Дати, кількість мішеней і формат фіналів публікують в офіційній програмі.",
+      long_en: "The European Compak Sporting Championship is organized under FITASC, usually once a year in a different country. Under the FITASC rules it is 200 targets on eight Compaks of 25 targets, shot over several days; at continental and world championships the host club’s usual machines may not be used — 48 new machines are installed and set only for the championship — and official practice opens on the Saturday before. Titles are awarded in the overall (senior) classification, in categories such as ladies, juniors, veterans and super veterans, and in team events for national teams. Entries are made through national federations. Dates, categories and any final format are published in the official programme.",
+      long_uk: "Чемпіонат Європи з компак-спортингу проводять під егідою FITASC, зазвичай раз на рік у різних країнах. За правилами FITASC це 200 мішеней на восьми майданчиках по 25 мішеней протягом кількох днів; на континентальних і світових чемпіонатах звичайні машинки клубу-господаря використовувати не можна — встановлюють і налаштовують 48 нових машинок лише для чемпіонату, — а офіційні тренування відкриваються в суботу перед стартом. Титули розігрують у загальному (сеньйорському) заліку, у категоріях — жінки, юніори, ветерани, суперветерани тощо — та в командних змаганнях національних збірних. Заявки подають через національні федерації. Дати, категорії та формат фіналу, якщо він є, публікують в офіційній програмі.",
       uk_usage: "«чемпіонат Європи з компаку», «Європа».",
       coach_en: "The European Championship is 200 targets, so plan your energy over three days.",
       coach_uk: "Чемпіонат Європи — 200 мішеней, тож розподіліть сили на три дні.",
       tip_uk: "Не називайте федерації «партнерами» змагань. Кількість мішеней і категорії — за програмою конкретного року.",
       related: ["world-championship", "grand-prix", "compak-final", "qualification"],
-      verify: true
+      verify: true, rule_refs: [{book: "compak", id: "ch5-competition-layouts", ref: "Chapter 5, Layouts", page: 11}, {book: "compak", id: "ch5-championship-machines", ref: "Chapter 5, Layouts (continental and world championships)", page: 11}, {book: "compak", id: "ch6-championship-practice", ref: "Chapter 6, Practice (championships)", page: 12}], verify_note_uk: "Періодичність, категорії, командні заліки й фінали в регламенті компаку не описані — звірте з програмою чемпіонату."
     },
     {
       id: "world-championship",
@@ -670,14 +670,14 @@ window.ACADEMY.push({
       cat: "Round & competition",
       short_en: "The FITASC world championship of Compak Sporting, the highest-level event of the discipline.",
       short_uk: "Чемпіонат світу FITASC з компак-спортингу — змагання найвищого рівня в дисципліні.",
-      long_en: "The World Compak Sporting Championship is the top FITASC event of the discipline, held regularly (usually annually) in a host country. Its structure is similar to the European Championship: qualification over typically 200 targets on several layouts, finals for the best shooters, and individual, category and team titles. It attracts several hundred shooters, so for organizers it involves large-scale squadding, many layouts and tight timetables.",
-      long_uk: "Чемпіонат світу з компак-спортингу — найголовніші змагання FITASC у дисципліні, які регулярно (зазвичай щороку) проводять у країні-господарці. Структура подібна до чемпіонату Європи: кваліфікація зазвичай на 200 мішеней на кількох майданчиках, фінали для найкращих, особисті, категорійні та командні титули. Він збирає кілька сотень стрільців, тож для організаторів це масштабний розподіл на групи, багато майданчиків і щільний розклад.",
+      long_en: "The World Compak Sporting Championship is the top FITASC event of the discipline, held regularly (usually annually) in a host country. Under the FITASC rules it is shot like any international Compak competition — 200 targets on eight Compaks — on 48 new machines installed only for the championship, with official practice from the Saturday before. Individual, category and team titles are awarded. It attracts several hundred shooters, so for organizers it involves large-scale squadding, many layouts and tight timetables.",
+      long_uk: "Чемпіонат світу з компак-спортингу — найголовніші змагання FITASC у дисципліні, які регулярно (зазвичай щороку) проводять у країні-господарці. За правилами FITASC його стріляють як будь-які міжнародні змагання з компаку — 200 мішеней на восьми майданчиках — на 48 нових машинках, установлених лише для чемпіонату, з офіційними тренуваннями від суботи перед стартом. Розігрують особисті, категорійні та командні титули. Він збирає кілька сотень стрільців, тож для організаторів це масштабний розподіл на групи, багато майданчиків і щільний розклад.",
       uk_usage: "«чемпіонат світу з компаку», «світ».",
       coach_en: "At the World Championship you’ll shoot on eight different layouts.",
       coach_uk: "На чемпіонаті світу ви стрілятимете на восьми різних майданчиках.",
       tip_uk: "Перевіряйте кількість мішеней і формат за офіційною програмою року.",
       related: ["european-championship", "grand-prix", "compak-final"],
-      verify: true
+      verify: true, rule_refs: [{book: "compak", id: "ch5-competition-layouts", ref: "Chapter 5, Layouts", page: 11}, {book: "compak", id: "ch5-championship-machines", ref: "Chapter 5, Layouts (continental and world championships)", page: 11}, {book: "compak", id: "ch6-championship-practice", ref: "Chapter 6, Practice (championships)", page: 12}], verify_note_uk: "Періодичність і категорії чемпіонату світу в регламенті не описані — звірте з календарем FITASC і програмою."
     },
     {
       id: "official-training",
@@ -686,14 +686,14 @@ window.ACADEMY.push({
       cat: "Round & competition",
       short_en: "Paid practice rounds on the competition layouts offered before an event, under the organizer’s rules.",
       short_uk: "Платні тренувальні раунди на змагальних майданчиках перед стартом, за правилами організатора.",
-      long_en: "Before championships and many Grand Prix events, the organizer offers official training: shooters can buy practice rounds on the competition layouts (or some of them) on the day or days before the event. Whether the competition menus are used in training is up to the organizer; often the traps are the same but the menus differ. Training scores do not count. For tour groups, booking training slots early is important because they sell out.",
-      long_uk: "Перед чемпіонатами й багатьма Гран-прі організатор пропонує офіційне тренування: стрільці можуть купити тренувальні раунди на змагальних майданчиках (чи деяких із них) за день-два до змагань. Чи використовують на тренуванні змагальні меню — вирішує організатор; часто машинки ті самі, а меню інші. Результати тренування не зараховують. Для групових турів важливо бронювати тренувальні слоти заздалегідь, бо їх розкуповують.",
+      long_en: "Before championships and many Grand Prix events, the organizer offers official training: shooters can buy practice rounds on the competition layouts (or some of them) on the day or days before the event. Under the FITASC rules practice may use the competition trajectories, but the trajectory setting tables (menus) used for practice must differ from the competition ones, and at continental and world championships official practice opens only on the Saturday before the event. Training scores do not count. For tour groups, booking training slots early is important because they sell out.",
+      long_uk: "Перед чемпіонатами й багатьма Гран-прі організатор пропонує офіційне тренування: стрільці можуть купити тренувальні раунди на змагальних майданчиках (чи деяких із них) за день-два до змагань. За правилами FITASC на тренуванні можуть бути траєкторії змагань, але таблиці траєкторій (меню) для тренування мають відрізнятися від змагальних, а на континентальних і світових чемпіонатах офіційні тренування відкриваються лише в суботу перед стартом. Результати тренування не зараховують. Для групових турів важливо бронювати тренувальні слоти заздалегідь, бо їх розкуповують.",
       uk_usage: "«офіційне тренування», «тренувальні серії», «прострілка».",
       coach_en: "We have two training rounds tomorrow at nine on layouts 3 and 5.",
       coach_uk: "Завтра о дев’ятій у нас два тренувальні раунди на третьому й п’ятому майданчиках.",
       tip_uk: "Для організатора: заброньовані слоти й оплату тренувань краще підтвердити письмово.",
       related: ["show-targets", "timetable", "compak-for-training"],
-      verify: false
+      verify: false, rule_refs: [{book: "compak", id: "ch6-practice", ref: "Chapter 6, Practice", page: 12}, {book: "compak", id: "ch6-championship-practice", ref: "Chapter 6, Practice (championships)", page: 12}]
     },
     {
       id: "timetable",
@@ -709,7 +709,7 @@ window.ACADEMY.push({
       coach_uk: "Сьогодні чотири серії: дві зранку, дві після обіду.",
       tip_uk: "Для організатора: плануйте трансфери й обід під розклад груп, а не навпаки.",
       related: ["squad-sheet", "layout-change", "compak-round"],
-      verify: true
+      verify: true, rule_refs: [{book: "compak", id: "ch8-shooting-times", ref: "Chapter 8, Shooting Times", page: 12}], verify_note_uk: "Тривалість раунду (20–30 хв) і 3–4 раунди на день — оцінка з практики, у регламенті їх немає; регламент лише покладає відповідальність за дотримання розкладу на стрільця."
     },
 
     /* ---------------- Rules & refereeing ---------------- */
@@ -718,16 +718,16 @@ window.ACADEMY.push({
       term: "Vest marker",
       aka: ["FITASC marker", "Marker line", "Gun position marker", "Tape on the vest"],
       cat: "Rules & refereeing",
-      short_en: "A visible horizontal mark on the shooting vest; in the ready position the gun stock must stay below it until the target appears.",
-      short_uk: "Помітна горизонтальна смуга на стрілецькому жилеті; у положенні «готовий» приклад має бути нижче неї, доки не з’явиться мішень.",
-      long_en: "FITASC disciplines, including Compak, require a low gun ready position. To make it checkable, the shooter’s vest or jacket carries a marker: a horizontal band or strip of contrasting colour on the side of the shooting arm, placed a set distance below the top of the shoulder (commonly given as 25 cm). When calling for a target the heel of the stock must be visible below this line and touching the body, and the gun may only be mounted after the target appears. The referee checks the marker before the round and may warn or penalise a shooter who mounts too early.",
-      long_uk: "Дисципліни FITASC, зокрема компак, вимагають низького положення рушниці перед стрільбою. Щоб його можна було перевірити, на жилеті чи куртці стрільця є маркер — горизонтальна смуга контрастного кольору з боку руки, якою стріляють, на встановленій відстані нижче верхньої точки плеча (найчастіше називають 25 см). Коли стрілець дає команду, п’ятка приклада має бути видима нижче цієї лінії й торкатися тіла, а вкидати рушницю можна лише після появи мішені. Суддя перевіряє маркер перед раундом і може попередити чи покарати стрільця, який вкидає рушницю зарано.",
+      short_en: "A horizontal line on the shooting vest, 25 cm below the shoulder axis, required in FITASC Sporting; Compak has no vest marker.",
+      short_uk: "Горизонтальна лінія на стрілецькому жилеті 25 см нижче осі плеча, обов’язкова у FITASC Sporting; у компаку маркера на жилеті немає.",
+      long_en: "In FITASC Sporting the low-gun ready position is checked with a marker on the shooter’s vest or jacket: a line in a contrasting colour, 25 cm (9.85 in) below the axis of the shoulder and parallel to it. Before calling, the heel of the stock touches the body and the top rear point of the stock stays below this line until the target has appeared. The Compak Sporting rulebook has no such requirement: in Compak the gun position at the moment of calling is free, mounted or not, and every target only has to be shot with the gun at the shoulder. Shooters who come to Compak from Sporting often keep the marker on their vest, but the Compak referee does not check it.",
+      long_uk: "У FITASC Sporting низьке вихідне положення рушниці перевіряють за маркером на жилеті чи куртці стрільця — лінією контрастного кольору 25 см (9,85 дюйма) нижче осі плеча й паралельно їй. Перед командою п’ятка приклада торкається тіла, а верхня задня точка приклада залишається нижче цієї лінії, доки не з’явиться мішень. У регламенті Compak Sporting такої вимоги немає: у компаку положення рушниці під час команди вільне — рушниця може бути вкинута чи ні, — а стріляти по кожній мішені треба лише з рушницею в плечі. Стрільці, які приходять у компак зі спортингу, часто не знімають маркер із жилета, але суддя компаку його не перевіряє.",
       uk_usage: "«маркер», «смужка на жилеті», «лінія FITASC».",
-      coach_en: "Your marker is too low: the referee will make you fix it before the round.",
-      coach_uk: "Ваш маркер надто низько: суддя змусить виправити це перед раундом.",
-      tip_uk: "Порадьте клієнтам приїздити з жилетом, на якому вже є маркер FITASC, або взяти стрічку-липучку. Точну відстань (25 см) перевірте в чинних правилах.",
+      coach_en: "No need for a marker here: in Compak you may call with the gun already mounted.",
+      coach_uk: "Маркер тут не потрібен: у компаку можна давати команду з уже вкинутою рушницею.",
+      tip_uk: "Не переносьте правило спортингу на компак: смуга 25 см нижче осі плеча потрібна лише у FITASC Sporting. Якщо група стріляє обидві дисципліни, нагадайте про маркер саме перед спортингом.",
       related: ["gun-position", "penalty-scale", "referee"],
-      verify: true
+      verify: false, rule_refs: [{book: "sporting", id: "ch3-jacket-line", ref: "Chapter 3, 3.1 Shooting position, 3.1.1", page: 5}, {book: "sporting", id: "ch3-ready-position", ref: "Chapter 3, 3.1 Shooting position, 3.1.1", page: 5}, {book: "compak", id: "ch17-gun-position", ref: "Chapter 17, 17.4 Shooting sequence for Compak by Squad (gun position)", page: 18}]
     },
     {
       id: "loading-on-stand",
@@ -736,14 +736,14 @@ window.ACADEMY.push({
       cat: "Rules & refereeing",
       short_en: "A Compak shooter may load only when standing on the stand and only when it is his turn; elsewhere the gun stays open and empty.",
       short_uk: "Стрілець компаку може заряджати лише на номері й лише у свою чергу; деінде рушниця відкрита й порожня.",
-      long_en: "Safety rules in Compak are strict because shooters stand close together. A shooter may only load the gun when standing inside his stand, with the barrels pointing towards the field, and only when it is his turn to shoot. Walking between stands, at the waiting position and while others shoot, the gun must be open and unloaded (semi-automatics with the action open). After the last target on a stand the shooter unloads before turning around or leaving the stand. Breaches lead to warnings and penalties, and dangerous behaviour can mean disqualification.",
-      long_uk: "Правила безпеки в компаку суворі, бо стрільці стоять близько один до одного. Заряджати рушницю можна лише всередині свого номера, стволами в бік поля, і лише у свою чергу. Під час переходу між номерами, на позиції очікування і поки стріляють інші, рушниця має бути відкрита й незаряджена (у напівавтоматів — з відкритим затвором). Після останньої мішені на номері стрілець розряджає рушницю, перш ніж обернутися чи зійти з номера. Порушення тягнуть попередження й покарання, а небезпечна поведінка — дискваліфікацію.",
+      long_en: "Safety rules in Compak are strict because shooters stand close together. A shooter may load only on his own stand, after the referee has authorised the start, keeping the gun open with the barrels pointing down range inside the Firing Angle Limiter; he closes the gun only when it is his turn to shoot. Walking between stands, at the waiting position and while others shoot, the gun must be open and unloaded (semi-automatics with the action open). After the last target on a stand the shooter unloads before turning around or leaving the stand. Breaches lead to warnings and penalties, and dangerous behaviour can mean disqualification.",
+      long_uk: "Правила безпеки в компаку суворі, бо стрільці стоять близько один до одного. Заряджати рушницю можна лише на своєму номері й після дозволу судді на початок стрільби, тримаючи рушницю відкритою, а стволи — спрямованими в поле в межах обмежувача кута стрільби; закривати рушницю можна лише тоді, коли настала черга стрільця. Під час переходу між номерами, на позиції очікування і поки стріляють інші, рушниця має бути відкрита й незаряджена (у напівавтоматів — з відкритим затвором). Після останньої мішені на номері стрілець розряджає рушницю, перш ніж обернутися чи зійти з номера. Порушення тягнуть попередження й покарання, а небезпечна поведінка — дискваліфікацію.",
       uk_usage: "«заряджаємось тільки на номері», «відкрий рушницю».",
       coach_en: "Load only on the stand, and only when it’s your turn.",
       coach_uk: "Заряджайтеся лише на номері й лише у свою чергу.",
       tip_uk: "Це питання безпеки — перекладайте одразу й без пом’якшень.",
       related: ["two-cartridges", "shooting-order-on-stand", "penalty-scale"],
-      verify: false
+      verify: false, rule_refs: [{book: "compak", id: "ch21-shooting-conduct", ref: "Chapter 21, 21.6 Rules of conduct, safety (when to shoot, loading)", page: 25}, {book: "compak", id: "ch24-on-the-stand", ref: "Chapter 24, Safety rules (on the shooting position)", page: 27}, {book: "compak", id: "ch21-open-gun", ref: "Chapter 21, 21.6 Rules of conduct, safety (open gun)", page: 26}]
     },
     {
       id: "two-cartridges",
@@ -752,14 +752,14 @@ window.ACADEMY.push({
       cat: "Rules & refereeing",
       short_en: "In Compak the gun may never be loaded with more than two cartridges at a time.",
       short_uk: "У компаку в рушниці ніколи не може бути більше двох патронів одночасно.",
-      long_en: "Compak follows the FITASC rule that a shooter may load at most two cartridges, whatever the type of gun. For a single target the shooter may load two and use both; for a pair one cartridge per target is the normal use. Semi-automatic guns must be restricted so that no more than two cartridges are in the gun. Cartridge specifications (shot load, shot size) are set by the general FITASC rules and are owned by the guns module of this glossary.",
-      long_uk: "Компак дотримується правила FITASC: стрілець може зарядити не більше двох патронів, незалежно від типу рушниці. Для поодинокої мішені стрілець може зарядити два й використати обидва; для дуплета зазвичай по одному патрону на мішень. Напівавтомати мають бути обмежені так, щоб у рушниці було не більше двох патронів. Характеристики патронів (вага й розмір дробу) визначають загальні правила FITASC — про них у розділі глосарію про зброю.",
+      long_en: "The Compak rules limit a semi-automatic to two loaded cartridges, and an over-and-under holds two anyway, so a shooter never has more than two cartridges in the gun. On a single target the shooter may use both shots. In a double only one cartridge may be fired at each target: firing both shots at the first target is prohibited, and the referees’ quick guide scores it Zero-Zero. A semi-automatic must also have a shell deflector or catcher so that its cases do not bother the neighbour. Cartridge specifications (at most 28 g of lead, shot 2–2.5 mm) are owned by the guns module of this glossary.",
+      long_uk: "Правила компаку дозволяють заряджати в напівавтомат не більше двох патронів, а в рушницю з вертикальними стволами їх і так входить два, тож у рушниці ніколи не буває більше двох патронів. По поодинокій мішені можна використати обидва постріли. У дуплеті по кожній мішені можна вистрілити лише один патрон: стріляти обома по першій мішені заборонено, і за пам’яткою для суддів це оцінюють як нуль-нуль. Напівавтомат також мусить мати відбивач або вловлювач гільз, щоб вони не заважали сусідові. Вимоги до патронів (не більше 28 г свинцю, дріб 2–2,5 мм) — тема модуля про зброю.",
       uk_usage: "«не більше двох патронів», «два в рушниці».",
       coach_en: "Two cartridges, no more, even on a single.",
       coach_uk: "Два патрони, не більше, навіть на поодиноку.",
       tip_uk: "Не розписуйте вимоги до патронів у цьому розділі — це тема модуля про зброю.",
       related: ["second-barrel", "loading-on-stand", "compak-single"],
-      verify: true
+      verify: false, rule_refs: [{book: "compak", id: "ch18-semi-auto", ref: "Chapter 18, 18.1 Gun (semi-automatic shotguns)", page: 19}, {book: "compak", id: "ch21-shooting-conduct", ref: "Chapter 21, 21.6 Rules of conduct, safety (when to shoot, loading)", page: 25}, {book: "compak", id: "ch3-one-cartridge-per-target", ref: "Chapter 3, 3.3.3 One cartridge per target in doubles", page: 8}, {book: "compak", id: "ch18-cartridge-load", ref: "Chapter 18, 18.3 Ammunition (load and shot size)", page: 19}]
     },
     {
       id: "second-barrel",
@@ -768,30 +768,30 @@ window.ACADEMY.push({
       cat: "Rules & refereeing",
       short_en: "On a Compak single the shooter may fire a second shot if the first misses; a break with either shot scores.",
       short_uk: "По поодинокій мішені в компаку можна вистрілити вдруге, якщо перший постріл мимо; влучання будь-яким пострілом зараховують.",
-      long_en: "As in FITASC Sporting, a Compak shooter may fire both barrels at a single target, and the target is scored as hit if it is broken by either shot. On a pair the shooter normally fires one shot at each target; rules also cover special cases, such as breaking both targets of a simultaneous pair with one shot (usually scored as two hits) or firing both shots at the first target of a pair. These details should be checked in the current regulations.",
-      long_uk: "Як і у FITASC Sporting, по поодинокій мішені в компаку можна вистрілити з обох стволів, і мішень зараховують, якщо її розбито будь-яким пострілом. По дуплету стрілець зазвичай стріляє по одному разу в кожну мішень; правила також описують особливі випадки — наприклад, коли одним пострілом розбито обидві мішені одночасного дуплета (зазвичай це дві влучні) або коли обидва постріли витрачено на першу мішень дуплета. Ці деталі варто перевіряти в чинних правилах.",
+      long_en: "A Compak shooter may fire both barrels at a single target, and the target is scored as hit if it is broken by either shot; every single must allow two shots from each of the five stands. Doubles are different from FITASC Sporting: in Compak only one cartridge may be fired at each target of a double, and deliberately firing both shots at the first target is scored Zero-Zero (in Sporting both shots may go at the same target). If one shot breaks both targets of a simultaneous double, it is a NO BIRD and the double is repeated; the third time it happens the double is scored Zero-Zero. If one shot breaks both targets of a double on report, the first result stands and the second target is a NO BIRD (in Sporting two targets broken with one shot score one and one).",
+      long_uk: "По поодинокій мішені в компаку можна вистрілити з обох стволів, і мішень зараховують, якщо її розбито будь-яким пострілом; по кожній поодинокій має бути змога вистрілити двічі з кожного з п’яти номерів. З дуплетами інакше, ніж у FITASC Sporting: у компаку по кожній мішені дуплета можна вистрілити лише один патрон, а навмисні два постріли по першій мішені оцінюють як нуль-нуль (у спортингу обидва постріли можна витратити на одну мішень). Якщо одним пострілом розбито обидві мішені одночасного дуплета, це no bird і дуплет повторюють; утретє такий дуплет оцінюють як нуль-нуль. Якщо одним пострілом розбито обидві мішені репорту, результат першої зберігають, а друга — no bird (у спортингу дві мішені, розбиті одним пострілом, — це дві влучні).",
       uk_usage: "«добивати другим», «з другого ствола».",
       coach_en: "If you miss the rabbit with the first, finish it with the second.",
       coach_uk: "Якщо першим пострілом промахнулися по кролику, добивайте другим.",
-      tip_uk: "Новачки з трапу знають, що там два постріли теж дозволені; зі скиту — ні. Пояснюйте за правилами конкретної дисципліни.",
+      tip_uk: "Не переносьте правила дуплетів зі спортингу на компак: у компаку — один патрон на кожну мішень дуплета. Новачкам із трапу два постріли по поодинокій знайомі; у скиті — ні.",
       related: ["compak-single", "two-cartridges", "report-pair", "simultaneous-pair"],
-      verify: true
+      verify: false, rule_refs: [{book: "compak", id: "ch3-trajectory-variety", ref: "Chapter 3, 3.1 Trajectories", page: 7}, {book: "compak", id: "ch3-one-cartridge-per-target", ref: "Chapter 3, 3.3.3 One cartridge per target in doubles", page: 8}, {book: "compak", id: "ch3-two-with-one-simultaneous", ref: "Chapter 3, 3.3.3 (simultaneous double: two targets with one shot)", page: 8}, {book: "compak", id: "ch3-two-with-one-report", ref: "Chapter 3, 3.3.3 (double on report: two targets with one shot)", page: 8}, {book: "sporting", id: "ch4-doubles-general", ref: "Chapter 4, 4.2 Definition of doubles", page: 7}, {book: "sporting", id: "ch6-two-with-one-shot", ref: "Chapter 6, 6.5.2, note under the table; Chapter 7, 7.9", page: 11}]
     },
     {
       id: "release-delay",
       term: "Release delay",
       aka: ["Variable delay", "Time between call and release", "0–3 seconds"],
       cat: "Rules & refereeing",
-      short_en: "After the shooter calls, the target may be released immediately or after a delay of up to about three seconds.",
-      short_uk: "Після команди стрільця мішень можуть випустити одразу або з затримкою приблизно до трьох секунд.",
-      long_en: "In FITASC Sporting and Compak the target does not have to come out instantly on the call. The release may be immediate or delayed by a variable time, usually quoted as up to 3 seconds, and the shooter cannot refuse a target because of the delay within that limit. The delay keeps shooters from anticipating the target and mounting early. If the release is clearly later than the allowed time, the shooter may refuse the target by not shooting and the referee may declare a no bird.",
-      long_uk: "У FITASC Sporting і компаку мішень не мусить вилітати миттєво після команди. Виліт може бути негайним або із затримкою змінної тривалості, яку зазвичай указують до 3 секунд, і стрілець не може відмовитися від мішені через затримку в цих межах. Затримка не дає стрільцям передбачати мішень і завчасно вкидати рушницю. Якщо мішень вилетіла явно пізніше дозволеного, стрілець може відмовитися, не стріляючи, і суддя може оголосити no bird.",
+      short_en: "After the call the target must leave within 0 to 3 seconds (manual release); a voice release has a fixed 0.5-second delay.",
+      short_uk: "Після команди мішень має вилетіти протягом 0–3 секунд (ручний запуск); голосовий запуск має фіксовану затримку 0,5 секунди.",
+      long_en: "In Compak the target does not have to come out instantly on the call. With manual or remote release it must leave within 0 to 3 seconds after the call; a voice-activated sonopull box applies a fixed, non-adjustable delay of 0.5 seconds, and the same delay on all machines of one Compak is recommended. A target released more than 3 seconds after the call is a NO BIRD. In FITASC Sporting the referee relays the call to the trapper by an audio signal and the target must be thrown within 3 seconds of that signal. The delay keeps shooters from anticipating the target.",
+      long_uk: "У компаку мішень не мусить вилітати миттєво після команди. За ручного чи дистанційного запуску вона має вилетіти протягом 0–3 секунд після команди; голосовий пристрій sonopull дає фіксовану затримку 0,5 секунди, яку не можна змінити, і на всіх машинках одного майданчика радять ставити однакову затримку. Мішень, що вилетіла пізніше ніж через 3 секунди після команди, — no bird. У FITASC Sporting суддя передає команду оператору звуковим сигналом, і мішень має вилетіти протягом 3 секунд після цього сигналу. Затримка не дає стрільцям передбачати мішень.",
       uk_usage: "«затримка», «з затримкою», «пауза після команди».",
-      coach_en: "Don’t mount on the call: the release can come up to three seconds later.",
-      coach_uk: "Не вкидайте рушницю на команду: мішень може вилетіти аж через три секунди.",
-      tip_uk: "Цифру «до 3 секунд» подавайте як «за правилами FITASC, перевірити».",
+      coach_en: "The target can come up to three seconds after your call, so don’t rush.",
+      coach_uk: "Мішень може вилетіти аж через три секунди після команди, тож не поспішайте.",
+      tip_uk: "Цифри за регламентом FITASC: ручний запуск — 0–3 секунди, sonopull — фіксовані 0,5 секунди; пізніше 3 секунд — no bird.",
       related: ["vest-marker", "gun-position", "release-system", "no-bird"],
-      verify: true
+      verify: false, rule_refs: [{book: "compak", id: "ch2-trigger-manual", ref: "Chapter 2, 2.3 Triggering systems", page: 7}, {book: "compak", id: "ch20-target-no-bird-cases", ref: "Chapter 20, 20.3.2 Due to targets", page: 24}, {book: "compak", id: "ch2-trigger-inline", ref: "Chapter 2, 2.3 Triggering systems (Compak in line)", page: 7}, {book: "sporting", id: "ch5-call-and-release", ref: "Chapter 5, 5.4", page: 9}]
     },
     {
       id: "release-system",
@@ -816,14 +816,14 @@ window.ACADEMY.push({
       cat: "Rules & refereeing",
       short_en: "A target whose flight clearly differs from the target shown (speed, angle, height or path); it is declared a no bird and repeated.",
       short_uk: "Мішень, траєкторія якої явно відрізняється від показаної (швидкість, кут, висота чи напрямок); її оголошують no bird і повторюють.",
-      long_en: "Every Compak target must follow the trajectory set for its trap and shown to the squad. If a target flies clearly differently (too low, too high, too slow, at a wrong angle or outside the field limits), the referee declares it irregular, which counts as a no bird: the target is repeated. If the shooter fires at an irregular target, the result may stand depending on the rules and the referee’s call; the safest practice is not to shoot and to look at the referee. Only the referee decides whether a target was irregular.",
-      long_uk: "Кожна мішень компаку має летіти траєкторією, установленою для її машинки й показаною групі. Якщо мішень летить явно інакше (надто низько, високо, повільно, під неправильним кутом чи поза межами поля), суддя оголошує її неправильною, що прирівнюється до no bird: мішень повторюють. Якщо стрілець вистрілив по неправильній мішені, результат може бути зарахований — залежно від правил і рішення судді; найкраща практика — не стріляти й подивитися на суддю. Лише суддя вирішує, чи мішень була неправильною.",
+      long_en: "Every Compak target must follow the trajectory set for its trap. If the referee judges that a target is off its trajectory, of a different colour or from another machine, he calls NO BIRD and the target is thrown again: on a single a new target; on the first target of a report double a new double; on the second target of a report double the first result stands and the double is repeated; in a simultaneous double the whole double is repeated. Only the referee decides whether a target was irregular, and this decision cannot be the subject of a complaint. Once NO BIRD has been clearly called, the target must not be shot at; a shooter who sees a wrong target should not shoot and should look at the referee.",
+      long_uk: "Кожна мішень компаку має летіти траєкторією, установленою для її машинки. Якщо суддя вважає, що мішень зійшла з траєкторії, має інший колір чи вилетіла з іншої машинки, він оголошує no bird і мішень повторюють: на поодинокій — нова мішень; на першій мішені репорту — новий дуплет; на другій мішені репорту результат першої зберігають і дуплет повторюють; в одночасному дуплеті повторюють увесь дуплет. Лише суддя вирішує, чи мішень була неправильною, і на це рішення не можна подати скаргу. Коли no bird чітко оголошено, стріляти по мішені не можна; якщо стрілець бачить неправильну мішень, краще не стріляти й подивитися на суддю.",
       uk_usage: "«неправильна мішень», «кривий виліт», «не та траєкторія».",
       coach_en: "That one was irregular, much too low. The referee will give you another.",
       coach_uk: "Ця була неправильна, надто низька. Суддя дасть вам іншу.",
       tip_uk: "Не перекладайте як «нерегулярна» — це калька; правильно «неправильна мішень».",
       related: ["no-bird", "broken-target", "field-rectangle", "referee"],
-      verify: true
+      verify: false, rule_refs: [{book: "compak", id: "ch20-target-no-bird-cases", ref: "Chapter 20, 20.3.2 Due to targets", page: 24}, {book: "compak", id: "ch20-target-no-bird-actions", ref: "Chapter 20, 20.3.2 Due to targets (table)", page: 24}, {book: "compak", id: "ch4-complaint-limits", ref: "Chapter 4, 4.2 Role of the jury, point 3 (complaints)", page: 10}, {book: "compak", id: "ch21-shooting-no-bird", ref: "Chapter 21, 21.3 Shooting a target declared \"NO BIRD\"", page: 25}]
     },
     {
       id: "broken-target",
@@ -832,46 +832,46 @@ window.ACADEMY.push({
       cat: "Rules & refereeing",
       short_en: "A target that breaks when it is launched; it is a no bird and the target (or the whole pair) is repeated.",
       short_uk: "Мішень, що розбилася під час вильоту; це no bird, і мішень (або весь дуплет) повторюють.",
-      long_en: "Sometimes a target breaks in the trap or comes out in pieces. Such a broken target is always a no bird, and the shooter receives a new one. In a pair, if one target is broken on release, the whole pair is normally repeated, and the rules specify what happens with any shot already fired. The shooter should not fire at a broken target; the referee calls «No bird» and the sequence continues with the repeated target.",
-      long_uk: "Іноді мішень розбивається в машинці або вилітає шматками. Така мішень — завжди no bird, і стрілець отримує нову. Якщо в дуплеті одна мішень розбилася під час вильоту, зазвичай повторюють увесь дуплет, а правила визначають, що робити з пострілом, який уже зроблено. По розбитій мішені стріляти не слід; суддя оголошує «No bird», і послідовність продовжується повтором мішені.",
+      long_en: "Sometimes a target breaks in the trap or comes out in pieces. Such a broken target is always a NO BIRD. On a single the shooter receives a new target; if the first target of a report double, or a target of a simultaneous double, is broken on release, the whole double is thrown again. If the second target of a report double is irregular, or the first target or its pieces break the second before the second shot, the result of the first target stands and the double is repeated to score the second. The shooter should not fire at a broken target; the referee calls «No bird» and the sequence continues.",
+      long_uk: "Іноді мішень розбивається в машинці або вилітає шматками. Така мішень — завжди no bird. На поодинокій стрілець отримує нову мішень; якщо на вильоті розбилася перша мішень репорту чи мішень одночасного дуплета, повторюють увесь дуплет. Якщо неправильною виявилася друга мішень репорту або перша мішень чи її уламки розбили другу ще до другого пострілу, результат першої мішені зберігають, а дуплет повторюють, щоб оцінити другу. По розбитій мішені стріляти не слід; суддя оголошує «No bird», і послідовність продовжується.",
       uk_usage: "«розбита на вильоті», «вилетіла шматками».",
       coach_en: "Broken on release, no bird. Repeat the pair.",
       coach_uk: "Розбилася на вильоті, no bird. Повторюємо дуплет.",
       tip_uk: "Не плутайте broken target (мішень, розбита на вильоті) з «broken» у значенні «влучив, розбив» — суддя в такому разі каже «Dead». Уточнюйте з контексту.",
       related: ["no-bird", "irregular-target", "report-pair", "simultaneous-pair"],
-      verify: true
+      verify: false, rule_refs: [{book: "compak", id: "ch20-target-no-bird-cases", ref: "Chapter 20, 20.3.2 Due to targets", page: 24}, {book: "compak", id: "ch20-target-no-bird-actions", ref: "Chapter 20, 20.3.2 Due to targets (table)", page: 24}]
     },
     {
       id: "malfunction",
       term: "Malfunction",
       aka: ["Gun malfunction", "Cartridge malfunction", "Misfire", "Failure to fire"],
       cat: "Rules & refereeing",
-      short_en: "A failure of the gun or cartridge not caused by the shooter; within the allowed limit the target is repeated.",
-      short_uk: "Відмова рушниці чи патрона не з вини стрільця; у межах дозволеного ліміту мішень повторюють.",
-      long_en: "A malfunction is when the gun fails to fire or a cartridge fails (no ignition, weak load, stuck in the chamber) without the shooter’s fault. The shooter must keep the gun pointed safely towards the field, not open it and wait for the referee to inspect it. If the referee confirms a malfunction, the target is repeated, within the limit allowed per round. If the shooter caused it (for example forgot to load, safety catch on, not closing the gun properly), the target is lost. The shooter may be allowed a short time to repair or replace the gun.",
-      long_uk: "Відмова — коли рушниця не стріляє чи патрон не спрацьовує (немає запалення, слабкий заряд, застряг у патроннику) не з вини стрільця. Стрілець має тримати рушницю безпечно спрямованою в поле, не відкривати її й чекати, доки суддя її огляне. Якщо суддя підтверджує відмову, мішень повторюють — у межах ліміту на раунд. Якщо причина в стрільці (наприклад, забув зарядити, запобіжник увімкнений, не до кінця закрив рушницю), мішень зараховують як промах. Стрільцеві можуть дати трохи часу, щоб полагодити чи замінити рушницю.",
+      short_en: "A failure of the gun or cartridge; the first one in a round is a no bird and the target is repeated.",
+      short_uk: "Відмова рушниці чи патрона; перша в раунді — no bird, і мішень повторюють.",
+      long_en: "A malfunction is when the gun fails to fire or a cartridge fails (no ignition, weak load, stuck in the chamber). The shooter must stay in place with the gun pointed down range and must not open it or touch the safety until the referee has inspected it; opening it first means the target or targets are scored zero. If the referee confirms a malfunction, the first incident in a round of 25 is a NO BIRD with a first warning (yellow card); for a second incident of the same type in that round the targets concerned are scored zero (red card). After a malfunction the shooter has two minutes to repair or replace the gun; with the owner’s and the referee’s agreement he may borrow a gun from a shooter outside his squad and carry on, otherwise the targets not shot are scored zero.",
+      long_uk: "Відмова — коли рушниця не стріляє чи патрон не спрацьовує (немає запалення, слабкий заряд, застряг у патроннику). Стрілець має залишатися на місці з рушницею, спрямованою в поле, і не відкривати її та не торкатися запобіжника, доки суддя її не огляне; якщо відкрити рушницю раніше, мішень (чи мішені) зараховують як нуль. Якщо суддя підтверджує відмову, перший такий випадок у раунді з 25 мішеней — no bird із першим попередженням (жовта картка); за другий випадок того самого типу в цьому раунді відповідні мішені зараховують як нулі (червона картка). Після відмови стрілець має дві хвилини, щоб полагодити чи замінити рушницю; за згодою власника й судді він може позичити рушницю в стрільця не зі своєї групи й продовжити, інакше невідстріляні мішені зараховують як нулі.",
       uk_usage: "«осічка», «відмова», «не вистрілила».",
       coach_en: "Don’t open the gun. Wait, the referee must check the malfunction.",
       coach_uk: "Не відкривайте рушницю. Чекайте, суддя має перевірити відмову.",
       tip_uk: "Найважливіше для перекладача — швидко передати «не відкривайте рушницю», бо інакше відмову не зарахують.",
       related: ["malfunction-limit", "referee", "no-bird"],
-      verify: true
+      verify: false, rule_refs: [{book: "compak", id: "ch20-gun-failure-principle", ref: "Chapter 20, 20.3.1 Due to guns or ammunition", page: 23}, {book: "compak", id: "ch21-malfunction", ref: "Chapter 21, 21.4 Malfunctioning gun or cartridge", page: 25}, {book: "compak", id: "ch24-malfunction-zero", ref: "Chapter 24, Safety rules (malfunction)", page: 27}, {book: "compak", id: "ch12-borrowing", ref: "Chapter 12, Borrowing a Shotgun", page: 13}]
     },
     {
       id: "malfunction-limit",
       term: "Malfunction limit",
-      aka: ["Two malfunctions per round", "Allowed malfunctions"],
+      aka: ["One malfunction per round", "Allowed malfunction"],
       cat: "Rules & refereeing",
-      short_en: "The maximum number of malfunctions per round for which the target is repeated; after that, targets are lost.",
-      short_uk: "Максимальна кількість відмов на раунд, за яких мішень повторюють; після цього мішені зараховують як промах.",
-      long_en: "FITASC rules allow a limited number of malfunctions per round without penalty, commonly two per round of 25, whether due to the gun or the ammunition. From the next malfunction in the same round the target is scored as lost, even if it was not the shooter’s fault. If the gun becomes unusable, the shooter may be allowed to change it within a short time or finish the round later according to the referee’s decision. The exact number and the time limits should be checked in the regulations in force.",
-      long_uk: "Правила FITASC дозволяють обмежену кількість відмов на раунд без покарання — зазвичай дві на раунд із 25 мішеней, незалежно від того, чи винна рушниця, чи патрони. Починаючи з наступної відмови в тому самому раунді мішень зараховують як промах, навіть якщо стрілець не винен. Якщо рушниця вийшла з ладу, стрільцеві можуть дозволити замінити її за короткий час або дострілити раунд пізніше за рішенням судді. Точну кількість і часові обмеження перевіряйте в чинних правилах.",
-      uk_usage: "«ліміт відмов», «дві осічки на серію».",
-      coach_en: "That’s your second malfunction this round: the next one counts as lost.",
-      coach_uk: "Це ваша друга відмова в цій серії: наступна буде промахом.",
-      tip_uk: "Не подавайте цифру як остаточну без перевірки чинних правил.",
+      short_en: "Only the first gun or cartridge malfunction in a round is repeated (with a warning); from the second one of the same type, targets are scored zero.",
+      short_uk: "Повторюють лише першу відмову рушниці чи патрона в раунді (з попередженням); починаючи з другої такого самого типу, мішені зараховують як нулі.",
+      long_en: "FITASC counts malfunctions per round of 25 targets. In Compak the first incident in a round is a NO BIRD and brings a first warning (yellow card); for a second incident of the same type in the same round there is no repeat: the targets concerned are scored ZERO (red card). FITASC Sporting works the same way: the first gun or ammunition incident in a round gives a warning and a No Bird, and later incidents for the same reason in that round are zero. If the gun becomes unusable, a Compak shooter has two minutes to repair or replace it.",
+      long_uk: "FITASC рахує відмови в межах раунду з 25 мішеней. У компаку перший випадок у раунді — no bird і перше попередження (жовта картка); за другий випадок того самого типу в тому самому раунді повтору немає: відповідні мішені зараховують як нулі (червона картка). У FITASC Sporting так само: перший випадок відмови зброї чи патрона в раунді — попередження й no bird, а подальші з тієї самої причини в цьому раунді — нулі. Якщо рушниця вийшла з ладу, стрілець компаку має дві хвилини, щоб полагодити чи замінити її.",
+      uk_usage: "«ліміт відмов», «одна осічка на серію».",
+      coach_en: "That was your malfunction for this round: the next one will be scored zero.",
+      coach_uk: "Це була ваша відмова в цій серії: наступна буде нулем.",
+      tip_uk: "Ліміт — одна відмова на раунд (регламенти FITASC Sporting і Compak). Не кажіть гостям про «дві осічки на серію».",
       related: ["malfunction", "compak-round"],
-      verify: true
+      verify: false, rule_refs: [{book: "compak", id: "ch20-gun-failure-principle", ref: "Chapter 20, 20.3.1 Due to guns or ammunition", page: 23}, {book: "compak", id: "ch21-penalty-table", ref: "Chapter 21, 21.5 Penalties", page: 25}, {book: "compak", id: "ch21-malfunction", ref: "Chapter 21, 21.4 Malfunctioning gun or cartridge", page: 25}, {book: "sporting", id: "ch6-nobird-gun-rules", ref: "Chapter 6, 6.5 \"NO BIRD\", 6.5.1 \"NO BIRD\" due to the weapon or ammunition", page: 10}]
     },
     {
       id: "wrong-target",
@@ -880,14 +880,14 @@ window.ACADEMY.push({
       cat: "Rules & refereeing",
       short_en: "A target from a trap or in an order that does not match the menu; it is treated as a no bird.",
       short_uk: "Мішень не з тієї машинки або не в тому порядку, що в меню; її вважають no bird.",
-      long_en: "If, because of an error by the referee, the release system or the trap, the shooter receives a target that is not the one on the menu (another trap, a single instead of a pair, a simultaneous instead of a report pair), the target is a no bird. The shooter may refuse it by not shooting; if he shoots, the rules state whether the result counts. The correct target is then released and the sequence continues. A shooter who shoots at targets in the wrong order on purpose is not protected.",
-      long_uk: "Якщо через помилку судді, системи запуску чи машинки стрілець отримує не ту мішень, що в меню (з іншої машинки, поодиноку замість дуплета, одночасний замість репорту), це no bird. Стрілець може відмовитися, не стріляючи; якщо ж стріляв — правила визначають, чи зараховують результат. Далі випускають правильну мішень, і послідовність продовжується. Стрілець, який навмисно стріляє не в тому порядку, такого захисту не має.",
+      long_en: "If, because of an error by the referee, the release system or the trap, the shooter receives a target from another machine than the one on the menu, it is a NO BIRD; the rules also give a NO BIRD when a machine of the same Compak throws a target by mistake during a single or a double. A target, or pieces of a target, coming from a neighbouring Compak never justify a NO BIRD. The correct target is then released and the sequence continues. Once NO BIRD has been called, the target must not be shot at.",
+      long_uk: "Якщо через помилку судді, системи запуску чи машинки стрілець отримує мішень не з тієї машинки, що в меню, це no bird; правила також дають no bird, коли машинка того самого майданчика помилково кидає мішень під час поодинокої чи дуплета. Мішень або її уламки із сусіднього майданчика ніколи не є підставою для no bird. Далі випускають правильну мішень, і послідовність продовжується. Коли no bird оголошено, стріляти по мішені не можна.",
       uk_usage: "«не та машинка», «не по меню».",
       coach_en: "That came from trap F, not C: no bird, we repeat it.",
       coach_uk: "Це вилетіло з машинки F, а не C: no bird, повторюємо.",
       tip_uk: "Порадьте клієнтам: якщо мішень не з тієї машинки, краще не стріляти й одразу сказати судді.",
       related: ["no-bird", "target-sequence", "release-system", "menu"],
-      verify: true
+      verify: false, rule_refs: [{book: "compak", id: "ch20-target-no-bird-cases", ref: "Chapter 20, 20.3.2 Due to targets", page: 24}, {book: "compak", id: "ch20-other-compak", ref: "Chapter 20, 20.3.2 Due to targets (targets from another Compak)", page: 24}, {book: "compak", id: "ch21-shooting-no-bird", ref: "Chapter 21, 21.3 Shooting a target declared \"NO BIRD\"", page: 25}]
     },
     {
       id: "shooting-out-of-turn",
@@ -903,23 +903,23 @@ window.ACADEMY.push({
       coach_uk: "Ніколи не стріляйте мішень сусіда, навіть якщо вона легка.",
       tip_uk: "—",
       related: ["shooting-order-on-stand", "penalty-scale", "loading-on-stand"],
-      verify: true
+      verify: false, rule_refs: [{book: "compak", id: "ch21-shooting-conduct", ref: "Chapter 21, 21.6 Rules of conduct, safety (when to shoot, loading)", page: 25}, {book: "compak", id: "ch24-dry-mounting", ref: "Chapter 24, Safety rules (simulated shooting, animals)", page: 27}, {book: "compak", id: "ch20-target-no-bird-cases", ref: "Chapter 20, 20.3.2 Due to targets", page: 24}, {book: "compak", id: "ch23-jury-sanctions", ref: "Chapter 23, Sanctions (reoffending)", page: 26}]
     },
     {
       id: "penalty-scale",
       term: "Penalties (Compak)",
       aka: ["Warning", "Target penalty", "Disqualification", "Sanctions"],
       cat: "Rules & refereeing",
-      short_en: "The usual escalation for rule breaches: a warning, then a lost target, then possible disqualification by the jury.",
-      short_uk: "Звичайна послідовність покарань: попередження, потім промах на мішені, далі можлива дискваліфікація журі.",
-      long_en: "For minor offences such as an incorrect gun position, late arrival on the stand or not following the referee’s instructions, the referee usually gives a warning first. A repeated offence in the same round or competition leads to a target being scored as lost. Serious or dangerous offences (unsafe gun handling, shooting out of turn, unsporting behaviour) can be reported to the jury, which may disqualify the shooter. Some offences, such as missing your squad, have specific penalties set in the rules.",
-      long_uk: "За незначні порушення — неправильне положення рушниці, запізнення на номер, невиконання вказівок судді — суддя зазвичай спершу робить попередження. Повторне порушення в тому самому раунді чи на змаганнях означає, що мішень зараховують як промах. Серйозні чи небезпечні порушення (небезпечне поводження зі зброєю, стрільба поза чергою, неспортивна поведінка) можуть передати журі, яке має право дискваліфікувати. Для деяких порушень, як-от запізнення до своєї групи, правила встановлюють окремі покарання.",
+      short_en: "The usual escalation: a warning (yellow card), then a red card with targets scored zero, then jury sanctions up to exclusion.",
+      short_uk: "Звичайна послідовність: попередження (жовта картка), потім червона картка з нулями на мішенях, далі санкції журі аж до виключення.",
+      long_en: "Under the Compak rules a first breach of a rule brings a warning shown with a yellow card. After that warning, any further breach on the same Compak brings a red card and the targets are scored by the penalty table: a single ZERO, a double on report ZERO / NO BIRD, a simultaneous double ZERO / ZERO. For a repeat offence or an attempt to influence the referee the jury may impose the loss of a target, the loss of a 25-target round or exclusion, and it may exclude at once a shooter who loses self-control or shoots at live animals. Some offences have their own penalties: a shooter late for his squad, for example, scores 25 zeros for that round.",
+      long_uk: "За правилами компаку перше порушення означає попередження з жовтою карткою. Після нього будь-яке наступне порушення на тому самому майданчику — червона картка, і мішені оцінюють за таблицею покарань: поодинока — нуль, репорт — нуль і no bird, одночасний дуплет — нуль і нуль. За повторне порушення чи спробу вплинути на суддю журі може зняти мішень, зняти раунд із 25 мішеней або виключити стрільця зі змагань, а того, хто втратив самоконтроль чи стріляв по живих тваринах, журі може виключити негайно. Для деяких порушень є окремі покарання: наприклад, стрілець, що запізнився до своєї групи, отримує 25 нулів за цей раунд.",
       uk_usage: "«попередження», «зняли мішень», «дискваліфікація».",
-      coach_en: "That’s a warning for gun position. Next time it’s a lost target.",
-      coach_uk: "Це попередження за положення рушниці. Наступного разу — промах.",
+      coach_en: "That’s a warning for taking too long to call. Next time it’s a zero.",
+      coach_uk: "Це попередження за затягування з командою. Наступного разу — нуль.",
       tip_uk: "Перекладайте рішення судді дослівно й нейтрально; не сперечайтеся від імені клієнта — для протесту існує процедура через журі.",
       related: ["vest-marker", "shooting-out-of-turn", "referee", "gun-position"],
-      verify: true
+      verify: false, rule_refs: [{book: "compak", id: "ch23-yellow-card", ref: "Chapter 23, Sanctions (warning)", page: 26}, {book: "compak", id: "ch21-penalty-table", ref: "Chapter 21, 21.5 Penalties", page: 25}, {book: "compak", id: "ch23-jury-sanctions", ref: "Chapter 23, Sanctions (reoffending)", page: 26}, {book: "compak", id: "ch9-late-squad", ref: "Chapter 9, Lateness of a Shooter (squad)", page: 13}]
     },
     {
       id: "electronic-scoreboard",
@@ -1087,20 +1087,20 @@ window.ACADEMY.push({
       explain_uk: "До шести: п’ятеро на номерах і один на позиції очікування."
     },
     {
-      q_en: "What is the vest marker for?",
-      q_uk: "Для чого потрібен маркер на жилеті?",
-      options: [ {en:"To show the shooter’s number", uk:"Щоб показати номер стрільця"}, {en:"To check that the gun stock is below the line until the target appears", uk:"Щоб перевірити, що приклад нижче лінії, доки не з’явиться мішень"}, {en:"To show the shooter’s category", uk:"Щоб показати категорію стрільця"}, {en:"To mark the team", uk:"Щоб позначити команду"} ],
+      q_en: "In Compak, where must the gun be when the shooter calls for the target?",
+      q_uk: "Де має бути рушниця в компаку, коли стрілець дає команду?",
+      options: [ {en:"Below a marker 25 cm under the shoulder", uk:"Нижче маркера 25 см під плечем"}, {en:"Anywhere: mounted or not, but every target is shot from the shoulder", uk:"Будь-де: вкинута чи ні, але по кожній мішені стріляють із плеча"}, {en:"Always mounted in the shoulder", uk:"Завжди вкинута в плече"}, {en:"On the hip", uk:"На стегні"} ],
       answer: 1,
-      explain_en: "It makes the FITASC low-gun ready position checkable for the referee.",
-      explain_uk: "Він дає судді змогу перевірити низьке положення рушниці за правилами FITASC."
+      explain_en: "The Compak rulebook leaves the gun position at the call free. The 25 cm vest marker and the low-gun rule belong to FITASC Sporting.",
+      explain_uk: "Регламент компаку залишає положення рушниці під час команди вільним. Маркер 25 см на жилеті й правило low gun стосуються FITASC Sporting."
     },
     {
       q_en: "A target comes out of the trap in pieces. What does the referee call?",
       q_uk: "Мішень вилітає з машинки шматками. Що оголошує суддя?",
       options: [ {en:"Lost", uk:"Промах"}, {en:"Dead", uk:"Влучно"}, {en:"No bird, the target is repeated", uk:"No bird, мішень повторюють"}, {en:"Warning", uk:"Попередження"} ],
       answer: 2,
-      explain_en: "A target broken on release is always a no bird and is repeated (in a pair, normally the whole pair).",
-      explain_uk: "Мішень, розбита на вильоті, — завжди no bird і її повторюють (у дуплеті зазвичай увесь дуплет)."
+      explain_en: "A target broken on release is always a no bird and is repeated; in a simultaneous double, or on the first target of a report double, the whole double is thrown again.",
+      explain_uk: "Мішень, розбита на вильоті, — завжди no bird, і її повторюють; в одночасному дуплеті чи на першій мішені репорту повторюють увесь дуплет."
     },
     {
       q_en: "Where may a Compak shooter load the gun?",
@@ -1148,9 +1148,9 @@ window.ACADEMY.push({
       note_uk: "Літери машинок не перекладаємо й не замінюємо кирилицею. «On report» — «на постріл», тобто репорт."
     },
     {
-      en: "Gun below the marker until you see the target.",
-      uk: "Приклад нижче маркера, доки не побачите мішень.",
-      note_uk: "Marker — смуга на жилеті. Це правило FITASC про положення рушниці; перекладайте коротко, як команду."
+      en: "In Compak you may call with the gun mounted, but shoot every target from the shoulder.",
+      uk: "У компаку можна давати команду з вкинутою рушницею, але по кожній мішені стріляйте з плеча.",
+      note_uk: "Маркер на жилеті й low gun — правило FITASC Sporting; у компаку положення рушниці під час команди вільне. Перекладайте коротко, як команду."
     },
     {
       en: "Load only on the stand, and only when it’s your turn.",
